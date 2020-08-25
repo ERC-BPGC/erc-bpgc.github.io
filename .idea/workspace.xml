@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8fa36c6-8bd0-44ba-99b8-e63ba8fd38a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/forty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/forty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/at.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/at.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/gp.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/led.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/led.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quad.png" beforeDir="false" afterPath="$PROJECT_DIR$/quad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tanmay.png" beforeDir="false" afterPath="$PROJECT_DIR$/tanmay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trotbot.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/trotbot.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/fontawesome-webfont.d7c63908.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/fontawesome-webfont.d7c63908.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/loader-big.a770b679.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/loader-big.a770b679.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/rw-widgets.792dcd18.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/jekyll-admin-0.10.1/lib/jekyll-admin/public/static/media/rw-widgets.792dcd18.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.7.0/gems/rack-1.6.13/contrib/rack_logo.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dSVPRqDKZ15bZZIIe4jz35xqoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8fa36c6-8bd0-44ba-99b8-e63ba8fd38a8" name="Default Changelist" comment="" />
+      <created>1592418456630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592418456630</updated>
+      <workItem from="1592418459979" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

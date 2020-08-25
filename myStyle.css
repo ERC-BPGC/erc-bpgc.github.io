@@ -1,0 +1,30 @@
+/* myStyle.css */
+body {
+ background-color: #221F3E;
+ color: #FFFFFF;
+text-align: center;
+}
+#head {
+font-size: 90cm; 
+color: white;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+#para1 {
+ background-color:navy;
+ color: white;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+
+#one{
+    text-align: left;
+    font-size: large;
+    color: white;
+}
+#swarm
+{
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGanDVsIRmeo&psig=AOvVaw38zwMyFM0bkQNrM8few5ki&ust=1598074311957000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj1z_HIq-sCFQAAAAAdAAAAABAP);
+background-image: image(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGanDVsIRmeo&psig=AOvVaw38zwMyFM0bkQNrM8few5ki&ust=1598074311957000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj1z_HIq-sCFQAAAAAdAAAAABAP);
+
+}
