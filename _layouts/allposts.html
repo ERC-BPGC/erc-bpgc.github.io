@@ -19,6 +19,7 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
+    {% assign site.posts=site.posts | sort:"weight" %}
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
 	  <header class="major">

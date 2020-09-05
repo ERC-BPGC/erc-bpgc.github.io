@@ -1,16 +1,17 @@
 ---
-title: PROJECTS
+title: Projects
 layout: landing
-description: 'Check out some of our previous work ^_^'
+description: 'The projects we are currently working on'
 image: led.jpg
 nav-menu: true
+weight: 1
 ---
 
 <!-- Main -->
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Major Projects:</h2>
@@ -23,10 +24,10 @@ nav-menu: true
 			width="100" height="100" alt="floppy disk" style="vertical-align:middle">
 		</a>
 		<!--<a href="archive.erc to be inserted">Click here or on the flopp disk to access archive
-		</a>-->
+		</a>->
 		</p>
 	</div>
-</section>
+</section>-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -89,26 +90,6 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="https://github.com/ERC-BPGC" class="image">
-			<img src="led.jpeg" alt="" data-position="25% 25%" />
-		</a>
-	<!--	<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>LED Globe</h3>
-				</header>
-				<p>Team Lead: Mohit Gupta <br>
-				LED Globe was the flagship display project from ERC for Quark 2019, the technical fest of BITS-Goa.
-				The globe consisted of 2, 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on a aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.The programming that was involved allowed one to take any any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
-				</p>	
-				<ul class="actions">
-					<li><a href="archive.html" class="button">Check out the Archives as well!!</a></li>
-				</ul>
-			</div>
-		</div>	
-		-->	
 	</section>
 </section>
 </div>
