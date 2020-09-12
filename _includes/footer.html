@@ -1,27 +1,6 @@
 <!-- Contact -->
-<section id="contact">
+<section id="contact" style="border-top:dashed 3px rgba(212,212,255,1) !important;">
 	<div class="inner">
-		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
-		</section>
-		<section class="split">
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
@@ -30,14 +9,7 @@
 				</div>
 			</section>
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
+				<div class="contact-method" style="margin-top:30px !important;">
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
@@ -59,7 +31,6 @@
 					</span>
 				</div>
 			</section>
-		</section>
 	</div>
 </section>
 
@@ -99,15 +70,15 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} 2020-2021</li>
+				<li>&#169 2020 Electronics and Robotics Club (ERC), BITS Goa</li>
 				
-				<li>Made with <span style="color:black;">&#128153;</span> and lots of coffee <span>:) </span> by <a href="https://dhamija-sridhar.github.io/" target="_blank">Sridhar Dhamija</a></li>
+				<li>Made with <span style="color:black;">&#128153;</span> and lots of coffee by <a href="https://dhamija-sridhar.github.io/" target="_blank">Sridhar Dhamija</a> and <a href="https://github.com/khanabduljawad" target="_blank"> Abdul Jawad Khan</a></li>
 
 			</ul>
-		</div>
+		</div>	
 	</footer>
 
-</div>
+
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>

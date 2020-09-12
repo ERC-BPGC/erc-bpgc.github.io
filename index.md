@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome the the ERC'
+landing-title: 'Welcome to the ERC'
 description: "We are the Robotics Club at BITS Goa"
 image:  
-author: null
+author: Abdul Jawad Khan
 show_tile: false
 ---

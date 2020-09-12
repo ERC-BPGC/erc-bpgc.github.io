@@ -41,9 +41,10 @@ weight: 2
 
 
 <h2 id="content">Core Team</h2>
+<div class="row">
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/atharv_sonwane.jpg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -53,8 +54,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/tanmay_bhonsale.png" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -64,8 +65,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/vedant_shah.jpg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -75,8 +76,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a></u></h3>
@@ -85,18 +86,18 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></u></h3>
+			<h3><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></h3>
 			Core Member
 		</center>
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0">Anirudha Shrinivas</a></u></h3>
@@ -106,8 +107,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b">Shivangi Gupta</a></u></h3>
@@ -117,8 +118,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a></u></h3>
@@ -128,8 +129,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vishal-singh-b51b52158/">Vishal Singh</a></u></h3>
@@ -139,8 +140,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185">Abhishek Dixit</a></u></h3>
@@ -148,11 +149,12 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
-<h2 id="content">Alumini</h2>
-
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+</div>
+<hr class="major">
+<h2 id="content">Alumni</h2>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/tejas_rane.jpeg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -162,8 +164,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/harshal_deshpande.jpg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -175,8 +177,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/rishikesh_vanarase.jpeg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -188,8 +190,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/prathmesh_thorwe.jpeg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -200,8 +202,8 @@ weight: 2
 	</div>
 
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/aditya_phopale.jpeg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -211,8 +213,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/mohit_gupta.jpeg" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -222,8 +224,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/">Ojit Mehta</a></u></h3>
@@ -232,8 +234,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<img src="img/people/amogh_dabholkar.png" alt="asleep come back later" height="55%" width="55%">
 			<br>
@@ -244,8 +246,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<!-- <img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
@@ -256,8 +258,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<!-- <img src="img/people/kapi_mehta.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
@@ -268,8 +270,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<!-- <img src="img/people/jaideep.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
@@ -280,8 +282,8 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u$ 12u$(medium)">
-		<p><hr>
+	<div class="4u 12u$(medium)">
+		<p>
 		<center>
 			<!-- <img src="img/people/mihir_dharmadhikari.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
@@ -291,5 +293,5 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
+</div>
 </div>
