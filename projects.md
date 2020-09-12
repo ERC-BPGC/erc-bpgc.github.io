@@ -1,8 +1,8 @@
 ---
 title: Projects
 layout: landing
-description: 'The projects we are currently working on'
-image: led.jpg
+description: 'Our robots, current and past'
+image: "img/projects/led.jpg"
 nav-menu: true
 weight: 1
 ---
@@ -33,7 +33,7 @@ weight: 1
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/ERC-BPGC/Trotbot" class="image">
-			<img src="trotbot.jpeg" alt="" data-position="center center" />
+			<img src="img/projects/trotbot.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +54,7 @@ weight: 1
 	</section>
 	<section>
 		<a href="https://github.com/MohitGupta007/Quadruped_BPGC" class="image">
-			<img src="quad.png" alt="" data-position="top center" />
+			<img src="img/projects/quad.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -74,7 +74,7 @@ weight: 1
 	</section>
 	<section>
 		<a href="https://github.com/rmvanarse/modbot2" class="image">
-			<img src="mod.jpeg" alt="" data-position="25% 25%" />
+			<img src="img/projects/mod.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
