@@ -39,8 +39,13 @@ weight: 2
 	<hr>
 </center>
 
+<center>
+<header class="major">
+<h1 id="content">Core Team</h1>
+</header>
+</center>
 
-<h2 id="content">Core Team</h2>
+<h2>Coordinators</h2>
 <div class="row">
 
 	<div class="4u 12u$(medium)">
@@ -79,6 +84,56 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/Ashutosh_Gupta_MediaHead.jpeg" alt="asleep come back later" height="55%" width="55%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/">Ashutosh Gupta</a></u></h3>
+			Media Head 2020-2021
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/Pranav_Goyal_MediaHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/">Pranav Goyal</a></u></h3>
+			Media Head 2020-2021
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/Yash_Jangir_InventoryHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/">Yash Jangir</a></u></h3>
+			Inventory Head 2020-2021
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/Cheriyan_Homey_InventoryHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/">Cheriyan Homey</a></u></h3>
+			Inventory Head 2020-2021
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2>Core Members</h2>
+
+<div class="row">
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/bidwai.jpg" alt="asleep come back later" height="55%" width="55%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a></u></h3>
 			Core Member
@@ -150,8 +205,17 @@ weight: 2
 		</p>
 	</div>
 </div>
+
 <hr class="major">
-<h2 id="content">Alumni</h2>
+
+<center>
+<header class="major">
+<h1 id="content">Alumni</h1>
+</header>
+</center>
+
+<h2> 2019-20 </h2>
+
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<p>
@@ -233,7 +297,11 @@ weight: 2
 		</center>
 		</p>
 	</div>
+</div>
 
+<h2> 2018-19 </h2>
+
+<div class="row">
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
