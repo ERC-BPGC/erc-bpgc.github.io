@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Outreach
-description: 'Past community programs and resources'
+title: News
+description: 'What is going on and has happened'
 nav-menu: true
-image: "img/misc/breadboard.jpg"
-weight: 3
+image: gp.jpeg
+weight: 4
 ---
 
 <section id="one">

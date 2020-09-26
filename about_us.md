@@ -51,7 +51,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/atharv_sonwane.jpg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/atharv_sonwane1.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://threewisemonkeys-as.github.io">Atharv Sonwane</a></u></h3>
 			Chief Coordinator 2020-2021
@@ -62,7 +62,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tanmay_bhonsale.png" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/tanmay_bhonsale1.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.instructables.com/member/DangerousTim/">Tanmay Bhonsale</a></u></h3>
 			Research Head 2020-2021
@@ -73,7 +73,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vedant_shah.jpg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/vedant_shah1.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://github.com/veds12">Vedant Shah</a></u></h3>
 			Teaching Head 2020-2021
@@ -84,7 +84,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/Ashutosh_Gupta_MediaHead.jpeg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/ashutosh_gupta.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/">Ashutosh Gupta</a></u></h3>
 			Media Head 2020-2021
@@ -95,18 +95,20 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/Pranav_Goyal_MediaHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/pranav_goyal.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/">Pranav Goyal</a></u></h3>
 			Media Head 2020-2021
 		</center>
 		</p>
 	</div>
+	<div class="4u 12u$(medium)">
+	</div>
 
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/Yash_Jangir_InventoryHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/yash_jangir.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/">Yash Jangir</a></u></h3>
 			Inventory Head 2020-2021
@@ -117,12 +119,16 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/Cheriyan_Homey_InventoryHead.jpg" alt="asleep come back later" height="55%" width="55%">
+			<img src="img/people/cheriyan_homey.jpg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/">Cheriyan Homey</a></u></h3>
 			Inventory Head 2020-2021
 		</center>
 		</p>
+	</div>
+	<div class="4u 12u$(medium)">
+	</div>
+	<div class="4u 12u$(medium)">
 	</div>
 </div>
 
@@ -144,6 +150,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></h3>
 			Core Member
@@ -154,6 +161,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+		    <img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0">Anirudha Shrinivas</a></u></h3>
 			Core Member
@@ -165,6 +173,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b">Shivangi Gupta</a></u></h3>
 			Core Member
@@ -176,6 +185,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a></u></h3>
 			Core Member
@@ -187,6 +197,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vishal-singh-b51b52158/">Vishal Singh</a></u></h3>
 			Core Member
@@ -198,6 +209,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185">Abhishek Dixit</a></u></h3>
 			Core Member
@@ -291,6 +303,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/">Ojit Mehta</a></u></h3>
 			Alumni
@@ -317,6 +330,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<!-- <img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-kulkarni-6070b6135/">Mihir Kulkarni</a></u></h3>
@@ -329,6 +343,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<!-- <img src="img/people/kapi_mehta.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u>Kapi Ketan Mehta</u></h3>
@@ -341,6 +356,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="70%" width="70%">
 			<!-- <img src="img/people/jaideep.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u>G V S S Jaideep Ram</u></h3>
