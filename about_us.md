@@ -33,7 +33,7 @@ weight: 2
 		</header>
 
 <center>
-	<img src="img/people/2019-2020.jpeg" alt="asleep come back later" height="55%" width="55%">
+	<img src="img/people/2019-2020.jpeg" alt="asleep come back later" height="75%" width="75%">
 	<br>
 	<h3>2019-2020</h3>
 	<hr>
@@ -150,9 +150,9 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mohit_chaudhari.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></h3>
+			<h3><u><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></u></h3>
 			Core Member
 		</center>
 		</p>
@@ -173,7 +173,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shivangi_gupta.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b">Shivangi Gupta</a></u></h3>
 			Core Member
@@ -185,7 +185,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/eash_vrudhula.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a></u></h3>
 			Core Member
@@ -246,7 +246,7 @@ weight: 2
 			<img src="img/people/harshal_deshpande.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://hardesh.github.io/">Harshal Deshpande</a></u></h3>
-			Teaching Head 2019-2020
+			Teaching Head 2019-2020<br>
 			Research Intern at ARL, UNR
 		</center>
 		</p>
@@ -259,7 +259,7 @@ weight: 2
 			<img src="img/people/rishikesh_vanarase.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/">Rishikesh Vanarse</a></u></h3>
-			Sub Coordinator 2019-2020
+			Sub Coordinator 2019-2020<br>
 			Research Intern at ARL, UNR
 		</center>
 		</p>
@@ -321,7 +321,7 @@ weight: 2
 			<img src="img/people/amogh_dabholkar.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://amoghdabholkar.github.io/">Amogh Dabholkar</a></u></h3>
-			Chief Coordinator 2018-2019
+			Chief Coordinator 2018-2019<br>
 			Computer Vision Research Fellow at DreamVu
 		</center>
 		</p>
@@ -334,7 +334,7 @@ weight: 2
 			<!-- <img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-kulkarni-6070b6135/">Mihir Kulkarni</a></u></h3>
-			Sub Coordinator 2018-2019
+			Sub Coordinator 2018-2019<br>
 			PhD Student at University Of Nevada, Reno
 		</center>
 		</p>
@@ -347,7 +347,7 @@ weight: 2
 			<!-- <img src="img/people/kapi_mehta.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u>Kapi Ketan Mehta</u></h3>
-			Mechanical Head 2018-2019
+			Mechanical Head 2018-2019<br>
 			MS Student at Johns Hopkins.
 		</center>
 		</p>
@@ -356,11 +356,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/jaideep_ram.jpg" alt="asleep come back later" height="75%" width="75%">
 			<!-- <img src="img/people/jaideep.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u>G V S S Jaideep Ram</u></h3>
-			Technical Head 2018-2019
+			Technical Head 2018-2019<br>
 			Research Intern at University of Lisbon.
 		</center>
 		</p>
@@ -373,7 +373,7 @@ weight: 2
 			<!-- <img src="img/people/mihir_dharmadhikari.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-dharmadhikari/">Mihir Dharmadhikari</a></u></h3>
-			Research Head 2018-2019
+			Research Head 2018-2019<br>
 			PhD Student at University of Nevada, Reno.
 		</center>
 		</p>
