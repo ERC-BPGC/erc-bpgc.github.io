@@ -51,7 +51,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/atharv_sonwane1.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/atharv_sonwane.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://threewisemonkeys-as.github.io">Atharv Sonwane</a></u></h3>
 			Chief Coordinator 2020-2021
@@ -62,7 +62,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tanmay_bhonsale1.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tanmay_bhonsale.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.instructables.com/member/DangerousTim/">Tanmay Bhonsale</a></u></h3>
 			Research Head 2020-2021
@@ -73,7 +73,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vedant_shah1.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vedant_shah.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://github.com/veds12">Vedant Shah</a></u></h3>
 			Teaching Head 2020-2021
@@ -161,7 +161,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-		    <img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+		    <img src="img/people/anirudha_shrinivas.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0">Anirudha Shrinivas</a></u></h3>
 			Core Member
@@ -212,6 +212,42 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185">Abhishek Dixit</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/aadhar_sharma.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aadharsharma218/">Aadhar Sharma</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/advait_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/">Advait Kulkarni</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/shambhavi_singh.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shambhavi-singh-14a5b11b0/">Shambhavi Singh</a></u></h3>
 			Core Member
 		</center>
 		</p>
