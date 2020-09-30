@@ -30,6 +30,13 @@ weight: 1
 </section>-->
 
 <!-- Two -->
+
+<div class="inner">
+<header class="major">
+<h1>Completed</h1>
+</header>
+</div>
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/ERC-BPGC/Trotbot" class="image">
