@@ -108,9 +108,9 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/yash_jangir.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/cheriyan_homey.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/">Yash Jangir</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/">Cheriyan Homey</a></u></h3>
 			Inventory Head 2020-2021
 		</center>
 		</p>
@@ -119,16 +119,12 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/cheriyan_homey.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/yash_jangir.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/">Cheriyan Homey</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/">Yash Jangir</a></u></h3>
 			Inventory Head 2020-2021
 		</center>
 		</p>
-	</div>
-	<div class="4u 12u$(medium)">
-	</div>
-	<div class="4u 12u$(medium)">
 	</div>
 </div>
 
@@ -139,10 +135,21 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aditya_bidwai.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/advait_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/">Advait Kulkarni</a></u></h3>
+			Media Head 2019-2020
+		</center>
+		</p>
+	</div>
+	
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/eash_vrudhula.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a></u></h3>
+			Media Head 2019-2020
 		</center>
 		</p>
 	</div>
@@ -153,6 +160,17 @@ weight: 2
 			<img src="img/people/mohit_chaudhari.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a></u></h3>
+			Inventory Head 2019-2020
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/aditya_bidwai.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a></u></h3>
 			Core Member
 		</center>
 		</p>
@@ -169,7 +187,6 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -181,23 +198,10 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/eash_vrudhula.jpg" alt="asleep come back later" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a></u></h3>
-			Core Member
-		</center>
-		</p>
-	</div>
-
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vishal_singh.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vishal-singh-b51b52158/">Vishal Singh</a></u></h3>
 			Core Member
@@ -205,11 +209,10 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/abhishek_dixit.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185">Abhishek Dixit</a></u></h3>
 			Core Member
@@ -217,30 +220,16 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aadhar_sharma.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aadhar_sharma.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aadharsharma218/">Aadhar Sharma</a></u></h3>
 			Core Member
 		</center>
 		</p>
 	</div>
-
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/advait_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/">Advait Kulkarni</a></u></h3>
-			Core Member
-		</center>
-		</p>
-	</div>
-
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -253,13 +242,23 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/rohan_kunjir.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/">Rohan Kunjir</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a>Shaktivelan Kartikeyan</a></u></h3>
 			Core Member
 		</center>
 		</p>
@@ -283,11 +282,11 @@ weight: 2
 			<img src="img/people/tejas_rane.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tejas-rane-359590149/">Tejas Rane</a></u></h3>
-			Chief Coordinator 2019-2020
+			Chief Coordinator 2019-2020<br>
+			Intern at RBCCPS, IISc Bangalore
 		</center>
 		</p>
 	</div>
-
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -301,7 +300,6 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -314,7 +312,6 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -325,7 +322,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -360,7 +356,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -402,7 +397,6 @@ weight: 2
 		</p>
 	</div>
 
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -414,7 +408,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -427,7 +420,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 
 	<div class="4u 12u$(medium)">
 		<p>

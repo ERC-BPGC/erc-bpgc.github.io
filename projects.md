@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Our robots, current and past'
-image: "img/projects/led.jpg"
+image: "img/projects/led_hexapad.jpg"
 nav-menu: true
 weight: 1
 ---
@@ -33,14 +33,15 @@ weight: 1
 
 <div class="inner">
 <header class="major">
-<h1>Completed</h1>
+<h1>Ongoing</h1>
 </header>
 </div>
 
 <section id="two" class="spotlights">
+
 	<section>
-		<a href="https://github.com/ERC-BPGC/Trotbot" class="image">
-			<img src="img/projects/trotbot.jpeg" alt="" data-position="center center" />
+		<a class="image">
+			<img src="img/projects/trotbot.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,16 +53,62 @@ weight: 1
 						To deliver packages from one location to another in offices, construction sites,etc
 						Can be teleoperated to nearby locations using the camera feed
 						The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
-						Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.	</p>
+						Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.
+						</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/Trotbot" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	
 	<section>
-		<a href="https://github.com/MohitGupta007/Quadruped_BPGC" class="image">
-			<img src="img/projects/quad.png" alt="" data-position="top center" />
+		<a class="image">
+			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GenNav</h3>
+				</header>
+				<p>Team Lead: Atharv Sonwane <br>
+				Gennav aims to create a general purpose python library that can be used for path planning in various robotics settings. It will have a collection of path planning algorithms, motion controllers along with various utilities to handle different methods of path optimisation, environment representation and eventually a geometry module to handle the underlying computations. Currently focused on the 2D path planning aspect of navigation.Rather than writing a big new python file for each new path planning algorithm, we could build on already defined utilities and primitives. This would be a big help to anyone working on any robot with autonomous navigation capabilities in the future. All they would need to do is implement the robot specific code and use gennav for the planning, control and optimization heavy lifting.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/gennav" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>EchoSLAM</h3>
+				</header>
+				<p>Team Lead: Tanmay Bhonsale and Aadhar Sharma <br>
+				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<div class="inner">
+<header class="major">
+<h1>Completed</h1>
+</header>
+</div>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/quadruped.png" alt="Project in progress XD" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,9 +126,10 @@ weight: 1
 			</div>
 		</div>
 	</section>
+
 	<section>
-		<a href="https://github.com/rmvanarse/modbot2" class="image">
-			<img src="img/projects/mod.jpeg" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="img/projects/modbot.jpeg" alt="Project in progress XD" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -89,12 +137,88 @@ weight: 1
 					<h3>Modbot</h3>
 				</header>
 				<p>Team Lead: Prathmesh Thorwe <br>
-				Modular Robots are a system of individual modules capable of linking to each other to form reconfigurable structures suited for different purposes. This is useful when the task/environment of a bot is not known beforehand.
-				The project aims to design, simulate and manufacture such modules with maximum DOFs possible for a highly flexible and robust system.
+				Modular Robots are a system of individual modules capable of linking to each other to form reconfigurable structures suited for different purposes. Using this method, a single system can be used for a wide range of applications. This is useful when the task/environment of a bot is not known beforehand.
+				The project aimed to design, simulate and manufacture such modules with maximum DOFs possible for a highly flexible and robust system. A single module was manufactured capable of teleoperation. An Arduino Nano and an ESP32 were used to control the input to the respective motors.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/rmvanarse/modbot2" class="button">GitHub Repo</a></li>
 				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Swarmbots</h3>
+				</header>
+				<p>Team Lead: Rishikesh Vanarse <br>
+				Swarm robotics is an approach to coordinate multiple robots as a system, which consists of large numbers of mostly simple physical robots.The project aimed at the task to automate a decentralized swarm of autonomous mobile robots to carry out different tasks. The bots do not communicate with each other, and perform tasks through 'collective decision making' algorithms.
+				Multiple simulations have been created to perform tasks such as line formation, circle formation, etc. Along with this evaluation metrics were attached to each task to monitor the quality.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/rmvanarse/swarmbots" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/sketcher.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sketcher</h3>
+				</header>
+				<p>
+				Sketcher was one of the display projects displayed in Quark 2020 by the ERC. It is basically a full-scale prototype of a polargraph-a fully automated drawing machine capable of rendering one image into multiple artistic forms on paper. It  supports multiple drawing styles such as stipples, travelling salesperson, D2S etc.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Sketcher" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/led_hexapad.jpg" alt="Project in progress XD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LED Hexapad</h3>
+				</header>
+				<p>
+				The LED Hexapad was an interactive display piece for Quark 2020. At its heart it is a MIDI controller with six touch sensitive pads, that can trigger a wide range of virtual instruments on a computer. In addition to this, each hexagonally shaped pad is illuminated by NeoPixel LEDs which show dynamic animations that react to human touch.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/led_globe.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LED Globe</h3>
+				</header>
+				<p>Team Lead: Mohit Gupta <br>
+				LED Globe was the flagship display project from ERC for Quark 2019, the technical fest of BITS-Goa.
+				The globe consisted of two 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on an aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.
+				The programming that was involved allowed one to take any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
+				</p>
 			</div>
 		</div>
 	</section>
