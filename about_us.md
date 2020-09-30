@@ -139,7 +139,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/bidwai.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aditya_bidwai.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a></u></h3>
 			Core Member
@@ -252,6 +252,18 @@ weight: 2
 		</center>
 		</p>
 	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/rohan_kunjir.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/">Rohan Kunjir</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
 </div>
 
 <hr class="major">
@@ -276,13 +288,14 @@ weight: 2
 		</p>
 	</div>
 
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/harshal_deshpande.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rishikesh_vanarase.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://hardesh.github.io/">Harshal Deshpande</a></u></h3>
-			Teaching Head 2019-2020<br>
+			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/">Rishikesh Vanarse</a></u></h3>
+			Sub Coordinator 2019-2020<br>
 			Research Intern at ARL, UNR
 		</center>
 		</p>
@@ -292,10 +305,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rishikesh_vanarase.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/harshal_deshpande.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/">Rishikesh Vanarse</a></u></h3>
-			Sub Coordinator 2019-2020<br>
+			<h3><u><a href="https://hardesh.github.io/">Harshal Deshpande</a></u></h3>
+			Teaching Head 2019-2020<br>
 			Research Intern at ARL, UNR
 		</center>
 		</p>
@@ -331,7 +344,8 @@ weight: 2
 			<img src="img/people/mohit_gupta.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-sushil-gupta-7a3821184/">Mohit Gupta</a></u></h3>
-			Research Head 2019-2020
+			Research Head 2019-2020<br>
+			Thesis at CSIR-NIO
 		</center>
 		</p>
 	</div>
@@ -343,6 +357,19 @@ weight: 2
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/">Ojit Mehta</a></u></h3>
 			Alumni
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/sanket_yannuwar.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a>Sanket Yannuwar</a></u></h3>
+			Alumni<br>
+			Intern at Divgi TorqTransfer Systems
 		</center>
 		</p>
 	</div>
@@ -366,21 +393,33 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
-			<!-- <img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="55%" width="55%"> -->
+			<img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/mihir-kulkarni-6070b6135/">Mihir Kulkarni</a></u></h3>
+			<h3><u><a href="https://sites.google.com/goa.bits-pilani.ac.in/mihir-kulkarni/">Mihir Kulkarni</a></u></h3>
 			Sub Coordinator 2018-2019<br>
 			PhD Student at University Of Nevada, Reno
 		</center>
 		</p>
 	</div>
 
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/jaideep_ram.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u>G V S S Jaideep Ram</u></h3>
+			Technical Head 2018-2019<br>
+			Research Intern at University of Lisbon.
+		</center>
+		</p>
+	</div>
+	
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
-			<!-- <img src="img/people/kapi_mehta.jpg" alt="asleep come back later" height="55%" width="55%"> -->
 			<br>
 			<h3><u>Kapi Ketan Mehta</u></h3>
 			Mechanical Head 2018-2019<br>
@@ -389,24 +428,11 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/jaideep_ram.jpg" alt="asleep come back later" height="75%" width="75%">
-			<!-- <img src="img/people/jaideep.jpg" alt="asleep come back later" height="55%" width="55%"> -->
-			<br>
-			<h3><u>G V S S Jaideep Ram</u></h3>
-			Technical Head 2018-2019<br>
-			Research Intern at University of Lisbon.
-		</center>
-		</p>
-	</div>
 
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
-			<!-- <img src="img/people/mihir_dharmadhikari.jpg" alt="asleep come back later" height="55%" width="55%"> -->
+			<img src="img/people/mihir_dharmadhikari.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-dharmadhikari/">Mihir Dharmadhikari</a></u></h3>
 			Research Head 2018-2019<br>
