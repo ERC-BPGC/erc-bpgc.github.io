@@ -3,6 +3,6 @@ layout: page
 title: Handbook
 description: 'A guide for all things robotics'
 nav-menu: true
-image: guide.png
+image: null
 weight: 5
 ---

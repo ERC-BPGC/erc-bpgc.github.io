@@ -402,7 +402,7 @@ weight: 2
 		<center>
 			<img src="img/people/jaideep_ram.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u>G V S S Jaideep Ram</u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/jaideep-g-v-s-s-09b75215a">G V S S Jaideep Ram</a></u></h3>
 			Technical Head 2018-2019<br>
 			Research Intern at University of Lisbon.
 		</center>
@@ -414,7 +414,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u>Kapi Ketan Mehta</u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/kapi-ketan-m-a71b3692/">Kapi Ketan Mehta</a></u></h3>
 			Mechanical Head 2018-2019<br>
 			MS Student at Johns Hopkins.
 		</center>
