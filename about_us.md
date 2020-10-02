@@ -349,10 +349,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ojit_mehta.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/">Ojit Mehta</a></u></h3>
-			Alumni
+			Thesis at Air Lab,CMU
 		</center>
 		</p>
 	</div>
@@ -363,7 +363,6 @@ weight: 2
 			<img src="img/people/sanket_yannuwar.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a>Sanket Yannuwar</a></u></h3>
-			Alumni<br>
 			Intern at Divgi TorqTransfer Systems
 		</center>
 		</p>
@@ -429,6 +428,18 @@ weight: 2
 			<h3><u><a href="https://www.linkedin.com/in/mihir-dharmadhikari/">Mihir Dharmadhikari</a></u></h3>
 			Research Head 2018-2019<br>
 			PhD Student at University of Nevada, Reno.
+		</center>
+		</p>
+	</div>
+
+		<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/yash_pandit.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/yash-pandit-2929b7144/">Yash Pandit</a></u></h3>
+			Digital Verification Engineer , Analog Devices Bangalore
+			
 		</center>
 		</p>
 	</div>
