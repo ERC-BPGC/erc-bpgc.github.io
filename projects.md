@@ -49,12 +49,12 @@ weight: 1
 					<h3>Trotbot</h3>
 				</header>
 				<p>Team Lead: Harshal Deshpande <br>
-						Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
-						To deliver packages from one location to another in offices, construction sites,etc
-						Can be teleoperated to nearby locations using the camera feed
-						The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
-						Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.
-						</p>
+				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
+				To deliver packages from one location to another in offices, construction sites etc.
+				It can also be teleoperated to nearby locations using the camera feed.
+				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
+				Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.
+				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/Trotbot" class="button">GitHub Repo</a></li>
 				</ul>
@@ -96,6 +96,81 @@ weight: 1
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" class="button">GitHub Repo</a></li>
 				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>RoManOv</h3>
+				</header>
+				<p>Team Lead: Abhishek Dixit <br>
+				Lalalalala
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/RoManOV" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/spiderbot.png" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>SpiderBot</h3>
+				</header>
+				<p>Team Lead: Ashutosh Gupta <br>
+				Project SpiderBot started in Feb 2020, is a hexapod with six independent legs, each with three degrees of freedom. One advantage of legged robots is that it can climb over obstacles larger than itself. Hexapod walking robots also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
+				The purpose of this robot is to make a multi terrain robot that can traverse through the most difficult terrains and study various walking gaits and controllers to find the optimum one for this kind of system.<br>
+				Currently we are working on a quadruped model and testing various controllers and walking gaits on it, before we move on to the hexapod to get a more thorough understanding of the proces.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Ashutosh781/quadruped-simulink" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/carborone.jpeg" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Carborone</h3>
+				</header>
+				<p>Team Lead: Vinay Sabarad <br>
+				This project aims to Create a model of Autonomous drone car. Which can analyse the environment and take decisions using OpenCV and decide whether to move on the ground or fly to avoid an obstacle and decide its own trajectory . It’s main aim is to improve the applications of a car on the ground so that it could  travel to even the most difficult places than it would be possible for a normal car. We also aim to have a power efficient version of drone car that can fly for longer durations and make it more accessible by safely going to different locations.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/4825vinay/Project-Carborone" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/ball-drone.png" alt="Project in progress XD" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ball-Drone</h3>
+				</header>
+				<p>Team Lead: Cheriyan Homey <br>
+				Ball drone is a ‘uni-rotor’ VTOL drone that is maneuvered using four control surfaces. The drone is capable of performing all the tasks done by a conventional quadcopter using less power. The spherical shell also helps in protecting the inner hardware and rotating propeller from any immediate threat. . The spherical shell will be 3D printed and the flight controller will be made with an ESP32 microcontroller and a MPU 9250. A CAD model and a simulator of the drone on Simscape multibody is made.
+				</p>
 			</div>
 		</div>
 	</section>
@@ -149,7 +224,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/swarmbots.png" alt="Project in progress XD" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -188,7 +263,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/led_hexapad.jpg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/led_hexapad2.jpeg" alt="Project in progress XD" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
