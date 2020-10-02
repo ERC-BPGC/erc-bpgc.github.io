@@ -142,7 +142,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/carborone.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -153,7 +153,7 @@ weight: 1
 				This project aims to Create a model of Autonomous drone car. Which can analyse the environment and take decisions using OpenCV and decide whether to move on the ground or fly to avoid an obstacle and decide its own trajectory . It’s main aim is to improve the applications of a car on the ground so that it could  travel to even the most difficult places than it would be possible for a normal car. We also aim to have a power efficient version of drone car that can fly for longer durations and make it more accessible by safely going to different locations.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/4825vinay/Project-Carborone" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -224,7 +224,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/swarmbots.png" alt="Project in progress XD" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

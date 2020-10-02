@@ -3,7 +3,7 @@ layout: page
 title: News
 description: 'What is going on and has happened'
 nav-menu: true
-image: null
+image: "img/misc/news.png"
 weight: 4
 ---
 
