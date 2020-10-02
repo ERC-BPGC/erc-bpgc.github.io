@@ -256,7 +256,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/Sakthivelan_Karthikeyan.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a>Shaktivelan Kartikeyan</a></u></h3>
 			Core Member
