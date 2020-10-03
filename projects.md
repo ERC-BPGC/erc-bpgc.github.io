@@ -102,7 +102,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/romanov.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -110,10 +110,11 @@ weight: 1
 					<h3>RoManOv</h3>
 				</header>
 				<p>Team Lead: Abhishek Dixit <br>
-				Lalalalala
+				We aim to build a robotic manipulator that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Deep Learning and Computer Vision. RoManOV is also expected to analyse the surrounding circumstances and plan the assigned tasks suitably taking into account the various constraints.
+				The arm has been constructed and modelled on Gazebo, a ROS-based simulator. Further, the kinematics and motion planning are currently under-work on MoveIt.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/RoManOV" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/abhidxt299/RoManOV_Automation/" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
