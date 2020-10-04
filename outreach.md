@@ -20,10 +20,14 @@ weight: 3
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
-  height: 10px;
-  line-height: 0px;
+  font-size: 1.5 rem;
+  height: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   transition: 0.4s;
+  white-space: normal;
+  word-wrap: break-word;
 }
 .active, .accordion:hover {
   background-color: white;
@@ -62,7 +66,7 @@ weight: 3
          This course is to provide a basic idea about the feild of Robotics and different areas involved in it. The content of the course includes Mechanical aspects in Robotics, Arduino programming and sensor, Python, Intro to ROS, etc.
          </ul> </p>
         </div><br><br>
-        <button class="accordion" >QSTP (Quark SUmmer Term Project</button>
+        <button class="accordion" >QSTP (Quark SUmmer Term Project)</button>
              <div class="panel">
          <p><ul>
          <li><a href="https://github.com/abhidxt299/QSTP-Introduction-to-Mechatronics"><h3>Introducion to Mechatronics</h3></a></li>
