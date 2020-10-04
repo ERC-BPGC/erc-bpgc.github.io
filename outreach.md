@@ -29,6 +29,14 @@ weight: 3
   background-color: white;
   color: #242943;
 }
+@media screen and (min-width: 651px) {
+  .accordion {
+    font-size: 20px;
+  }}
+  @media screen and (max-width: 650px) {
+  .accordion {
+    font-size: 10px;
+  }
 .panel {
   padding: 0 18px;
   display: none;
