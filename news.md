@@ -19,14 +19,11 @@ weight: 4
 				<h2 style="margin-bottom:10px !important;">ERC @ CTE Techweekend 2020</h2>
                 <h4 style="padding:0px !important; margin:0px !important;">03/10/2020</h4>
 				<p>
-				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
-				To deliver packages from one location to another in offices, construction sites etc.
-				It can also be teleoperated to nearby locations using the camera feed.
+				Tech Talk by Mihir Kulkarni on 3rd October 7pm to 8pm. He will be talking about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" class="button">Hackathon</a></li>
+					<li><a class="button">Resources</a></li>
                     <li><a href="https://fest.bpgc-cte.org/" class="button">CTE Techweekend</a></li>
-                    <li><a href="https://github.com/ERC-BPGC/Trotbot" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -38,14 +35,11 @@ weight: 4
 				<h2 style="margin-bottom:10px !important;">ERC @ CTE Techweekend 2020</h2>
                 <h4 style="padding:0px !important; margin:0px !important;">03/10/2020</h4>
 				<p>
-				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
-				To deliver packages from one location to another in offices, construction sites etc.
-				It can also be teleoperated to nearby locations using the camera feed.
+				ERC in Collaboration with CTE brings you - the Intelligent Robotics Hackathon. The task will challenge you to code up a robot that can display intelligent behavior. We hope the task will bring out the best of your technical and logical thinking abilities. 
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" class="button" target="blank">Hackathon</a></li>
+					<li><a href="https://github.com/ERC-BPGC/Robotics_Hackathon" class="button" target="blank">Hackathon</a></li>
                     <li><a href="https://fest.bpgc-cte.org/" class="button" target="blank">CTE Techweekend</a></li>
-                    <li><a href="https://github.com/ERC-BPGC/Trotbot" class="button" target="blank">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
