@@ -20,11 +20,10 @@ weight: 3
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px
+  font-size: 20px;
   height: 15px;
   display: flex;
   transition: 0.4s;
-  white-space: normal;
   line-height: 20px;
 }
 .active, .accordion:hover {
@@ -38,6 +37,8 @@ weight: 3
   @media screen and (max-width: 650px) {
   .accordion {
     font-size: 10px;
+    height: 15px;
+    line-height: 5px;
   }
 .panel {
   padding: 0 18px;
