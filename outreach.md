@@ -21,10 +21,9 @@ weight: 3
   text-align: left;
   outline: none;
   font-size: 20px;
-  height: 15px;
-  display: flex;
+  height: 20px;
   transition: 0.4s;
-  line-height: 20px;
+  line-height: 0px;
 }
 .active, .accordion:hover {
   background-color: white;
