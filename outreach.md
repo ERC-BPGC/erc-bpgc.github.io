@@ -20,14 +20,12 @@ weight: 3
   border: none;
   text-align: left;
   outline: none;
-  font-size: 1.5 rem;
+  font-size: 20px
   height: 15px;
   display: flex;
-  justify-content: center;
-  align-items: center;
   transition: 0.4s;
   white-space: normal;
-  word-wrap: break-word;
+  line-height: 20px;
 }
 .active, .accordion:hover {
   background-color: white;
