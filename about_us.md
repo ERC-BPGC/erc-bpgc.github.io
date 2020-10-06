@@ -75,7 +75,7 @@ weight: 2
 		<center>
 			<img src="img/people/vedant_shah.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://github.com/veds12" target="blank">Vedant Shah</a></u></h3>
+			<h3><u><a href="https://veds12.github.io/" target="blank">Vedant Shah</a></u></h3>
 			Teaching Head 2020-2021
 		</center>
 		</p>
