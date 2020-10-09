@@ -56,7 +56,7 @@ weight: 1
 				Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,7 +75,7 @@ weight: 1
 				Gennav aims to create a general purpose python library that can be used for path planning in various robotics settings. It will have a collection of path planning algorithms, motion controllers along with various utilities to handle different methods of path optimisation, environment representation and eventually a geometry module to handle the underlying computations. Currently focused on the 2D path planning aspect of navigation.Rather than writing a big new python file for each new path planning algorithm, we could build on already defined utilities and primitives. This would be a big help to anyone working on any robot with autonomous navigation capabilities in the future. All they would need to do is implement the robot specific code and use gennav for the planning, control and optimization heavy lifting.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/gennav" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/gennav" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -94,7 +94,7 @@ weight: 1
 				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -114,7 +114,7 @@ weight: 1
 				The arm has been constructed and modelled on Gazebo, a ROS-based simulator. Further, the kinematics and motion planning are currently under-work on MoveIt.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/abhidxt299/RoManOV_Automation/" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/abhidxt299/RoManOV_Automation/" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -135,7 +135,7 @@ weight: 1
 				Currently we are working on a quadruped model and testing various controllers and walking gaits on it, before we move on to the hexapod to get a more thorough understanding of the proces.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Ashutosh781/quadruped-simulink" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/Ashutosh781/quadruped-simulink" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -154,7 +154,7 @@ weight: 1
 				This project aims to Create a model of Autonomous drone car. Which can analyse the environment and take decisions using OpenCV and decide whether to move on the ground or fly to avoid an obstacle and decide its own trajectory . It’s main aim is to improve the applications of a car on the ground so that it could  travel to even the most difficult places than it would be possible for a normal car. We also aim to have a power efficient version of drone car that can fly for longer durations and make it more accessible by safely going to different locations.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/4825vinay/Project-Carborone" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/4825vinay/Project-Carborone" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -197,7 +197,7 @@ weight: 1
 				Different gaits will be tested on the quadruped. A dynamic stabilizing strategy will be developed. Later, environment tracking using realsense depth camera will be developed.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/MohitGupta007/Quadruped_BPGC" class="button">Github Repo</a></li>
+					<li><a href="https://github.com/MohitGupta007/Quadruped_BPGC" target="blank" class="button">Github Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -217,7 +217,7 @@ weight: 1
 				The project aimed to design, simulate and manufacture such modules with maximum DOFs possible for a highly flexible and robust system. A single module was manufactured capable of teleoperation. An Arduino Nano and an ESP32 were used to control the input to the respective motors.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/rmvanarse/modbot2" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/rmvanarse/modbot2" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -237,7 +237,7 @@ weight: 1
 				Multiple simulations have been created to perform tasks such as line formation, circle formation, etc. Along with this evaluation metrics were attached to each task to monitor the quality.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/rmvanarse/swarmbots" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/rmvanarse/swarmbots" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -256,7 +256,7 @@ weight: 1
 				Sketcher was one of the display projects displayed in Quark 2020 by the ERC. It is basically a full-scale prototype of a polargraph-a fully automated drawing machine capable of rendering one image into multiple artistic forms on paper. It  supports multiple drawing styles such as stipples, travelling salesperson, D2S etc.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Sketcher" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/Sketcher" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -275,7 +275,7 @@ weight: 1
 				The LED Hexapad was an interactive display piece for Quark 2020. At its heart it is a MIDI controller with six touch sensitive pads, that can trigger a wide range of virtual instruments on a computer. In addition to this, each hexagonally shaped pad is illuminated by NeoPixel LEDs which show dynamic animations that react to human touch.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>

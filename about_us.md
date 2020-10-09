@@ -19,9 +19,11 @@ weight: 2
 <!-- Content -->
 <div class="row">
 	<div class="12u 12u$(small)">
-    	<p> The ERC is diverse group of students based in BITS Goa, all sharing a love of robotics. Through various projects we explore all facets of robotics ranging from mechanical design, electronics, automation to a combination of all three. We also hold community programs to promote robotics within the student community as well working on various display projects.</p>
+    	<p>The Electronics and Robotics Club (ERC) of BITS Goa unites BITSians with a plethora of interests and aims who just might have only one thing in common, a passion for robotics or even just electronics in general. ERC is one of the oldest clubs of BITS Goa and it was started by Mr. Arjun Bideshi in 2008. Since then it has evolved into a platform to learn and experiment various aspects of engineering and to apply them in robotics.</p>
 
-		<p> Apart from electronics lovers we also welcome mechanical and coding enthusiasts or just about anyone interested in doing robotics regardless of experience or skill level. If you want to join us or even just learn more, feel free to mail at </p>
+		<p>This Club provides an amazing platform for not just budding electronics engineers but also mechanical enthusiasts and dynamic coders. Juniors work under the guidance of able team leaders along with a wide range of advanced lab equipment like 3D printers, plasma cutters, PCB milling machines and laser cutter.</p>
+
+		<p>Over the years we used to participate in different robotics competitions across the country. But recently we have shifted our focus to projects with challenging research problem statements and applications to learn and explore about the field in detail. Each year during the technical fest of BITS Goa - Quark, we put up some of our best projects up for display for everyone to admire and in each subsequent year we try to outperform ourselves. Some of our notable projects include Trotbot, Quadruped, LED Globe, Sketcher and many more.</p>
 	</div>
 </div>
 
