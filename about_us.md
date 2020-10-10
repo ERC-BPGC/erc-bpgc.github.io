@@ -19,11 +19,13 @@ weight: 2
 <!-- Content -->
 <div class="row">
 	<div class="12u 12u$(small)">
-    	<p>The Electronics and Robotics Club (ERC) of BITS Goa unites BITSians with a plethora of interests and aims who just might have only one thing in common, a passion for robotics or even just electronics in general. ERC is one of the oldest clubs of BITS Goa and it was started by Mr. Arjun Bideshi in 2008. Since then it has evolved into a platform to learn and experiment various aspects of engineering and to apply them in robotics.</p>
+    	<p>The Electronics and Robotics Club (ERC) of BITS Goa is a diverse group of students with interests ranging from electronics to machine learning to mechanical design. Founded in 2008, it is one of the oldest clubs on campus and has evolved into a platform to learn and experiment with various aspects of science and engineering and to apply them in robotics.</p>
 
-		<p>This Club provides an amazing platform for not just budding electronics engineers but also mechanical enthusiasts and dynamic coders. Juniors work under the guidance of able team leaders along with a wide range of advanced lab equipment like 3D printers, plasma cutters, PCB milling machines and laser cutter.</p>
+		<p>This Club is a great place not only for electronics engineers but also mechanical enthusiasts and dynamic coders. We are organised into multiple teams working on a wide range of projects including hardware design, open source libraries and even full robots from scratch!  Members are also encouraged to exchange experiences and expertise and we hold weekly discussion sessions, demonstrations and presentations for exactly that.</p>
 
-		<p>Over the years we used to participate in different robotics competitions across the country. But recently we have shifted our focus to projects with challenging research problem statements and applications to learn and explore about the field in detail. Each year during the technical fest of BITS Goa - Quark, we put up some of our best projects up for display for everyone to admire and in each subsequent year we try to outperform ourselves. Some of our notable projects include Trotbot, Quadruped, LED Globe, Sketcher and many more.</p>
+		<p>Over the years, the Club has shifted its focus from competing in robotics competitions to taking on more research oriented projects and problem statements with real world applications. With robotics being a rapidly changing field, we strive to keep up with the latest developments in both research and industry while also learning about various subfields in detail. Apart from this, we frequently work on exhibition projects to display during the annual technical fest on the campus and other events throughout the year.</p>
+
+		<p>We are open to anyone with a general interest in engineering and who wants to explore robotics, so feel free to get in touch with us.</p>
 	</div>
 </div>
 
@@ -258,7 +260,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/Sakthivelan_Karthikeyan.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sakthivelan_karthikeyan.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a>Shaktivelan Kartikeyan</a></u></h3>
 			Core Member
@@ -434,7 +436,7 @@ weight: 2
 		</p>
 	</div>
 
-		<div class="4u 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/yash_pandit.jpeg" alt="asleep come back later" height="75%" width="75%">
@@ -446,4 +448,179 @@ weight: 2
 		</p>
 	</div>
 </div>
+</div>
+
+<h2> 2017-18 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Abhimanyu</a></u></h3>
+			Chief Coordinator 2017-2018
+		</center>
+		</p>
+	</div>
+	
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/shubham_chavan.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/svc97/" target="blank">Shubham Chavan</a></u></h3>
+			Sub Coordinator 2017-2018<br>
+			Masters in Robotics & Control, Columbia
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/abhishek_moitra.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/abhishek-moitra-52696798/" target="blank">Abhishek Moitra</a></u></h3>
+			Teaching Head 2017-2018<br>
+			Doctoral student, Yale University
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Rohan Godiyal</a></u></h3>
+			Research Head 2017-2018
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Smit Rajguru</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Nikhil Khedekar</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Utkarsh Sarawgi</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/shubham_kumar.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shubham-kumar-1410" target="blank">Shubham Kumar</a></u></h3>
+			Software Developer at Publicis Sapient
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> 2016-17 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Anand Dugad</a></u></h3>
+			Chief Coordinator 2016-2017
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Sanjeev Murthy</a></u></h3>
+			Sub Coordinator 2016-2017
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Shubhan Patni</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Parva Patel</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Tejas Zodage</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Akshay</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Ananyo</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
 </div>
