@@ -68,7 +68,7 @@ weight: 3
          This course is to provide a basic idea about the feild of Robotics and different areas involved in it. The content of the course includes Mechanical aspects in Robotics, Arduino programming and sensor, Python, Intro to ROS, etc.
          </ul> </p>
         </div><br><br>
-        <button class="accordion" >QSTP (Quark SUmmer Term Project)<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px;"></i></button>
+        <button class="accordion" >QSTP <i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px;"></i></button>
              <div class="panel">
          <p><ul>
          <li><h3>Introducion to Mechatronics <a href="https://github.com/abhidxt299/QSTP-Introduction-to-Mechatronics" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
