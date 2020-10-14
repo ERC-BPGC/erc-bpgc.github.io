@@ -491,10 +491,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rohan_godiyal.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Rohan Godiyal</a></u></h3>
-			Research Head 2017-2018
+			<h3><u><a href="https://rohangodiyal.wixsite.com/rohan-godiyal" target="blank">Rohan Godiyal</a></u></h3>
+			Research Head 2017-2018<br>
+			WCB Robotics Pvt Ltd
 		</center>
 		</p>
 	</div>
@@ -502,10 +503,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/smit_rajguru.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Smit Rajguru</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.facebook.com/smit.rajguru/" target="blank">Smit Rajguru</a></u></h3>
+			Interned at IBM<br>
+			Silicon Valley Startup
 		</center>
 		</p>
 	</div>
@@ -516,7 +518,7 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Nikhil Khedekar</a></u></h3>
-			Core Member
+			<br>Core Member
 		</center>
 		</p>
 	</div>
@@ -524,10 +526,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/utkarsh_sarawgi.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Utkarsh Sarawgi</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/utkarshsarawgi" target="blank">Utkarsh Sarawgi</a></u></h3>
+			MS Student and Researcher at MIT
 		</center>
 		</p>
 	</div>
@@ -550,10 +552,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/anand_dugad.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Anand Dugad</a></u></h3>
-			Chief Coordinator 2016-2017
+			<h3><u><a href="https://www.linkedin.com/in/anand-dugad" target="blank">Anand Dugad</a></u></h3>
+			Chief Coordinator 2016-2017<br>
+			Senior Datapath Design Engineer, WD
 		</center>
 		</p>
 	</div>
@@ -564,7 +567,7 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Sanjeev Murthy</a></u></h3>
-			Sub Coordinator 2016-2017
+			<br>Sub Coordinator 2016-2017
 		</center>
 		</p>
 	</div>
@@ -575,7 +578,7 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Shubhan Patni</a></u></h3>
-			Core Member
+			<br>Core Member
 		</center>
 		</p>
 	</div>
