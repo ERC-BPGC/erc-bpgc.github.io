@@ -295,7 +295,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rishikesh_vanarase.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rishikesh_vanarase.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/" target="blank">Rishikesh Vanarse</a></u></h3>
 			Sub Coordinator 2019-2020<br>
