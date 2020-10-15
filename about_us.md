@@ -495,7 +495,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://rohangodiyal.wixsite.com/rohan-godiyal" target="blank">Rohan Godiyal</a></u></h3>
 			Research Head 2017-2018<br>
-			WCB Robotics Pvt Ltd
+			Mechanical Design Engineer, WCB Robotics
 		</center>
 		</p>
 	</div>
@@ -564,10 +564,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sanjeev_murthy.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Sanjeev Murthy</a></u></h3>
-			<br>Sub Coordinator 2016-2017
+			<h3><u><a href="https://www.linkedin.com/in/sanjeev-murthy" target="blank">Sanjeev Murthy</a></u></h3>
+			Sub Coordinator 2016-2017<br>
+			FPGA Engineer, Apple
 		</center>
 		</p>
 	</div>
@@ -586,10 +587,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/parva_patel.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Parva Patel</a></u></h3>
-			Core Member
+			<h3><u><a href="mailto:parva@ezquant.in" target="blank">Parva Patel</a></u></h3>
+			Founder EzQuant
 		</center>
 		</p>
 	</div>
@@ -610,7 +611,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Akshay</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Akshay Sancheti</a></u></h3>
 			Core Member
 		</center>
 		</p>
@@ -621,7 +622,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Ananyo</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Ananyo Rao</a></u></h3>
 			Core Member
 		</center>
 		</p>
