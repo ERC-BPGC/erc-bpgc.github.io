@@ -12,6 +12,10 @@ state: Goa
 zip_code: 403726
 country:  India
 
+google_analytics:
+  - UA-173174352-4
+  - auto
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
