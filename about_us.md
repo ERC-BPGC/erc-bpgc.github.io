@@ -322,7 +322,8 @@ weight: 2
 			<img src="img/people/prathmesh_thorwe.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/prathmesh-thorwe-b76469153/" target="blank">Prathmesh Thorwe</a></u></h3>
-			Technical Head 2019-2020
+			Technical Head 2019-2020<br>
+			Research Intern at EmbedOS
 		</center>
 		</p>
 	</div>
@@ -333,7 +334,8 @@ weight: 2
 			<img src="img/people/aditya_phopale.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-phopale-666a7515b/" target="blank">Aditya Phopale</a></u></h3>
-			Mechanical Head 2019-2020
+			Mechanical Head 2019-2020<br>
+			Research Thesis at IIT Madras
 		</center>
 		</p>
 	</div>
@@ -598,10 +600,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tejas_zodage.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Tejas Zodage</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/tejas-zodage-4abb1412a" target="blank">Tejas Zodage</a></u></h3>
+			Masters in Robotics and Research, CMU
 		</center>
 		</p>
 	</div>
@@ -620,10 +622,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ananyo_rao.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Ananyo Rao</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/ananyo-rao" target="blank">Ananyo Rao</a></u></h3>
+			Cloud Computing Engineer, Qubole
 		</center>
 		</p>
 	</div>
