@@ -458,10 +458,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/abhimanyu.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Abhimanyu</a></u></h3>
-			Chief Coordinator 2017-2018
+			<h3><u><a href="https://www.linkedin.com/in/abhimanyu-singh-21b017105" target="blank">Abhimanyu</a></u></h3>
+			Chief Coordinator 2017-2018<br>
+			Researcher at Biorobotics Lab, CMU
 		</center>
 		</p>
 	</div>
@@ -517,10 +518,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/nikhil_khedekar.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Nikhil Khedekar</a></u></h3>
-			<br>Core Member
+			<h3><u><a href="https://www.linkedin.com/in/nkhedekar/" target="blank">Nikhil Khedekar</a></u></h3>
+			PhD Student in Autonomous Robots Lab<br>
+			University of Nevada, Reno
 		</center>
 		</p>
 	</div>
@@ -578,10 +580,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubhan_patni.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Shubhan Patni</a></u></h3>
-			<br>Core Member
+			<h3><u><a href="https://in.linkedin.com/in/shubhan-patni-45b91010b" target="blank">Shubhan Patni</a></u></h3>
+			PhD at Humanoid Robotics Lab<br>
+			CTU Prague
 		</center>
 		</p>
 	</div>
@@ -611,10 +614,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/akshay_sancheti.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Akshay Sancheti</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/akshaysancheti007" target="blank">Akshay Sancheti</a></u></h3>
+			ZS Associates, Pune
 		</center>
 		</p>
 	</div>
