@@ -277,7 +277,7 @@ weight: 2
 </header>
 </center>
 
-<h2> 2019-20 </h2>
+<h2> Batch of 2017 </h2>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -375,7 +375,7 @@ weight: 2
 	</div>
 </div>
 
-<h2> 2018-19 </h2>
+<h2> Batch of 2016 </h2>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -452,7 +452,7 @@ weight: 2
 </div>
 </div>
 
-<h2> 2017-18 </h2>
+<h2> Batch of 2015 </h2>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -550,7 +550,7 @@ weight: 2
 	</div>
 </div>
 
-<h2> 2016-17 </h2>
+<h2> Batch of 2014 </h2>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -629,6 +629,136 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ananyo-rao" target="blank">Ananyo Rao</a></u></h3>
 			Cloud Computing Engineer, Qubole
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> Batch of 2013 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/pranav_pal_lekhi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in/pranav-pal-lekhi-5b8440105" target="blank">Pranav Pal Lekhi</a></u></h3>
+			Chief Coordinator 2015-2016<br>
+			Systems Engineer, Qualcomm, Colorado
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Tanvi Jadhav</a></u></h3>
+			<br>Sub Coordinator 2015-2016<br>
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Shubham Sarwate</a></u></h3>
+			<br>Teaching Head 2015-2016<br>
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Apurv Hazard</a></u></h3>
+			Robocon Team Captain 2015-2016<br>
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Aayush Attri</a></u></h3>
+			Robocon Coordinator 2015-2016<br>
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Shubham Maheshwari</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Sudeep Mishra</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/mandar_pradhan.png" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/mpradhan20" target="blank">Mandar Pradhan</a></u></h3>
+			Data scientist, Ellie Mae
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/edwin_mascarenhas.png" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/edwin-mascarenhas" target="blank">Edwin Mascarenhas</a></u></h3>
+			Architect at Nvidia
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Vedangi Pathak</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="http://www.linkedin.com/in" target="blank">Vichar Shroff</a></u></h3>
+			Core Member
 		</center>
 		</p>
 	</div>
