@@ -676,11 +676,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/apurv_hajare.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Apurv Hazard</a></u></h3>
+			<h3><u><a href="https://in.linkedin.com/in/apurvhajare" target="blank">Apurv Hajare</a></u></h3>
 			Robocon Team Captain 2015-2016<br>
-			
+			Co-founder at Dcodecare
 		</center>
 		</p>
 	</div>
@@ -700,10 +700,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_maheshwari.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Shubham Maheshwari</a></u></h3>
-			Core Member
+			<h3><u><a href="http://www.instagram.com/shubham7maheshwari" target="blank">Shubham Maheshwari</a></u></h3>
+			Co-founder of Dessert brand,<br>
+			Winterbite
 		</center>
 		</p>
 	</div>
