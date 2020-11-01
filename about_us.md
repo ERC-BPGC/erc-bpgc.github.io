@@ -45,11 +45,11 @@ weight: 2
 
 <center>
 <header class="major">
-<h1 id="content">Core Team</h1>
+<h1 id="content">Current Team</h1>
 </header>
 </center>
 
-<h2>Coordinators</h2>
+
 <div class="row">
 
     <div class="4u 12u$(medium)">
@@ -130,11 +130,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-</div>
-
-<h2>Core Members</h2>
-
-<div class="row">
 
 	<div class="4u 12u$(medium)">
 		<p>
@@ -256,7 +251,8 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
+	</div>
+    <div class="row">
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -690,7 +686,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Aayush Attri</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/aayush-attri-05472194" target="blank">Aayush Attri</a></u></h3>
 			Robocon Coordinator 2015-2016<br>
 			
 		</center>
@@ -714,8 +710,9 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Sudeep Mishra</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/sudeep-mishra-756a4692" target="blank">Sudeep Mishra</a></u></h3>
+			Core Member<br>
+			Design Engineer at Silicon Labs
 		</center>
 		</p>
 	</div>
@@ -726,7 +723,7 @@ weight: 2
 			<img src="img/people/mandar_pradhan.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mpradhan20" target="blank">Mandar Pradhan</a></u></h3>
-			Data scientist, Ellie Mae
+			Data scientist, Ellie Mae<br><br>
 		</center>
 		</p>
 	</div>
@@ -737,7 +734,7 @@ weight: 2
 			<img src="img/people/edwin_mascarenhas.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/edwin-mascarenhas" target="blank">Edwin Mascarenhas</a></u></h3>
-			Architect at Nvidia
+			Architect at Nvidia<br><br>
 		</center>
 		</p>
 	</div>
@@ -748,7 +745,7 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in" target="blank">Vedangi Pathak</a></u></h3>
-			Core Member
+			Core Member<br><br>
 		</center>
 		</p>
 	</div>
@@ -758,8 +755,9 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Vichar Shroff</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/vichar-shroff" target="blank">Vichar Shroff</a></u></h3>
+			Core Member<br>
+			Co-founder at BurnCal
 		</center>
 		</p>
 	</div>
