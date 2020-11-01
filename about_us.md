@@ -662,7 +662,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Shubham Sarwate</a></u></h3>
+			<h3><u><a target="blank">Shubham Sarwate</a></u></h3>
 			<br>Teaching Head 2015-2016<br>
 			
 		</center>
@@ -684,10 +684,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aayush_attri.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aayush-attri-05472194" target="blank">Aayush Attri</a></u></h3>
 			Robocon Coordinator 2015-2016<br>
+			Fund Manager, Attri Brothers Capital
 			
 		</center>
 		</p>
@@ -744,7 +745,7 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="http://www.linkedin.com/in" target="blank">Vedangi Pathak</a></u></h3>
+			<h3><u><a target="blank">Vedangi Pathak</a></u></h3>
 			Core Member<br><br>
 		</center>
 		</p>
