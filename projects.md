@@ -122,7 +122,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/spiderbot.png" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/spiderbot.jpg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
