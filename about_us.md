@@ -269,11 +269,7 @@ weight: 2
 
 <hr class="major">
 
-<center>
-<header class="major">
-<h1 id="content">Alumni</h1>
-</header>
-</center>
+
 
 <h2> Batch of 2017 </h2>
 
