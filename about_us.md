@@ -99,7 +99,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/pranav_goyal.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/pranav_goyal.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/" target="blank">Pranav Goyal</a></u></h3>
 			Media Head 2020-2021
@@ -119,7 +119,9 @@ weight: 2
 		</center>
 		</p>
 	</div>
+	<div>
 
+	<div class="row">
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
