@@ -562,10 +562,22 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/harsh_mavani.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/harsh-mavani-518732b5" target="blank">Harsh Mavani</a></u></h3>
+			Sub Coordinator 2016-2017<br>
+			Software Developer Engineer, Flipkart
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
 			<img src="img/people/sanjeev_murthy.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sanjeev-murthy" target="blank">Sanjeev Murthy</a></u></h3>
-			CTE Coordinator 2016-2017<br>
+			Teaching Head 2016-2017<br>
 			FPGA Engineer, Apple
 		</center>
 		</p>
@@ -577,8 +589,7 @@ weight: 2
 			<img src="img/people/shubhan_patni.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/shubhan-patni-45b91010b" target="blank">Shubhan Patni</a></u></h3>
-			PhD at Humanoid Robotics Lab<br>
-			CTU Prague
+			PhD at Humanoid Robotics Lab, CTU Prague
 		</center>
 		</p>
 	</div>
@@ -597,7 +608,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tejas_zodage.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tejas_zodage.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tejas-zodage-4abb1412a" target="blank">Tejas Zodage</a></u></h3>
 			Masters in Robotics and Research, CMU
@@ -660,9 +671,9 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a target="blank">Shubham Sarwate</a></u></h3>
-			<br>Teaching Head 2015-2016<br>
-			
+			<h3><u><a href="https://www.linkedin.com/in/shubham-sarwate/" target="blank">Shubham Sarwate</a></u></h3>
+			Teaching Head 2015-2016<br>
+			Software Engineer, Cisco
 		</center>
 		</p>
 	</div>
@@ -687,7 +698,6 @@ weight: 2
 			<h3><u><a href="https://www.linkedin.com/in/aayush-attri-05472194" target="blank">Aayush Attri</a></u></h3>
 			Robocon Coordinator 2015-2016<br>
 			Fund Manager, Attri Brothers Capital
-			
 		</center>
 		</p>
 	</div>
@@ -710,7 +720,6 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sudeep-mishra-756a4692" target="blank">Sudeep Mishra</a></u></h3>
-			Core Member<br>
 			Design Engineer at Silicon Labs
 		</center>
 		</p>
@@ -722,7 +731,7 @@ weight: 2
 			<img src="img/people/mandar_pradhan.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mpradhan20" target="blank">Mandar Pradhan</a></u></h3>
-			Data scientist, Ellie Mae<br><br>
+			Data scientist, Ellie Mae
 		</center>
 		</p>
 	</div>
@@ -733,7 +742,7 @@ weight: 2
 			<img src="img/people/edwin_mascarenhas.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/edwin-mascarenhas" target="blank">Edwin Mascarenhas</a></u></h3>
-			Architect at Nvidia<br><br>
+			Architect at Nvidia
 		</center>
 		</p>
 	</div>
@@ -743,8 +752,8 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a target="blank">Vedangi Pathak</a></u></h3>
-			Core Member<br><br>
+			<h3><u><a href="https://www.linkedin.com/in/vedangi-pathak-439a3b85/" target="blank">Vedangi Pathak</a></u></h3>
+			Research Assistant, Uni. of British Columbia
 		</center>
 		</p>
 	</div>
@@ -755,7 +764,6 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vichar-shroff" target="blank">Vichar Shroff</a></u></h3>
-			Core Member<br>
 			Co-founder at BurnCal
 		</center>
 		</p>
