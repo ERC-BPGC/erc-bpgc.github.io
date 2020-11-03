@@ -565,7 +565,7 @@ weight: 2
 			<img src="img/people/sanjeev_murthy.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sanjeev-murthy" target="blank">Sanjeev Murthy</a></u></h3>
-			Sub Coordinator 2016-2017<br>
+			CTE Coordinator 2016-2017<br>
 			FPGA Engineer, Apple
 		</center>
 		</p>
