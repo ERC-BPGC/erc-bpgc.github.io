@@ -669,7 +669,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_sarwate.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shubham-sarwate/" target="blank">Shubham Sarwate</a></u></h3>
 			Teaching Head 2015-2016<br>
@@ -750,10 +750,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vedangi_pathak.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vedangi-pathak-439a3b85/" target="blank">Vedangi Pathak</a></u></h3>
-			Research Assistant, Uni. of British Columbia
+			PHD Student, University of British Columbia
 		</center>
 		</p>
 	</div>
