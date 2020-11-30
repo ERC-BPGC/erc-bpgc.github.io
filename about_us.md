@@ -717,10 +717,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vedangi_pathak.png" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/sudeep-mishra-756a4692" target="blank">Sudeep Mishra</a></u></h3>
-			Design Engineer at Silicon Labs
+			<h3><u><a href="https://www.linkedin.com/in/vedangi-pathak-439a3b85/" target="blank">Vedangi Pathak</a></u></h3>
+			PHD Student, University of British Columbia
 		</center>
 		</p>
 	</div>
@@ -750,10 +750,38 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vedangi_pathak.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/vedangi-pathak-439a3b85/" target="blank">Vedangi Pathak</a></u></h3>
-			PHD Student, University of British Columbia
+			<h3><u><a href="https://www.linkedin.com/in/sudeep-mishra-756a4692" target="blank">Sudeep Mishra</a></u></h3>
+			Design Engineer at Silicon Labs
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/vichar_shroff.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/vichar-shroff" target="blank">Vichar Shroff</a></u></h3>
+			Co-founder at BurnCal
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> Batch of 2012 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/maitreya_naik.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/maitreyanaik/" target="blank">Maitreya Naik</a></u></h3>
+			Chief Coordinator 2014-2015<br>
+			Robotics Engineer, Uber ATG
 		</center>
 		</p>
 	</div>
@@ -763,8 +791,68 @@ weight: 2
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/vichar-shroff" target="blank">Vichar Shroff</a></u></h3>
-			Co-founder at BurnCal
+			<h3><u><a href="https://www.linkedin.com/in/rahulbhola1/" target="blank">Rahul Bhola</a></u></h3>
+			Sub Coordinator 2014-2015<br>
+			Software Development Engineer, Lenskart
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/souryendu_das.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/souryendu-das" target="blank">Souryendu Das</a></u></h3>
+			Teaching Head 2014-2015<br>
+			PhD Student, Texas A&M University
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sharad-maheshwari-b85626ba/" target="blank">Sharad Maheshwari</a></u></h3>
+			Robocon Team Captain 2014-2015<br>
+			MS Autonomous Systems, EIT Digital
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aum-jadhav/" target="blank">Aum Jadhav</a></u></h3>
+			Robocon Coordinator 2014-2015<br>
+			Autonomy Engineer, Uber ATG
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/soham_patkar.png" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sohampatkar/" target="blank">Soham Patkar</a></u></h3>
+			Robotics Autonomy Engineer<br>
+			SkySpecs, Ann Arbor, Michigan
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/madhurag/" target="blank">Madhura Gandhi</a></u></h3>
+			Software Engineer, Waymo
 		</center>
 		</p>
 	</div>
