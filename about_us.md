@@ -813,11 +813,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sharad_maheshwari.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sharad-maheshwari-b85626ba/" target="blank">Sharad Maheshwari</a></u></h3>
 			Robocon Team Captain 2014-2015<br>
-			MS Autonomous Systems, EIT Digital
+			MS Robotics, EIT Digital (Trento and TU Berlin)
 		</center>
 		</p>
 	</div>
@@ -853,6 +853,57 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/madhurag/" target="blank">Madhura Gandhi</a></u></h3>
 			Software Engineer, Waymo
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> Batch of 2011 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shikhar03sharma/" target="blank">Shikhar Sharma</a></u></h3>
+			Chief Coordinator 2013-2014<br>
+			Founder and COO, Sheru
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/neisarg_dave.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/neisargdave" target="blank">Neisarg Dave</a></u></h3>
+			PhD Student at Penn State University<br>
+			Research Scientist, NEC Labs America Inc.
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/bajajsneha/" target="blank">Sneha Bajaj</a></u></h3>
+			Software Engineer<br>
+			o9 Solutions, Inc.
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Pallavi Nema</a></u></h3>
+			
 		</center>
 		</p>
 	</div>
