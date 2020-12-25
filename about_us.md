@@ -864,7 +864,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shikhar_sharma.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shikhar03sharma/" target="blank">Shikhar Sharma</a></u></h3>
 			Chief Coordinator 2013-2014<br>
@@ -893,6 +893,17 @@ weight: 2
 			<h3><u><a href="https://www.linkedin.com/in/bajajsneha/" target="blank">Sneha Bajaj</a></u></h3>
 			Software Engineer<br>
 			o9 Solutions, Inc.
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shridevi-muthkhod-51017a55/" target="blank">Shridevi Muthkhod</a></u></h3>
+			EE Grad student, Stanford University
 		</center>
 		</p>
 	</div>
