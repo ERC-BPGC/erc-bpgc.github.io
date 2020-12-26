@@ -888,7 +888,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sneha_bajaj.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/bajajsneha/" target="blank">Sneha Bajaj</a></u></h3>
 			Software Engineer<br>
@@ -904,6 +904,17 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shridevi-muthkhod-51017a55/" target="blank">Shridevi Muthkhod</a></u></h3>
 			EE Grad student, Stanford University
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/niharika-gupta-2a312676/" target="blank">Niharika Gupta</a></u></h3>
+			Systems Engineer, Intel Corporation
 		</center>
 		</p>
 	</div>
