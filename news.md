@@ -12,6 +12,22 @@ weight: 4
         <header class="major">
             <h1>News</h1>
         </header>
+		<hr>
+        <section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Intro to ERC </h2>
+                <h4 style="padding:0px !important; margin:0px !important;">30/12/2020, 7:00 PM</h4>
+				<p>
+				Robots have always captured the imagination of people; some look forward to having their C3PO and BB-8, while others picture a dystopian future ruled by robot overlords. Whatever it is, if robots fascinate you, you're not alone.
+                We, at The Electronics and Robotics Club (ERC), are excited to hold an "Intro to ERC" session to throw light on the work that drives us, robotics enthusiasts. So if you're interested in the club, or robotics in general, do attend this short talk, where we hope to address all your queries.
+                </p>
+				<ul class="actions">
+					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Stream Link</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
     <hr>
 	<section>
 		<div class="content">
@@ -45,24 +61,6 @@ weight: 4
 		</div>
 	</section>
     <hr>
-	    <hr>
-    <section>
-		<div class="content">
-			<div class="inner">
-				<h2 style="margin-bottom:10px !important;">Intro to ERC </h2>
-                <h4 style="padding:0px !important; margin:0px !important;">30/12/2020, 7:00 PM</h4>
-				<p>
-				Robots have always captured the imagination of people; some look forward to having their own C3PO and BB-8, while others picture a dystopian future ruled by robot overlords. Whatever it is, if robots fascinate you, you're not alone.
-                We, at The Electronics and Robotics Club (ERC), are excited to hold an "Intro to ERC" session to throw light on the work that drives us robotics enthusiasts. So if you're interested in the club, or in robotics in general, do attend this short talk, were we hope to address all your queries.
-				</p>
-				<ul class="actions">
-					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Stream Link</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-    <hr>
-
-
+	
 </div>
 </section>
