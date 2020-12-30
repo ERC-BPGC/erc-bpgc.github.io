@@ -23,8 +23,9 @@ weight: 4
                 We, at The Electronics and Robotics Club (ERC), are excited to hold an "Intro to ERC" session to throw light on the work that drives us, robotics enthusiasts. So if you're interested in the club, or robotics in general, do attend this short talk, where we hope to address all your queries.
                 </p>
 				<ul class="actions">
-					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Stream Link</a></li>
-				</ul>
+					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Video Link</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1479F_TV0db_iDBXJZ46_M7UGttni2K_jmmBh_Kelaz8/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
+				</ul>				
 			</div>
 		</div>
 	</section>
