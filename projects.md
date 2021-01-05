@@ -298,5 +298,20 @@ weight: 1
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/klann.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Klann</h3>
+				</header>
+				<p>Klann was one of the display projects displayed in Quark 2020 by the ERC. The eight-legged walking bot was based on the Klann linkage, a planar mechanism designed to simulate the gait of a legged animal and function as a wheel replacement.
+				</p>
+			</div>
+		</div>
+	</section>
 </section>
 </div>
