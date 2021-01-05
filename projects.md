@@ -64,7 +64,7 @@ weight: 1
 	
 	<section>
 		<a class="image">
-			<img src="img/projects/placeholder.jpg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/gennav.png" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -83,7 +83,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/echoslam.jpg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
