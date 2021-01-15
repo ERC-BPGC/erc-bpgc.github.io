@@ -13,6 +13,56 @@ weight: 4
             <h1>News</h1>
         </header>
 		<hr>
+		<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Introduction to Robotics @CTE 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">Semester 2 2021</h4>
+				<p>
+				The word robot is derived from the word 'robota' which basically means labour. With purpose of making our lives easier, the first robot ever was created in 1950. Today we have come a long way where about a million robots are active worldwide in different fields. 
+				The course is aimed at giving a kickstart to everyone who are interested in the field Robotics. The course will help you to get an idea about different aspects of robotics and also the new advancements in it.
+                Topics covered include Arduino , PCB and ICs, Kinematics, Control Theory, Matlab & Simulink, Introduction to ROS amongst other things. 
+				</p>
+				<ul class="actions">
+					<li><a href="https://bpgc-cte.org/course/5ffc778800062370245ad277" class="button" target="blank">Register</a></li>
+					<li><a href="http://bit.ly/CTE_Robotics_Orientation" class="button" target="blank">CTE Orientation Video</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>
+        <section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Introduction to Mechanical Design</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">14/01/2020</h4>
+				<p>
+				Designing is fundamental to building a robot - it determines what capabilities your robot has, how easy it will be to assemble and control etc.… A well-designed robot should fit its use case well while being easy to program and minimizing cost. 
+				This session aimed to introduce you to the underlying principles of robots' mechanical design, some of the latest developments in the field, and the tools used in the process, such as Solidworks and Fusion360. We aim to give you a big picture overview while also discussing how you can dive in.
+				</p>
+				<ul class="actions">
+					<li><a href="https://bit.ly/ERC-intro-to-mech" class="button" target="blank">Video</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>
+	     <section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Introduction to Automation</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">14/01/2020</h4>
+				<p>
+				Robots would be pretty useless without having the ability to act intelligently. Today, with ever more powerful machine learning techniques, robots are on their way to becoming truly intelligent. This session will give a broad overview of automation in robotics, covering topics from programming to AI.
+				We discussed key concepts along the way and popular software frameworks (such as ROS and OpenCV, among others), making today’s rapid progress possible. The aim is to give a big picture overview of the current state of robot automation with a taste of the latest developments and how you can get started in this area.
+				</p>
+				<ul class="actions">
+					<li><a href="https://bit.ly/ERC-intro-to-automation" class="button" target="blank">Video</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>				
         <section>
 		<div class="content">
 			<div class="inner">

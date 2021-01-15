@@ -59,6 +59,10 @@ weight: 3
        <button class="accordion" >CTE Courses<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px;"></i></button>
              <div class="panel">
          <p><ul>
+         <li><h3>Introduction to Robotics<a href="https://bpgc-cte.org/course/5ffc778800062370245ad277" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+         <h5>Jan 2021 - May 2021</h5>
+         The course is aimed at giving a kickstart to everyone who are interested in the field Robotics. The course will help you to get an idea about different aspects of robotics and also the new advancements in it.
+         Topics covered include Arduino , PCB and ICs, Kinematics, Control Theory, Matlab & Simulink, Introduction to ROS amongst other things.<hr>
          <li><h3>Robotics: Control and Automation <a href="https://github.com/ERC-BPGC/cte-archive/tree/master/Sem2_19-20" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
          <h5>Jan 2020 - May 2020</h5>
          This course provides detial insight into automation and control aspects involved in Robotics.The content of the course includes
