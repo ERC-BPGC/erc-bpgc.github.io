@@ -42,11 +42,28 @@ weight: 4
 				</p>
 				<ul class="actions">
 					<li><a href="https://bit.ly/ERC-intro-to-mech" class="button" target="blank">Video</a></li>
+				    <li><a href="https://drive.google.com/file/d/1b3jmtaFtV1klc46bVAVRNsNWvPuuI6vq/view" class="button" target="blank">Presentation</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
     <hr>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Introduction to Electronics</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">18/01/2020</h4>
+				<p>From interfacing microprocessors to making logical circuits, Robotics is incomplete without electronics. Every task that a Robot performs at the end eventually boils down to some signal received by it. In this session we will talk about various aspects of Electronics used in robotics including components like Arduino and microprocessor and PCB design.
+                It aimed to give a overview about how Electronics being a very broad field itself becomes an integral part of Robotics. This session was also a part of the First demo lecture for our CTE course Introduction to Robotics.
+				</p>
+				<ul class="actions">
+					<li><a href="https://www.youtube.com/watch?v=FT-VGgWhLAA" class="button" target="blank">Video</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1jtRIAU5Mvoam-_mHtp_8JDdVimp2yvxzCGeljOwLFNY/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>				
 	     <section>
 		<div class="content">
 			<div class="inner">
@@ -58,6 +75,7 @@ weight: 4
 				</p>
 				<ul class="actions">
 					<li><a href="https://bit.ly/ERC-intro-to-automation" class="button" target="blank">Video</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1Rwbun6S7V7tYACh59n5-quBreyx_rLgdN0zXI4OWcNg/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
 				</ul>
 			</div>
 		</div>
@@ -73,7 +91,7 @@ weight: 4
                 We, at The Electronics and Robotics Club (ERC), are excited to hold an "Intro to ERC" session to throw light on the work that drives us, robotics enthusiasts. So if you're interested in the club, or robotics in general, do attend this short talk, where we hope to address all your queries.
                 </p>
 				<ul class="actions">
-					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Video Link</a></li>
+					<li><a href="https://youtu.be/6V8GTOr6jtQ" class="button" target="blank">Video</a></li>
 					<li><a href="https://docs.google.com/presentation/d/1479F_TV0db_iDBXJZ46_M7UGttni2K_jmmBh_Kelaz8/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
 				</ul>				
 			</div>
@@ -89,8 +107,7 @@ weight: 4
 				Tech Talk by Mihir Kulkarni on 3rd October 7pm to 8pm. He will be talking about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship.
 				</p>
 				<ul class="actions">
-					<li><a class="button">Resources</a></li>
-                    <li><a href="https://fest.bpgc-cte.org/" class="button">CTE Techweekend</a></li>
+                    <li><a href="https://fest.bpgc-cte.org/" target ="blank" class="button">CTE Techweekend</a></li>
 				</ul>
 			</div>
 		</div>

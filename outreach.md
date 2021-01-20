@@ -81,7 +81,7 @@ weight: 3
          <li><h3>Robotics Automation using ROS <a href="https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
          <h5>Summer 2020</h5>
          Automation and Control in Robotics is a fast growing field with exciting innovations coming out with a rapid pace. This course aims to familiarise you with the basic tools and techniques that are at the core of such developments. The content of the course includes basics of Python, ROS, Gazebo Simulatons, Path Planning and writing a Controller.<hr>
-         <li><h3>Introduction to ROS <a href="https://github.com/hardesh/QSTP-Introduction_to_ROS"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+         <li><h3>Introduction to ROS <a href="https://github.com/hardesh/QSTP-Introduction_to_ROS" target = "blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
          <h5>Summer 2019</h5>
          This project based course was aimed at teaching basic usage and application of ROS
          </ul> </p>
@@ -89,13 +89,13 @@ weight: 3
           <button class="accordion" >CTE TechWeekend<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px"></i></button>
           <div class="panel">
           <p><ul>
-          <li><h3>Arduino Open <a href="https://github.com/ERC-BPGC/Robotics_Hackathon" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+          <li><h3>Arduino Open <a href="https://drive.google.com/file/d/1pvXj9pwgE4cAaGFxUdrcEI7BD0jLCwLa/view?usp=sharing" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
           <h5>4th October 2020</h5>
           ERC in collaboration with CTE, announces Arduino Open. Its amazing that how you can process something as functional as robotic arm and something as trivial as blinking an LED with a single-board. With Arduino the only limit is your imagination. Solve the questions given in the problem statement within the stipualted time to win exciting prizes.<hr>
           <li><h3>Robotics Hackathon <a href="https://github.com/ERC-BPGC/Robotics_Hackathon" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
           <h5>3rd October 2020 - 10th October 2020</h5>
           ERC in Collaboration with CTE brings you - the Intelligent Robotics Hackathon. The task will challenge you to code up a robot that can display intelligent behavior. We hope the task will bring out the best of your technical and logical thinking abilities.<hr> 
-          <li><h3>Tech Talk <a href="https://github.com/ERC-BPGC/Robotics_Hackathon" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+          <li><h3>Tech Talk <a href="" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
           <h5>3rd October 2020</h5>
          In the Tech Talk by Mihir Kulkarni is he talked about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship. 
          </ul></p>
