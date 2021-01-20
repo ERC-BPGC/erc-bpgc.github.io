@@ -13,6 +13,22 @@ weight: 4
             <h1>News</h1>
         </header>
 		<hr>
+			<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Introduction to Electronics</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">18/01/2020</h4>
+				<p>From interfacing microprocessors to making logical circuits, Robotics is incomplete without electronics. Every task that a Robot performs at the end eventually boils down to some signal received by it. In this session we will talk about various aspects of Electronics used in robotics including components like Arduino and microprocessor and PCB design.
+                It aimed to give a overview about how Electronics being a very broad field itself becomes an integral part of Robotics. This session was also a part of the First demo lecture for our CTE course Introduction to Robotics.
+				</p>
+				<ul class="actions">
+					<li><a href="https://www.youtube.com/watch?v=FT-VGgWhLAA" class="button" target="blank">Video</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1jtRIAU5Mvoam-_mHtp_8JDdVimp2yvxzCGeljOwLFNY/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>	
 		<section>
 		<div class="content">
 			<div class="inner">
@@ -47,23 +63,7 @@ weight: 4
 			</div>
 		</div>
 	</section>
-    <hr>
-	<section>
-		<div class="content">
-			<div class="inner">
-				<h2 style="margin-bottom:10px !important;">Introduction to Electronics</h2>
-                <h4 style="padding:0px !important; margin:0px !important;">18/01/2020</h4>
-				<p>From interfacing microprocessors to making logical circuits, Robotics is incomplete without electronics. Every task that a Robot performs at the end eventually boils down to some signal received by it. In this session we will talk about various aspects of Electronics used in robotics including components like Arduino and microprocessor and PCB design.
-                It aimed to give a overview about how Electronics being a very broad field itself becomes an integral part of Robotics. This session was also a part of the First demo lecture for our CTE course Introduction to Robotics.
-				</p>
-				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=FT-VGgWhLAA" class="button" target="blank">Video</a></li>
-					<li><a href="https://docs.google.com/presentation/d/1jtRIAU5Mvoam-_mHtp_8JDdVimp2yvxzCGeljOwLFNY/edit?usp=sharing" class="button" target="blank">Presentation</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-    <hr>				
+    <hr>			
 	     <section>
 		<div class="content">
 			<div class="inner">
