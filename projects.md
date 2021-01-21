@@ -189,7 +189,7 @@ weight: 1
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Quadruped</h3>
+					<h3>Quadruped <i>a.k.a. Bhaagwati</i></h3>
 				</header>
 				<p>Team Lead: Mohit Gupta<br>
 				The main objective is to mimic a four legged animal and get various gaits out of it like trot, bound, canter through open loop and closed loop methods. It will be further used as a platform for attachment of vision based system for mapping different terrains

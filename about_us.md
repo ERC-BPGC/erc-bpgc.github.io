@@ -825,7 +825,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aum_jadhav.jpg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aum-jadhav/" target="blank">Aum Jadhav</a></u></h3>
 			Robocon Coordinator 2014-2015<br>
@@ -918,14 +918,112 @@ weight: 2
 		</center>
 		</p>
 	</div>
+</div>
+
+<h2> Batch of 2010 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ronak-gupta-3a687425/" target="blank">Ronak Gupta</a></u></h3>
+			Chief Coordinator 2012-2013<br>
+			MS, Jawaharlal Nehru Centre (JNCASR)
+		</center>
+		</p>
+	</div>
 
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/" target="blank">Pallavi Nema</a></u></h3>
-			
+			<h3><u><a href="https://www.linkedin.com/in/nikhilesh-behera/" target="blank">Nikhilesh Behera</a></u></h3>
+			Sub Coordinator 2012-2013<br>
+			Software Development Engineer, Amazon
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/apurva_ankleshwaria.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/apurvaankleshwaria/" target="blank">Apurva Ankleshwaria</a></u></h3>
+			Inventory Manager 2012-2013<br>
+			Founding Member, Bert Labs
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/kushagra-nigam-18818b75/" target="blank">Kushagra Nigam</a></u></h3>
+			Lecture Series Manager 2012-2013<br>
+			Scientific Officer, Institute For Plasma Research
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/vishal-pathak-b5338145/" target="blank">Vishal Pathak</a></u></h3>
+			Project Manager 2012-2013<br>
+			CTO, QLS Academy
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/arihant_lunawat.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/arihantlunawat/" target="blank">Arihant Lunawat</a></u></h3>
+			Perception & Localization Engineer<br>
+			Outrider, Denver, CO, USA
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/arnav_goel.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/arnavgoel/" target="blank">Arnav Goel</a></u></h3>
+			Principal Software Engineer, Stealth-mode
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/rhsant/" target="blank">Rohit Sant</a></u></h3>
+			Robotics & Perception Software, Zipline
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/chintaksheth/" target="blank">Chintak Sheth</a></u></h3>
+			Software Engineer, Facebook
 		</center>
 		</p>
 	</div>
