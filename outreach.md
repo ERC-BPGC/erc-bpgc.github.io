@@ -105,19 +105,15 @@ weight: 3
          <br><br>
           <button class="accordion" >Mini Projects<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px"></i></button>
           <div class="panel">
-          <p><ul>
-          <li><h3>Arduino Open <a href="https://drive.google.com/file/d/1pvXj9pwgE4cAaGFxUdrcEI7BD0jLCwLa/view?usp=sharing" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
-          <h5>4th October 2020</h5>
-          ERC in collaboration with CTE, announces Arduino Open. Its amazing that how you can process something as functional as robotic arm and something as trivial as blinking an LED with a single-board. With Arduino the only limit is your imagination. Solve the questions given in the problem statement within the stipualted time to win exciting prizes.
+          <p>
+          <h3>How to Sign Up </h3>
+          <ol>
+          <li> Check out the list of projects <a href='mini_projects.html'>here.</a></li>
+          <li> Fill up this <a href='https://docs.google.com/forms/d/e/1FAIpQLSfxGp9lZC7TelZEwytV6WU0c7O_Y86gZ79Sx3pPB35nfqRg7g/viewform?usp=sf_link' target='blank'>form.</a></li>
+          <li> Attend the <a href='#' target='blank'>session.</a></li>
+          </ol>
           <hr>
-          <li><h3>Robotics Hackathon <a href="https://github.com/ERC-BPGC/Robotics_Hackathon" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
-          <h5>3rd October 2020 - 10th October 2020</h5>
-          ERC in Collaboration with CTE brings you - the Intelligent Robotics Hackathon. The task will challenge you to code up a robot that can display intelligent behavior. We hope the task will bring out the best of your technical and logical thinking abilities.
-          <hr> 
-          <li><h3>Tech Talk <a href="" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
-          <h5>3rd October 2020</h5>
-         In the Tech Talk by Mihir Kulkarni is he talked about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship. 
-         </ul></p>
+          </p>
          </div>
 
 </div>
