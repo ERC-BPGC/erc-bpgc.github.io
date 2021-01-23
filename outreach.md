@@ -99,23 +99,23 @@ weight: 3
           ERC in Collaboration with CTE brings you - the Intelligent Robotics Hackathon. The task will challenge you to code up a robot that can display intelligent behavior. We hope the task will bring out the best of your technical and logical thinking abilities.<hr> 
           <li><h3>Tech Talk <a href="" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
           <h5>3rd October 2020</h5>
-         In the Tech Talk by Mihir Kulkarni is he talked about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship. 
+         In the Tech Talk by Mihir Kulkarni is he talked about Ignition, the new up and coming powerful open source simulator set to take over the robotics world. He  is currently pursuing his PhD from University of Nevada, Reno and recently did extensive work with Ignition during his GSOC internship.
          </ul></p>
          </div>
          <br><br>
           <button class="accordion" >Mini Projects<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px"></i></button>
           <div class="panel">
-          <p>
-          <h3>How to Sign Up </h3>
-          <ol>
-          <li> Check out the list of projects <a href='mini_projects.html'>here.</a></li>
-          <li> Fill up this <a href='https://docs.google.com/forms/d/e/1FAIpQLSfxGp9lZC7TelZEwytV6WU0c7O_Y86gZ79Sx3pPB35nfqRg7g/viewform?usp=sf_link' target='blank'>form.</a></li>
-          <li> Attend the <a href='#' target='blank'>session.</a></li>
-          </ol>
-          <hr>
-          </p>
-         </div>
+          <p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.</p>
 
+          <p>The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
+          
+          <p>This will be a great opportunity not only to develop new skills but also to get to know ERC members. We will be looking out for those of you who show enthusiasm throughout the projects to be inducted into the club. And while we’ll do our best to provide guidance, ultimately it will be up to you to learn and put in the effort to complete the project.</p>
+          <ol>
+          <h5>How to Sign Up</h5>
+          <ol>
+          <li>Read about the available projects <a href='mini_projects.html'>here.</a></li>
+          <li>Fill up this <a href='https://forms.gle/bPfpXmnLWmfYkins7' target='blank'>form.</a></li>
+          <li>Attend the intro session on Tuesday 26th Jan (timing will be announced soon).
 </div>
 </section>
 <script>
