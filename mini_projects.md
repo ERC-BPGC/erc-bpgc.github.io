@@ -121,7 +121,7 @@ show_tile: false
 </div>
     <section>
 		<a class="image">
-			<img src="img/mini_project/arduino_clock.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/mini_project/Arduino_clock.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content odd">
 			<div class="inner">
@@ -133,10 +133,9 @@ show_tile: false
 			</div>
 		</div>
 	</section>
-
     <section>
 		<a class="image">
-			<img src="img/mini_project/arduino_car.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/mini_project/Arduino_car.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content even">
 			<div class="inner">
@@ -168,7 +167,6 @@ show_tile: false
 			</div>
 		</div>
 	</section>
-
     <section>
 		<a class="image">
 			<img src="img/mini_project/robot_gripper.jpeg" alt="Project in progress XD" data-position="center center" />
