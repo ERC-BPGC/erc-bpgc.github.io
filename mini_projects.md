@@ -29,6 +29,16 @@ show_tile: false
   transform: translate3d(-5px, 0px, 0px); 	
   box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
 }
+@media screen and (min-width: 651px) {
+  .odd:hover, .odd:focus, .odd:active {
+  transform: translate3d(-5px, 0px, 0px); 	
+  box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
+}}
+  @media screen and (max-width: 650px) {
+	  .odd:hover, .odd:focus, .odd:active {
+  transform: translate3d(0px, -5px, 0px); 	
+  box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
+}}
 .even {
   display: inline-block;
   vertical-align: middle;
@@ -47,6 +57,16 @@ show_tile: false
   transform: translate3d(5px, 0px, 0px); 	
   box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
 }
+@media screen and (min-width: 651px) {
+  .even:hover, .even:focus, .even:active {
+  transform: translate3d(-5px, 0px, 0px); 	
+  box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
+}}
+  @media screen and (max-width: 650px) {
+	  .even:hover, .even:focus, .even:active {
+  transform: translate3d(0px, -5px, 0px); 	
+  box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
+}}
 </style>
 </head>
 
