@@ -11,6 +11,22 @@ show_tile: false
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+.sign {
+  font-size: 18px;
+  font-weight: 900;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
+.sign:hover, .sign:focus, .sign:active {
+	background-color: #FFFFFF !important;
+	color: black !important;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+  transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+}
 .odd {
   display: inline-block;
   vertical-align: middle;
@@ -59,7 +75,7 @@ show_tile: false
 }
 @media screen and (min-width: 651px) {
   .even:hover, .even:focus, .even:active {
-  transform: translate3d(-5px, 0px, 0px); 	
+  transform: translate3d(5px, 0px, 0px); 	
   box-shadow: inset 0 0 0 4px white, 0 0 1px rgba(0, 0, 0, 0);
 }}
   @media screen and (max-width: 650px) {
@@ -77,7 +93,7 @@ show_tile: false
 <div class='inner' style="padding:0px !important; padding-top:2em !important;">
 <center>
 <ul class="actions">
-<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfxGp9lZC7TelZEwytV6WU0c7O_Y86gZ79Sx3pPB35nfqRg7g/viewform?usp=sf_link" target="blank" class="button">Sign Up Here</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfxGp9lZC7TelZEwytV6WU0c7O_Y86gZ79Sx3pPB35nfqRg7g/viewform?usp=sf_link" target="blank" class="button sign">Sign Up Here</a></li>
 </ul>
 </center>
 </div>
