@@ -104,20 +104,15 @@ weight: 3
          </div>
          <br><br>
           <button class="accordion" >Mini Projects<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px"></i></button>
-          <div class="panel">
-          <p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.</p>
-
-          <p>The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
-          
-          <p>This will be a great opportunity not only to develop new skills but also to get to know ERC members. We will be looking out for those of you who show enthusiasm throughout the projects to be inducted into the club. And while we’ll do our best to provide guidance, ultimately it will be up to you to learn and put in the effort to complete the project.</p>
+          <div class="panel"><br><br>
+          <p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.<br><br>
+          The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
+          <h4>How to Sign Up</h4>
           <ol>
-          <h5>How to Sign Up</h5>
-          <ol>
-          <li>Read about the available projects <a href='mini_projects.html'>here.</a></li>
-          <li>Fill up this <a href='https://forms.gle/bPfpXmnLWmfYkins7' target='blank'>form.</a></li>
-          <li>Attend the intro session on Tuesday 26th Jan (timing will be announced soon).
-</div>
-</section>
+          <li>Read about the available projects <b><a href='mini_projects.html'>here.</a></b></li>
+          <li>Fill up this <b><a href='https://forms.gle/bPfpXmnLWmfYkins7' target='blank'>form.</a></b></li>
+          <li>Attend the intro session on <b>Tuesday 26th Jan</b> (timing will be announced soon).</li></ol>
+          </div>
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;

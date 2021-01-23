@@ -9,8 +9,33 @@ show_tile: false
 ---
 <head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+#div1 {
+  font-size:15px;
+}
+#div2 {
+  font-size:15px;
+  }
+#div3 {
+  font-size:15px;
+  }
+#div4 {
+  font-size:15px;
+  }
+#div5 {
+  font-size:15px;
+  }
+#div6 {
+  font-size:15px;
+  }
+#div7 {
+  font-size:15px;
+  }
+#div8 {
+  font-size:15px;
+  }
 .sign {
   font-size: 18px;
   font-weight: 900;
@@ -126,7 +151,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3>Arduino Clock</h3>
+					<h3><a href="https://docs.google.com/document/d/1SyvJi2ebhtIxws-zDsgQIpjIAVBZHq9-m-yNXoJQCZM/edit?usp=sharing" target="blank"> Arduino Clock <div id="div1" class="fa"></div></a></h3>
 				</header>
 				<p>Arduino is an open-source prototyping platform in electronics based on easy-to-use hardware and software. It is a microcontroller-based prototyping board capable of developing digital devices that can read inputs like a finger on a button, touch on a screen, light on a sensor etc. This project aims to create a clock using an Arduino in TinkerCAD, including timer and stopwatch features. During its course, you will learn how to use Arduino’s hardware timers and interrupts, and peripherals like LCDs, buttons, and LEDs.
 				</p>
@@ -140,7 +165,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3>Arduino Obstacle Avoiding Car Controller</h3>
+					<h3><a href="https://docs.google.com/document/d/12QYzrYppNINaOPEKVCVEJiHTvlqlHUtvJKc4AUpfJY4/edit?usp=sharing" target="blank">Arduino Obstacle Avoiding Car Controller <div id="div2" class="fa"></div></a></h3>
 				</header>
 				<p>Thanks to its versatility and simplicity, the Arduino is extensively used to control robots. One of the necessary skills of any robot is to move without bumping into objects. This project aims to create a fundamental obstacle avoiding car circuit, which is one of the simplest beginner’s robotics projects. Although you will not construct the entire bot, you will design and simulate the controller circuit based on an Arduino UNO. Learning objectives include differential drives, ultrasonic distance sensors and motor control.
                 </p>
@@ -160,7 +185,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3>Chebyshev Lambda Mechanism</h3>
+					<h3><a href="https://docs.google.com/document/d/1aItefm6bpi3_RwD4nP8uSgtvWNJuPpbdZpNd8SqzVJw/edit?usp=sharing" target="blank">Chebyshev Lambda Mechanism <div id="div3" class="fa"></div></a></h3>
 				</header>
 				<p>A mechanical linkage is an assembly of bodies connected to manage forces and movement. A kinematic chain, in which one link is fixed or stationary, is called a mechanism. Linkages are an integral part of robotics; the skeletons of robotic systems are examples of spatial linkages. This project aims to design and create a walking robot based on Chebyshev Lambda Mechanism. Also, learn how to use most of the tools and features of Solidworks or Fusion360 since we will do the robot’s mechanical design and assembly on Solidworks or Fusion360.
 				</p>
@@ -174,7 +199,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3>Robot Gripper and Arm</h3>
+					<h3><a href="https://docs.google.com/document/d/1CTbPiiDTvGyH7ph43QfNXturaXg3IwnXfeLiGglcLFg/edit?usp=sharing" target="blank">Robot Gripper and Arm <div id="div4" class="fa"></div></a></h3>
 				</header>
 				<p>If you think of a simple industrial robot as consisting of an arm, with an 'elbow' and a 'wrist' for motion and a 'hand' for picking things up, you're not being childish –in fact, you're thinking like a roboticist. Industrial robot 'arms', as they are called, do have elbows and wrists. At the end of the arm, robots are often fitted with what are called grippers – special devices designed to help robots handle objects in the real world. This project aims to design and create a conceptual Robot arm along with its gripper. Also, learn how to use most of the tools and features of Solidworks or Fusion360 since we will do the robot's mechanical design and assembly on Solidworks or Fusion360.
                 </p>
@@ -187,22 +212,20 @@ show_tile: false
 <h1>Automation & Control</h1>
 </header>
 </div>
-
-	<section>
+    <section>
 		<a class="image">
 			<img src="img/mini_project/cart_pole.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3>Control of an Inverted Pendulum on a Cart</h3>
+					<h3><a href="https://docs.google.com/document/d/1QwIIwDc4N1uj8cpsDlXGhx9-6336v1r2SXOnRFeSPQY/edit?usp=sharing" target="blank">Control of an Inverted Pendulum on a Cart <div id="div5" class="fa"></div></a></h3>
 				</header>
 				<p>Humans can balance on two legs, walk and handle objects effortlessly, for robots, this challenge has sprouted a whole field called Control Theory. It aims to develop methods to provide just the right amount of control signals based on feedback the robot gets from its environment. In this project you will learn about basic control theory and apply it to solve the classic cartpole problem. Then you will learn how to make models in Simulink using Simscape Multibody and use it to test various controller algorithms implemented in MATLAB.
                 </p>
 			</div>
 		</div>
 	</section>
-
     <section>
 		<a class="image">
 			<img src="img/mini_project/nn_rl.png" alt="Project in progress XD" data-position="center center" />
@@ -210,14 +233,13 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3>Neural Networks and Reinforcement Learning</h3>
+					<h3><a href="https://docs.google.com/document/d/11TGGZWwxyyulVB-nom0M1SRQ-eiR_sVVVyfmWgM_yMA/edit?usp=sharing" target="blank">Neural Networks and Reinforcement Learning <div id="div6" class="fa"></div></a></h3>
 				</header>
 				<p>Neural networks have revolutionized what we can do with Machine Learning. When combined with Reinforcement Learning, we get a powerful method which allows robots to learn a complex range of behaviors. In this project you’ll learn the maths behind Neural Networks and build one yourself from scratch. You’ll also learn the basics of Reinforcement Learning and build a program that can learn to solve a simple task purely from experience. In the end, we’ll combine the two to train an agent to play video games.
                 </p>
 			</div>
 		</div>
 	</section>
-
     <section>
 		<a class="image">
 			<img src="img/mini_project/path.jpg" alt="Project in progress XD" data-position="center center" />
@@ -225,14 +247,13 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3>Path Planning with Python</h3>
+					<h3><a href="https://docs.google.com/document/d/1pb-Ae4ceqHWieKRDp98uPoif1GNRWpI5U31pZO0ghLg/edit?usp=sharing" target="blank">Path Planning with Python <div id="div7" class="fa"></div></a></h3>
 				</header>
 				<p>Path planning is something humans do effortlessly, but takes a little more effort for robots. It involves planning a path from a start to a goal in a given environment while avoiding obstacles. It is a fundamental aspect of navigation in any form, and is used extensively throughout robotics. In this project, you will learn about the maths behind different classes of algorithms used for path planning and implement them from scratch in python.
                 </p>
 			</div>
 		</div>
 	</section>
-
     <section>
 		<a class="image">
 			<img src="img/mini_project/line_cv.jpeg" alt="Project in progress XD" data-position="center center" />
@@ -240,7 +261,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3>Computer Vision based Line Follower</h3>
+					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Computer Vision based Line Follower <div id="div8" class="fa"></div></a></h3>
 				</header>
 				<p>Line followers are one of the most widely used robots. They are used to navigate all sorts of places and work by following a line made on the ground. With the advent of Deep Learning, Computer Vision is gaining popularity in robotics for perception. In this project, you will be making a line following-robot which uses computer vision to detect the line and follow it using a feedback based mechanism. You will learn to use OpenCV for perception and also about simple control algorithms.
                 </p>
@@ -249,3 +270,57 @@ show_tile: false
 	</section>
 </section>
 </div>
+<script>
+function brakechain() {
+  var a;
+  a = document.getElementById("div1");
+  a.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      a.innerHTML = "&#xf127;";
+    }, 1000);
+  var b;
+  b = document.getElementById("div2");
+  b.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      b.innerHTML = "&#xf127;";
+    }, 1000);
+	  var c;
+  c = document.getElementById("div3");
+  c.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      c.innerHTML = "&#xf127;";
+    }, 1000);
+	  var d;
+  d = document.getElementById("div4");
+  d.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      d.innerHTML = "&#xf127;";
+    }, 1000);
+	  var e;
+  e = document.getElementById("div5");
+  e.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      e.innerHTML = "&#xf127;";
+    }, 1000);
+	  var f;
+  f = document.getElementById("div6");
+  f.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      f.innerHTML = "&#xf127;";
+    }, 1000);
+	  var g;
+  g = document.getElementById("div7");
+  g.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      g.innerHTML = "&#xf127;";
+    }, 1000);
+	  var h;
+  h = document.getElementById("div8");
+  h.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      h.innerHTML = "&#xf127;";
+    }, 1000);
+}
+brakechain();
+setInterval(brakechain, 2000);
+</script>
