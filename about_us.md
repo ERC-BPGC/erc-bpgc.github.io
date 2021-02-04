@@ -444,7 +444,7 @@ weight: 2
 		</p>
 	</div>
 </div>
-</div>
+
 
 <h2> Batch of 2015 </h2>
 
@@ -1152,7 +1152,7 @@ weight: 2
 		</p>
 	</div>
 </div>
-<!-- Figure out the grid issue
+
 <h2> Batch of 2007 </h2>
 
 <div class="row">
@@ -1208,4 +1208,4 @@ weight: 2
 		</p>
 	</div>
 </div>
--->
+</div>
