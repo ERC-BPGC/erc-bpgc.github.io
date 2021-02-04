@@ -789,7 +789,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rahul_bhola.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rahulbhola1/" target="blank">Rahul Bhola</a></u></h3>
 			Sub Coordinator 2014-2015<br>
@@ -1028,3 +1028,184 @@ weight: 2
 		</p>
 	</div>
 </div>
+
+<h2> Batch of 2009 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/jinal1/" target="blank">Jinal Shah</a></u></h3>
+			Chief Coordinator 2011-2012<br>
+			Circuit Design Engineer, NVIDIA
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/akshay-barapatre-43126058/" target="blank">Akshay Barapatre</a></u></h3>
+			Design Engineer<br>
+			Texas Instruments
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/saksham_bhatla.png" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sakshambhatla/" target="blank">Saksham Bhatla</a></u></h3>
+			Software Development Engineer<br>
+			Amazon, Seattle
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/kartikmankad/" target="blank">Kartik Mankad</a></u></h3>
+			Senior Verification Engineer, NVIDIA
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/deepak-chandra/" target="blank">Deepak Chandra</a></u></h3>
+			Firmware Engineer, Apple
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/mihir-karkhane-3a15a730/" target="blank">Mihir Karkhane</a></u></h3>
+			
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> Batch of 2008 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/avinash_kumar.png" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/avinashckumar/" target="blank">Avinash Kumar</a></u></h3>
+			Chief Coordinator 2010-2011<br>
+			Software Engineer, Marvell Semiconductor
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shatruddha/" target="blank">Shatruddha Kushwaha</a></u></h3>
+			Entrepreneur<br>
+			SUN Mobility, Bengaluru, Karnataka
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/nitant_gupta.jpg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/nitantgupta/" target="blank">Nitant Gupta</a></u></h3>
+			Graduate Student (PhD in Materials Science)<br>
+			Rice University, Houston, Texas
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/nishantsingh89/" target="blank">Nishant Singh</a></u></h3>
+			Design Engineer, Analog Devices
+		</center>
+		</p>
+	</div>
+</div>
+<!-- Figure out the grid issue
+<h2> Batch of 2007 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
+			Chief Coordinator 2009-2010<br>
+			CEO & Portfolio Manager, StatAlpha Advisors
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/kinshukkar/" target="blank">Kinshuk Kar</a></u></h3>
+			Senior Director, Product Management<br>
+			Engati Chatbot Platform
+		</center>
+		</p>
+	</div>
+</div>
+
+<h2> Batch of 2006 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/arjun_bidesi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/arjun-bidesi/" target="blank">Arjun Bidesi</a></u></h3>
+			Co-Founder, ERC<br>
+			Senior Consultant, IQVIA
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/jayanth_varanasi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/jayanthvaranasi/" target="blank">Jayanth Varanasi</a></u></h3>
+			Co-Founder, ERC<br>
+			Senior Product Manager, Unacademy
+		</center>
+		</p>
+	</div>
+</div>
+-->
