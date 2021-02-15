@@ -1171,7 +1171,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/kinshuk_kar.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kinshukkar/" target="blank">Kinshuk Kar</a></u></h3>
 			Senior Director, Product Management<br>
