@@ -1179,6 +1179,29 @@ weight: 2
 		</center>
 		</p>
 	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/pritisahay/" target="blank">Priti Sahay</a></u></h3>
+			Associate Vice President<br>
+			Investment Banking, Edelweiss
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shraddha-mehta-9781079/" target="blank">Shraddha Mehta</a></u></h3>
+			Director, Product Management, Simpl
+		</center>
+		</p>
+	</div>
 </div>
 
 <h2> Batch of 2006 </h2>
