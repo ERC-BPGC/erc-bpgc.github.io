@@ -1159,7 +1159,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ajusal_sugathan.jpeg" alt="asleep come back later" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
 			Chief Coordinator 2009-2010<br>
