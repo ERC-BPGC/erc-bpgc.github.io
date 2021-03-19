@@ -37,7 +37,7 @@ weight: 2
 		</header>
 
 <center>
-	<img src="img/people/2019-2020.jpeg" alt="asleep come back later" height="75%" width="75%">
+	<img src="img/people/2019-2020.jpeg" height="75%" width="75%">
 	<br>
 	<h3>2019-2020</h3>
 	<hr>
@@ -55,7 +55,7 @@ weight: 2
     <div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/atharv_sonwane.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/atharv_sonwane.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://threewisemonkeys-as.github.io" target="blank">Atharv Sonwane</a></u></h3>
 			Chief Coordinator 2020-2021
@@ -66,7 +66,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tanmay_bhonsale.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tanmay_bhonsale.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.instructables.com/member/DangerousTim/" target="blank">Tanmay Bhonsale</a></u></h3>
 			Research Head 2020-2021
@@ -77,7 +77,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vedant_shah.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vedant_shah.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://veds12.github.io/" target="blank">Vedant Shah</a></u></h3>
 			Teaching Head 2020-2021
@@ -88,7 +88,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ashutosh_gupta.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ashutosh_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/" target="blank">Ashutosh Gupta</a></u></h3>
 			Media Head 2020-2021
@@ -99,7 +99,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/pranav_goyal.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/pranav_goyal.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/" target="blank">Pranav Goyal</a></u></h3>
 			Media Head 2020-2021
@@ -112,7 +112,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/cheriyan_homey.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
 			Inventory Head 2020-2021
@@ -125,7 +125,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/yash_jangir.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/yash_jangir.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/" target="blank">Yash Jangir</a></u></h3>
 			Inventory Head 2020-2021
@@ -136,7 +136,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/advait_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/advait_kulkarni.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/" target="blank">Advait Kulkarni</a></u></h3>
 			Media Head 2019-2020
@@ -147,7 +147,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/eash_vrudhula.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/eash_vrudhula.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170" target="blank">Eash Vrudhula</a></u></h3>
 			Media Head 2019-2020
@@ -158,7 +158,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/mohit_chaudhari.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mohit_chaudhari.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/" target="blank">Mohit Chaudhari</a></u></h3>
 			Inventory Head 2019-2020
@@ -169,7 +169,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aditya_bidwai.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aditya_bidwai.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/" target="blank">Aditya Bidwai</a></u></h3>
 			Core Member
@@ -180,7 +180,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-		    <img src="img/people/anirudha_shrinivas.jpg" alt="asleep come back later" height="75%" width="75%">
+		    <img src="img/people/anirudha_shrinivas.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0" target="blank">Anirudha Shrinivas</a></u></h3>
 			Core Member
@@ -191,7 +191,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shivangi_gupta.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shivangi_gupta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b" target="blank">Shivangi Gupta</a></u></h3>
 			Core Member
@@ -202,7 +202,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vishal_singh.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vishal_singh.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vishal-singh-b51b52158/" target="blank">Vishal Singh</a></u></h3>
 			Core Member
@@ -213,7 +213,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/abhishek_dixit.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/abhishek_dixit.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185" target="blank">Abhishek Dixit</a></u></h3>
 			Core Member
@@ -224,7 +224,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aadhar_sharma.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aadhar_sharma.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aadharsharma218/" target="blank">Aadhar Sharma</a></u></h3>
 			Core Member
@@ -235,7 +235,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shambhavi_singh.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shambhavi_singh.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shambhavi-singh-14a5b11b0/" target="blank">Shambhavi Singh</a></u></h3>
 			Core Member
@@ -246,7 +246,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rohan_kunjir.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rohan_kunjir.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/" target="blank">Rohan Kunjir</a></u></h3>
 			Core Member
@@ -258,7 +258,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shaktivelan_kartikeyan.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shaktivelan_kartikeyan.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a>Shaktivelan Kartikeyan</a></u></h3>
 			Core Member
@@ -277,7 +277,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tejas_rane.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tejas_rane.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tejas-rane-359590149/" target="blank">Tejas Rane</a></u></h3>
 			Chief Coordinator 2019-2020<br>
@@ -289,7 +289,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rishikesh_vanarase.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rishikesh_vanarase.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/" target="blank">Rishikesh Vanarse</a></u></h3>
 			Sub Coordinator 2019-2020<br>
@@ -301,7 +301,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/harshal_deshpande.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/harshal_deshpande.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://hardesh.github.io/" target="blank">Harshal Deshpande</a></u></h3>
 			Teaching Head 2019-2020<br>
@@ -313,7 +313,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/prathmesh_thorwe.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/prathmesh_thorwe.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/prathmesh-thorwe-b76469153/" target="blank">Prathmesh Thorwe</a></u></h3>
 			Technical Head 2019-2020<br>
@@ -325,7 +325,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aditya_phopale.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aditya_phopale.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-phopale-666a7515b/" target="blank">Aditya Phopale</a></u></h3>
 			Mechanical Head 2019-2020<br>
@@ -337,7 +337,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/mohit_gupta.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mohit_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-sushil-gupta-7a3821184/" target="blank">Mohit Gupta</a></u></h3>
 			Research Head 2019-2020<br>
@@ -349,7 +349,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ojit_mehta.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ojit_mehta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/" target="blank">Ojit Mehta</a></u></h3>
 			Thesis at Air Lab,CMU
@@ -360,7 +360,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/sanket_yannuwar.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sanket_yannuwar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.researchgate.net/profile/Sanket_Yannuwar" target="blank">Sanket Yannuwar</a></u></h3>
 			Intern at Divgi TorqTransfer Systems
@@ -375,7 +375,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/amogh_dabholkar.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/amogh_dabholkar.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://amoghdabholkar.github.io/" target="blank">Amogh Dabholkar</a></u></h3>
 			Chief Coordinator 2018-2019<br>
@@ -387,7 +387,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/mihir_kulkarni.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mihir_kulkarni.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://sites.google.com/goa.bits-pilani.ac.in/mihir-kulkarni/" target="blank">Mihir Kulkarni</a></u></h3>
 			Sub Coordinator 2018-2019<br>
@@ -399,7 +399,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/jaideep_ram.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/jaideep_ram.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/jaideep-g-v-s-s-09b75215a" target="blank">G V S S Jaideep Ram</a></u></h3>
 			Technical Head 2018-2019<br>
@@ -411,7 +411,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/kapi_mehta.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/kapi_mehta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kapi-ketan-m-a71b3692/" target="blank">Kapi Ketan Mehta</a></u></h3>
 			Mechanical Head 2018-2019<br>
@@ -423,7 +423,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/mihir_dharmadhikari.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mihir_dharmadhikari.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-dharmadhikari/" target="blank">Mihir Dharmadhikari</a></u></h3>
 			Research Head 2018-2019<br>
@@ -435,7 +435,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/yash_pandit.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/yash_pandit.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-pandit-2929b7144/" target="blank">Yash Pandit</a></u></h3>
 			Digital Verification Engineer , Analog Devices Bangalore
@@ -452,7 +452,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/abhimanyu.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/abhimanyu.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhimanyu-singh-21b017105" target="blank">Abhimanyu</a></u></h3>
 			Chief Coordinator 2017-2018<br>
@@ -464,7 +464,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shubham_chavan.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_chavan.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/svc97/" target="blank">Shubham Chavan</a></u></h3>
 			Sub Coordinator 2017-2018<br>
@@ -476,7 +476,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/abhishek_moitra.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/abhishek_moitra.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-moitra-52696798/" target="blank">Abhishek Moitra</a></u></h3>
 			Teaching Head 2017-2018<br>
@@ -488,7 +488,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rohan_godiyal.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rohan_godiyal.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://rohangodiyal.wixsite.com/rohan-godiyal" target="blank">Rohan Godiyal</a></u></h3>
 			Research Head 2017-2018<br>
@@ -500,7 +500,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/smit_rajguru.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/smit_rajguru.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.facebook.com/smit.rajguru/" target="blank">Smit Rajguru</a></u></h3>
 			Interned at IBM<br>
@@ -512,7 +512,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/nikhil_khedekar.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/nikhil_khedekar.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nkhedekar/" target="blank">Nikhil Khedekar</a></u></h3>
 			PhD Student in Autonomous Robots Lab<br>
@@ -524,7 +524,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/utkarsh_sarawgi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/utkarsh_sarawgi.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/utkarshsarawgi" target="blank">Utkarsh Sarawgi</a></u></h3>
 			MS Student and Researcher at MIT
@@ -535,7 +535,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shubham_kumar.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_kumar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shubham-kumar-1410" target="blank">Shubham Kumar</a></u></h3>
 			Software Developer at Publicis Sapient
@@ -550,7 +550,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/anand_dugad.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/anand_dugad.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/anand-dugad" target="blank">Anand Dugad</a></u></h3>
 			Chief Coordinator 2016-2017<br>
@@ -562,7 +562,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/harsh_mavani.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/harsh_mavani.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/harsh-mavani-518732b5" target="blank">Harsh Mavani</a></u></h3>
 			Sub Coordinator 2016-2017<br>
@@ -574,7 +574,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/sanjeev_murthy.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sanjeev_murthy.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sanjeev-murthy" target="blank">Sanjeev Murthy</a></u></h3>
 			Teaching Head 2016-2017<br>
@@ -586,7 +586,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shubhan_patni.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubhan_patni.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/shubhan-patni-45b91010b" target="blank">Shubhan Patni</a></u></h3>
 			PhD at Humanoid Robotics Lab, CTU Prague
@@ -597,7 +597,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/parva_patel.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/parva_patel.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="mailto:parva@ezquant.in" target="blank">Parva Patel</a></u></h3>
 			Founder EzQuant
@@ -608,7 +608,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tejas_zodage.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tejas_zodage.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tejas-zodage-4abb1412a" target="blank">Tejas Zodage</a></u></h3>
 			Masters in Robotics and Research, CMU
@@ -619,7 +619,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/akshay_sancheti.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/akshay_sancheti.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/akshaysancheti007" target="blank">Akshay Sancheti</a></u></h3>
 			ZS Associates, Pune
@@ -630,7 +630,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ananyo_rao.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ananyo_rao.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ananyo-rao" target="blank">Ananyo Rao</a></u></h3>
 			Cloud Computing Engineer, Qubole
@@ -645,7 +645,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/pranav_pal_lekhi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/pranav_pal_lekhi.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/pranav-pal-lekhi-5b8440105" target="blank">Pranav Pal Lekhi</a></u></h3>
 			Chief Coordinator 2015-2016<br>
@@ -657,7 +657,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/tanvi_jadhav.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/tanvi_jadhav.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tanvi-jadhav-60539087/" target="blank">Tanvi Jadhav</a></u></h3>
 			Sub Coordinator 2015-2016<br>
@@ -669,7 +669,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shubham_sarwate.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_sarwate.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shubham-sarwate/" target="blank">Shubham Sarwate</a></u></h3>
 			Teaching Head 2015-2016<br>
@@ -681,7 +681,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/apurv_hajare.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/apurv_hajare.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/apurvhajare" target="blank">Apurv Hajare</a></u></h3>
 			Robocon Team Captain 2015-2016<br>
@@ -693,7 +693,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aayush_attri.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aayush_attri.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aayush-attri-05472194" target="blank">Aayush Attri</a></u></h3>
 			Robocon Coordinator 2015-2016<br>
@@ -705,7 +705,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shubham_maheshwari.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shubham_maheshwari.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.instagram.com/shubham7maheshwari" target="blank">Shubham Maheshwari</a></u></h3>
 			Co-founder of Dessert brand,<br>
@@ -717,7 +717,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vedangi_pathak.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vedangi_pathak.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vedangi-pathak-439a3b85/" target="blank">Vedangi Pathak</a></u></h3>
 			PHD Student, University of British Columbia
@@ -728,7 +728,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/mandar_pradhan.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/mandar_pradhan.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mpradhan20" target="blank">Mandar Pradhan</a></u></h3>
 			Data scientist, Ellie Mae
@@ -739,7 +739,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/edwin_mascarenhas.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/edwin_mascarenhas.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/edwin-mascarenhas" target="blank">Edwin Mascarenhas</a></u></h3>
 			Architect at Nvidia
@@ -750,7 +750,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/sudeep_mishra.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sudeep_mishra.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sudeep-mishra-756a4692" target="blank">Sudeep Mishra</a></u></h3>
 			Design Engineer at Silicon Labs
@@ -762,7 +762,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/vichar_shroff.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vichar_shroff.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vichar-shroff" target="blank">Vichar Shroff</a></u></h3>
 			Co-founder at BurnCal
@@ -777,7 +777,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/maitreya_naik.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/maitreya_naik.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/maitreyanaik/" target="blank">Maitreya Naik</a></u></h3>
 			Chief Coordinator 2014-2015<br>
@@ -789,7 +789,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/rahul_bhola.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/rahul_bhola.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rahulbhola1/" target="blank">Rahul Bhola</a></u></h3>
 			Sub Coordinator 2014-2015<br>
@@ -801,7 +801,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/souryendu_das.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/souryendu_das.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/souryendu-das" target="blank">Souryendu Das</a></u></h3>
 			Teaching Head 2014-2015<br>
@@ -813,7 +813,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/sharad_maheshwari.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sharad_maheshwari.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sharad-maheshwari-b85626ba/" target="blank">Sharad Maheshwari</a></u></h3>
 			Robocon Team Captain 2014-2015<br>
@@ -825,7 +825,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aum_jadhav.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/aum_jadhav.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aum-jadhav/" target="blank">Aum Jadhav</a></u></h3>
 			Robocon Coordinator 2014-2015<br>
@@ -837,7 +837,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/soham_patkar.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/soham_patkar.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sohampatkar/" target="blank">Soham Patkar</a></u></h3>
 			Robotics Autonomy Engineer<br>
@@ -849,7 +849,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/madhurag/" target="blank">Madhura Gandhi</a></u></h3>
 			Software Engineer, Waymo
@@ -864,7 +864,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/shikhar_sharma.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/shikhar_sharma.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shikhar03sharma/" target="blank">Shikhar Sharma</a></u></h3>
 			Chief Coordinator 2013-2014<br>
@@ -876,7 +876,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/neisarg_dave.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/neisarg_dave.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/neisargdave" target="blank">Neisarg Dave</a></u></h3>
 			PhD Student at Penn State University<br>
@@ -888,7 +888,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/sneha_bajaj.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/sneha_bajaj.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/bajajsneha/" target="blank">Sneha Bajaj</a></u></h3>
 			Software Engineer<br>
@@ -900,7 +900,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shridevi-muthkhod-51017a55/" target="blank">Shridevi Muthkhod</a></u></h3>
 			EE Grad student, Stanford University
@@ -911,7 +911,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/niharika_gupta.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/niharika_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/niharika-gupta-2a312676/" target="blank">Niharika Gupta</a></u></h3>
 			Systems Engineer, Intel Corporation
@@ -926,7 +926,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ronak-gupta-3a687425/" target="blank">Ronak Gupta</a></u></h3>
 			Chief Coordinator 2012-2013<br>
@@ -938,7 +938,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nikhilesh-behera/" target="blank">Nikhilesh Behera</a></u></h3>
 			Sub Coordinator 2012-2013<br>
@@ -950,7 +950,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/apurva_ankleshwaria.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/apurva_ankleshwaria.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/apurvaankleshwaria/" target="blank">Apurva Ankleshwaria</a></u></h3>
 			Inventory Manager 2012-2013<br>
@@ -962,7 +962,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kushagra-nigam-18818b75/" target="blank">Kushagra Nigam</a></u></h3>
 			Lecture Series Manager 2012-2013<br>
@@ -974,7 +974,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/vishal_pathak.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/vishal-pathak-b5338145/" target="blank">Vishal Pathak</a></u></h3>
 			Project Manager 2012-2013<br>
@@ -986,7 +986,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/arihant_lunawat.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/arihant_lunawat.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arihantlunawat/" target="blank">Arihant Lunawat</a></u></h3>
 			Perception & Localization Engineer<br>
@@ -998,7 +998,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/arnav_goel.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/arnav_goel.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arnavgoel/" target="blank">Arnav Goel</a></u></h3>
 			Principal Software Engineer, Stealth-mode
@@ -1009,7 +1009,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rhsant/" target="blank">Rohit Sant</a></u></h3>
 			Robotics & Perception Software, Zipline
@@ -1020,7 +1020,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/chintaksheth/" target="blank">Chintak Sheth</a></u></h3>
 			Software Engineer, Facebook
@@ -1035,7 +1035,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/jinal_shah.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/jinal_shah.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/jinal1/" target="blank">Jinal Shah</a></u></h3>
 			Chief Coordinator 2011-2012<br>
@@ -1047,7 +1047,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/akshay-barapatre-43126058/" target="blank">Akshay Barapatre</a></u></h3>
 			Design Engineer<br>
@@ -1059,7 +1059,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/saksham_bhatla.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/saksham_bhatla.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sakshambhatla/" target="blank">Saksham Bhatla</a></u></h3>
 			Software Development Engineer<br>
@@ -1071,7 +1071,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kartikmankad/" target="blank">Kartik Mankad</a></u></h3>
 			Senior Verification Engineer, NVIDIA
@@ -1082,7 +1082,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/deepak-chandra/" target="blank">Deepak Chandra</a></u></h3>
 			Firmware Engineer, Apple
@@ -1093,7 +1093,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-karkhane-3a15a730/" target="blank">Mihir Karkhane</a></u></h3>
 			
@@ -1108,7 +1108,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/avinash_kumar.png" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/avinash_kumar.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/avinashckumar/" target="blank">Avinash Kumar</a></u></h3>
 			Chief Coordinator 2010-2011<br>
@@ -1120,7 +1120,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shatruddha/" target="blank">Shatruddha Kushwaha</a></u></h3>
 			Entrepreneur<br>
@@ -1132,7 +1132,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/nitant_gupta.jpg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/nitant_gupta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nitantgupta/" target="blank">Nitant Gupta</a></u></h3>
 			Graduate Student (PhD in Materials Science)<br>
@@ -1144,7 +1144,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nishantsingh89/" target="blank">Nishant Singh</a></u></h3>
 			Design Engineer, Analog Devices
@@ -1159,7 +1159,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ajusal_sugathan.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/ajusal_sugathan.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
 			Chief Coordinator 2009-2010<br>
@@ -1171,7 +1171,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/kinshuk_kar.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/kinshuk_kar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kinshukkar/" target="blank">Kinshuk Kar</a></u></h3>
 			Senior Director, Product Management<br>
@@ -1183,7 +1183,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pritisahay/" target="blank">Priti Sahay</a></u></h3>
 			Associate Vice President<br>
@@ -1195,7 +1195,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/placeholder.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shraddha-mehta-9781079/" target="blank">Shraddha Mehta</a></u></h3>
 			Director, Product Management, Simpl
@@ -1210,7 +1210,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/arjun_bidesi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/arjun_bidesi.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arjun-bidesi/" target="blank">Arjun Bidesi</a></u></h3>
 			Co-Founder, ERC<br>
@@ -1222,7 +1222,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/jayanth_varanasi.jpeg" alt="asleep come back later" height="75%" width="75%">
+			<img src="img/people/jayanth_varanasi.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/jayanthvaranasi/" target="blank">Jayanth Varanasi</a></u></h3>
 			Co-Founder, ERC<br>

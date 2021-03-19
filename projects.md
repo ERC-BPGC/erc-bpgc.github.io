@@ -41,7 +41,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/trotbot.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/trotbot.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,7 +64,7 @@ weight: 1
 	
 	<section>
 		<a class="image">
-			<img src="img/projects/gennav.png" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/gennav.png" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -83,7 +83,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -102,7 +102,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/romanov.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/romanov.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -122,7 +122,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/spiderbot.jpg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/spiderbot.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -143,7 +143,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/carborone.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/carborone.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -162,7 +162,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/ball-drone.png" alt="Project in progress XD" data-position="center center" />
+			<img src="img/projects/ball-drone.png" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -184,7 +184,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/quadruped.png" alt="Project in progress XD" data-position="top center" />
+			<img src="img/projects/quadruped.png" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -205,7 +205,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/modbot.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/modbot.jpeg" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -225,7 +225,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/swarmbots.png" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/swarmbots.png" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -245,7 +245,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/sketcher.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/sketcher.jpeg" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -264,7 +264,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/led_hexapad2.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/led_hexapad2.jpeg" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -283,7 +283,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/led_globe.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/led_globe.jpeg" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -301,7 +301,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/klann.jpeg" alt="Project in progress XD" data-position="25% 25%" />
+			<img src="img/projects/klann.jpeg" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
