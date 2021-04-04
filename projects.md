@@ -237,7 +237,7 @@ weight: 1
 				Multiple simulations have been created to perform tasks such as line formation, circle formation, etc. Along with this evaluation metrics were attached to each task to monitor the quality.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/rmvanarse/swarmbots" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/rmvanarse/swarm_tasks" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
