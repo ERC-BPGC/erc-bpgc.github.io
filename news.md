@@ -23,7 +23,7 @@ weight: 4
 				ERC brings you The ROS Hackathon 2021. The task will challenge you to automate Omnibase robot to reach the goal position while avoiding collision with obtacles in the given world. The task is aimed to delvelop understanding and apply your knowledge of ROS. This hackathon is a very good place to start for anyone who is interested in the feild of robotics.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/ROS-Hackathon-2021" class="button" target="blank">Problem Statement</a></li>
+					<li><a href="https://github.com/ERC-BPGC/ROS-Hackathon-2021" class="button" target="blank">Hackathon</a></li>
 				</ul>
 			</div>
 		</div>
