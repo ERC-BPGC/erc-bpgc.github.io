@@ -13,6 +13,22 @@ weight: 4
             <h1>News</h1>
         </header>
 		<hr>
+    <section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">ROS Hackathon @ Summer 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">18/05/2021</h4>
+				<h4 style="padding:0px !important; margin:0px !important;">Deadline: 13th June EOD </h4>
+				<p>
+				ERC brings you The ROS Hackathon 2021. The task will challenge you to automate Omnibase robot to reach the goal position while avoiding collision with obtacles in the given world. The task is aimed to delvelop understanding and apply your knowledge of ROS. This hackathon is a very good place to start for anyone who is interested in the feild of robotics.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/ROS-Hackathon-2021" class="button" target="blank">Problem Statement</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+    <hr>
 			<section>
 		<div class="content">
 			<div class="inner">
@@ -130,6 +146,7 @@ weight: 4
 		</div>
 	</section>
     <hr>
+	
 	
 </div>
 </section>
