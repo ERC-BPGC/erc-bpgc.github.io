@@ -68,7 +68,7 @@ weight: 2
 		<center>
 			<img src="img/people/tanmay_bhonsale.jpg" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.instructables.com/member/DangerousTim/" target="blank">Tanmay Bhonsale</a></u></h3>
+			<h3><u><a href="https://www.linkedin.com/in/tanmay-bhonsale/" target="blank">Tanmay Bhonsale</a></u></h3>
 			Research Head 2020-2021
 		</center>
 		</p>
