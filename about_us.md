@@ -67,7 +67,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/archit_rungta.jpeg" height="75%" width="75%">
+			<img src="img/people/archit_rungta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/archit-rungta-883156193/" target="blank">Archit Rungta</a></u></h3>
 			Chief Coordinator 2021-22<br>
