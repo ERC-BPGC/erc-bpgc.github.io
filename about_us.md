@@ -172,7 +172,7 @@ weight: 2
 			<img src="img/people/aditya_bidwai.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/" target="blank">Aditya Bidwai</a></u></h3>
-			Core Member
+			President for Life and Chief Sponsor
 		</center>
 		</p>
 	</div>
