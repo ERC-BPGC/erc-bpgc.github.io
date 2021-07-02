@@ -55,43 +55,23 @@ weight: 2
     <div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/atharv_sonwane.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://threewisemonkeys-as.github.io" target="blank">Atharv Sonwane</a></u></h3>
-			Chief Coordinator 2020-2021
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/tanmay_bhonsale.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/tanmay-bhonsale/" target="blank">Tanmay Bhonsale</a></u></h3>
-			Research Head 2020-2021
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/vedant_shah.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://veds12.github.io/" target="blank">Vedant Shah</a></u></h3>
-			Teaching Head 2020-2021
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
 			<img src="img/people/ashutosh_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/" target="blank">Ashutosh Gupta</a></u></h3>
-			Media Head 2020-2021
+			Chief Coordinator 2021-22<br>
+			Summer Intern, Peppermint Robotics
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/archit_rungta.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/archit-rungta-883156193/" target="blank">Archit Rungta</a></u></h3>
+			Chief Coordinator 2021-22<br>
+			Summer Intern, Mowito
 		</center>
 		</p>
 	</div>
@@ -102,26 +82,12 @@ weight: 2
 			<img src="img/people/pranav_goyal.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/" target="blank">Pranav Goyal</a></u></h3>
-			Media Head 2020-2021
+			Teaching Head 2021-22<br>
+			Summer Intern, Mowito
 		</center>
 		</p>
 	</div>
-	<div class="4u 12u$(medium)">
-	</div>
 
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
-			Inventory Head 2020-2021
-		</center>
-		</p>
-	</div>
-	<div>
-
-	<div class="row">
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -136,6 +102,63 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
+			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
+			Inventory Head 2020-2021
+		</center>
+		</p>
+	</div>
+	<div class="4u 12u$(medium)">
+	</div>
+</div>
+
+<hr class="major">
+
+
+
+<h2> Batch of 2018 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/atharv_sonwane.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://threewisemonkeys-as.github.io" target="blank">Atharv Sonwane</a></u></h3>
+			Chief Coordinator 2020-2021<br>
+			Summer Research Intern, TCS Research
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/tanmay_bhonsale.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/tanmay-bhonsale/" target="blank">Tanmay Bhonsale</a></u></h3>
+			Research Head 2020-2021<br>
+			Summer Intern, Peppermint Robotics
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/vedant_shah.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://veds12.github.io/" target="blank">Vedant Shah</a></u></h3>
+			Teaching Head 2020-2021<br>
+			Summer Research Intern, TCS Research
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
 			<img src="img/people/advait_kulkarni.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/" target="blank">Advait Kulkarni</a></u></h3>
@@ -143,7 +166,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -180,10 +203,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-		    <img src="img/people/anirudha_shrinivas.jpg" height="75%" width="75%">
+			<img src="img/people/anirudha_shrinivas.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0" target="blank">Anirudha Shrinivas</a></u></h3>
-			Core Member
+			Core Member<br>
+			Summer Intern, CDAC
 		</center>
 		</p>
 	</div>
@@ -194,7 +218,8 @@ weight: 2
 			<img src="img/people/shivangi_gupta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b" target="blank">Shivangi Gupta</a></u></h3>
-			Core Member
+			Core Member<br>
+			Software Engineering Intern, Walmart
 		</center>
 		</p>
 	</div>
@@ -253,8 +278,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	</div>
-    <div class="row">
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -265,10 +289,8 @@ weight: 2
 		</center>
 		</p>
 	</div>
+
 </div>
-
-<hr class="major">
-
 
 
 <h2> Batch of 2017 </h2>
