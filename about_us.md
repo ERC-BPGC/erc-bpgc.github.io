@@ -70,7 +70,7 @@ weight: 2
 			<img src="img/people/archit_rungta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/archit-rungta-883156193/" target="blank">Archit Rungta</a></u></h3>
-			Chief Coordinator 2021-22<br>
+			Technical Head 2021-22<br>
 			Summer Intern, Mowito
 		</center>
 		</p>
