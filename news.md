@@ -13,12 +13,72 @@ weight: 4
             <h1>News</h1>
         </header>
 		<hr>
+		<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">3-D design Competition@ CTE Techweekend 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">11/07/2021<br>3:00 PM to 6:00 PM</h4>
+				<p>
+				CTE presents its 3D model designing event "3D Design Competition" in association with Aerodynamics Club, ERC and SAE. Participants will be required to design a model of a part, component or an entire structure from a limited set of inputs in this event. <br> Prizes upto 5k
+				</p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe-O2tk_NFcbV3bB6X0s9QaLQTAqtAbz1iR833ZAYSMrIksVQ/viewform" class="button" target="blank">Register</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<hr>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Curvature Constrained Path Planning@ CTE Techweekend 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">09/07/2021<br> 5:00 PM</h4>
+				<p>
+				Motion planning is a fundamental research area in robotics. Numerous methods have been proposed to accomplish this task. However, the motion of car-like vehicles is constrained by their minimum turning radius, making it necessary to be considered during planning paths for such vehicles. In this talk by our alumni Mohit Gupta, We will briefly discuss the concept of continuity and visit many such algorithms starting from the very primitive to continuous curvature path planning techniques.
+				</p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2Qr1mSAk7ZkQSiOI3CgoXMJG_hgiZObHNLdOx13GMEjeEVg/viewform?usp=send_form" class="button" target="blank">Register</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<hr>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Arduino Open @ CTE Techweekend 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">07/07/2021<br> 6:00 PM to 8:00 PM </h4>
+				<p>
+				It's amazing how you can make something as functional as a robotic arm at the same time as trivial as blinking an LED with the same board. With an Arduino the only limit is your imagination and thinking; you can make mind-blowing stuff happen. So let that current flow through the processor of your brain with Arduino Open, presented by CTE in association with ERC. Don't worry about hardware, we will be using TinkerCAD for the event. The event is for individual participants. Complete the tasks to win exciting prizes. <br>Prizes upto 5k
+				</p>
+				<ul class="actions">
+					<li><a href="https://bp-gc.in/Tw21_arduino" class="button" target="blank">Register</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<hr>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<h2 style="margin-bottom:10px !important;">Bio Inspired Robot Swarms @ CTE Techweekend 2021</h2>
+                <h4 style="padding:0px !important; margin:0px !important;">05/07/2021<br> 6:30 PM to 7:30 PM </h4>
+				<p>
+				This TechWeekend CTE brings ERC Talk on "Bio-inspired Robot Swarms" by our alumni Rishikesh Vanarse. Swarm Robotics draws inspiration from behaviours of birds and insects in nature to give a group of 'unintelligent' robots the ability to show intelligent behaviours through 'swarm intelligence' or 'collective decision-making algorithms.
+				</p>
+				<ul class="actions">
+					<li><a href="bp-gc.in/Tw21_ERCTalk1" class="button" target="blank">Register</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<hr>				
     <section>
 		<div class="content">
 			<div class="inner">
 				<h2 style="margin-bottom:10px !important;">ROS Hackathon @ Summer 2021</h2>
                 <h4 style="padding:0px !important; margin:0px !important;">18/05/2021</h4>
-				<h4 style="padding:0px !important; margin:0px !important;">Deadline: 13th June EOD </h4>
+				<h4 style="padding:0px !important; margin:0px !important;">Deadline: 10th July EOD </h4>
 				<p>
 				ERC brings you The ROS Hackathon 2021. The task will challenge you to automate Omnibase robot to reach the goal position while avoiding collision with obtacles in the given world. The task is aimed to delvelop understanding and apply your knowledge of ROS. This hackathon is a very good place to start for anyone who is interested in the feild of robotics.
 				</p>
@@ -130,23 +190,6 @@ weight: 4
 		</div>
 	</section>
     <hr>
-    <section>
-		<div class="content">
-			<div class="inner">
-				<h2 style="margin-bottom:10px !important;">Robotics Hackathon @ CTE Techweekend 2020</h2>
-                <h4 style="padding:0px !important; margin:0px !important;">03/10/2020</h4>
-				<p>
-				ERC in Collaboration with CTE brings you - the Intelligent Robotics Hackathon. The task will challenge you to code up a robot that can display intelligent behavior. We hope the task will bring out the best of your technical and logical thinking abilities. 
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Robotics_Hackathon" class="button" target="blank">Hackathon</a></li>
-                    <li><a href="https://fest.bpgc-cte.org/" class="button" target="blank">CTE Techweekend</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-    <hr>
-	
 	
 </div>
 </section>
