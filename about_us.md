@@ -109,8 +109,95 @@ weight: 2
 		</center>
 		</p>
 	</div>
+	
 	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/abdul_jawad_khan.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/abdul-jawad-khan-52013817b/" target="blank">Abdul Jawad Khan</a></u></h3>
+			Core Member
+		</center>
+		</p>
 	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/avinandan_nag.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/avinandan-nag-607691193" target="blank">Avinandan Nag</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/mansi_bhosale.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/mansi-bhosale-a4600a194" target="blank">Mansi Bhosale</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/paurush_punyasheel.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/paurush-punyasheel-596179136/" target="blank">Paurush Punyasheel</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/sanskar_jain.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sanskar-jain-8098831a6/" target="blank">Sanskar Jain</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/srujan_deolasee.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/srujan-deolasee/" target="blank">Srujan Deolasee</a></u></h3>
+			Research Intern at A.R.M.S. Lab, IIT Bombay
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/suhrudh_s.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://suhrudhsarathy.github.io/" target="blank">Suhrudh S</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/sushant_sreeram_swamy.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sushant-s-45b0391b2" target="blank">Sushant S</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+	
 </div>
 
 <hr class="major">
@@ -241,7 +328,7 @@ weight: 2
 			<img src="img/people/abhishek_dixit.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185" target="blank">Abhishek Dixit</a></u></h3>
-			Core Member
+			Summer Internships at Peppermint Robotics and Social Robots
 		</center>
 		</p>
 	</div>
