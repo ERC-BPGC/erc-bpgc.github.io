@@ -325,10 +325,10 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/abhishek_dixit.jpg" height="75%" width="75%">
+			<img src="img/people/aadhar_sharma.jpeg" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185" target="blank">Abhishek Dixit</a></u></h3>
-			Summer Internships at Peppermint Robotics and Social Robots
+			<h3><u><a href=" https://www.linkedin.com/in/aadharsharma218/" target="blank">Aadhar Sharma</a></u></h3>
+			Core Member
 		</center>
 		</p>
 	</div>
@@ -336,10 +336,11 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/aadhar_sharma.jpeg" height="75%" width="75%">
+			<img src="img/people/abhishek_dixit.jpg" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/aadharsharma218/" target="blank">Aadhar Sharma</a></u></h3>
-			Core Member
+			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185" target="blank">Abhishek Dixit</a></u></h3>
+			Core Member<br>
+			Summer Internships at Peppermint Robotics and Social Robots
 		</center>
 		</p>
 	</div>
@@ -354,7 +355,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
+	
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -379,6 +380,7 @@ weight: 2
 
 </div>
 
+<hr class="major">
 
 <h2> Batch of 2017 </h2>
 
@@ -478,6 +480,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2016 </h2>
 
 <div class="row">
@@ -554,6 +558,7 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
 
 <h2> Batch of 2015 </h2>
 
@@ -653,6 +658,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2014 </h2>
 
 <div class="row">
@@ -747,6 +754,8 @@ weight: 2
 		</p>
 	</div>
 </div>
+
+<hr class="major">
 
 <h2> Batch of 2013 </h2>
 
@@ -880,6 +889,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2012 </h2>
 
 <div class="row">
@@ -967,6 +978,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2011 </h2>
 
 <div class="row">
@@ -1028,6 +1041,8 @@ weight: 2
 		</p>
 	</div>
 </div>
+
+<hr class="major">
 
 <h2> Batch of 2010 </h2>
 
@@ -1138,6 +1153,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2009 </h2>
 
 <div class="row">
@@ -1211,6 +1228,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2008 </h2>
 
 <div class="row">
@@ -1262,6 +1281,8 @@ weight: 2
 	</div>
 </div>
 
+<hr class="major">
+
 <h2> Batch of 2007 </h2>
 
 <div class="row">
@@ -1312,6 +1333,8 @@ weight: 2
 		</p>
 	</div>
 </div>
+
+<hr class="major">
 
 <h2> Batch of 2006 </h2>
 
