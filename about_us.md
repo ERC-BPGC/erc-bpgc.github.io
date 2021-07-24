@@ -182,7 +182,7 @@ weight: 2
 			<img src="img/people/suhrudh_s.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://suhrudhsarathy.github.io/" target="blank">Suhrudh S</a></u></h3>
-			Core Member
+			Summer Intern, Peppermint Robotics
 		</center>
 		</p>
 	</div>
@@ -293,7 +293,6 @@ weight: 2
 			<img src="img/people/anirudha_shrinivas.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0" target="blank">Anirudha Shrinivas</a></u></h3>
-			Core Member<br>
 			Summer Intern, CDAC
 		</center>
 		</p>
@@ -305,7 +304,6 @@ weight: 2
 			<img src="img/people/shivangi_gupta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b" target="blank">Shivangi Gupta</a></u></h3>
-			Core Member<br>
 			Software Engineering Intern, Walmart
 		</center>
 		</p>
@@ -339,8 +337,7 @@ weight: 2
 			<img src="img/people/abhishek_dixit.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185" target="blank">Abhishek Dixit</a></u></h3>
-			Core Member<br>
-			Summer Internships at Peppermint Robotics and Social Robots
+			Summer Intern, Peppermint Robotics
 		</center>
 		</p>
 	</div>
