@@ -1087,7 +1087,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kushagra-nigam-18818b75/" target="blank">Kushagra Nigam</a></u></h3>
 			Lecture Series Manager 2012-2013<br>
-			Scientific Officer, Institute For Plasma Research
+			Scientific Officer, CPP-IPR
 		</center>
 		</p>
 	</div>
