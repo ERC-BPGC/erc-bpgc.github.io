@@ -91,29 +91,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/yash_jangir.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/" target="blank">Yash Jangir</a></u></h3>
-			Inventory Head 2020-2021
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
-			Inventory Head 2020-2021
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/ansh_srivastava_alt.jpeg" height="75%" width="75%">
+			<img src="img/people/ansh_srivastava.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/anshsrivastava18/" target="blank">Ansh Srivastava</a></u></h3>
 			Management Committee 2021-2022
@@ -150,6 +128,28 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/dhruv-potdar-322173204/" target="blank">Dhruv Potdar</a></u></h3>
 			Management Committee 2021-2022
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/yash_jangir.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/" target="blank">Yash Jangir</a></u></h3>
+			Inventory Head 2020-2021
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
+			Inventory Head 2020-2021
 		</center>
 		</p>
 	</div>
