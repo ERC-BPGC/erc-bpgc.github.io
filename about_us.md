@@ -113,7 +113,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ansh_srivastava_alt.jpeg" height="75%" width="75%">
+			<img src="img/people/ansh_srivastava.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/anshsrivastava18/" target="blank">Ansh Srivastava</a></u></h3>
 			Management Committee 2021-2022
