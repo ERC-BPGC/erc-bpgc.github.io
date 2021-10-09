@@ -59,7 +59,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/" target="blank">Ashutosh Gupta</a></u></h3>
 			Chief Coordinator 2021-22<br>
-			Summer Intern, Peppermint Robotics
+			Research Collaborator, University of Sheffield
 		</center>
 		</p>
 	</div>
@@ -270,7 +270,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tanmay-bhonsale/" target="blank">Tanmay Bhonsale</a></u></h3>
 			Research Head 2020-2021<br>
-			Summer Intern, Peppermint Robotics
+			Research Collaborator, University of Sheffield
 		</center>
 		</p>
 	</div>

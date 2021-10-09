@@ -1,8 +1,15 @@
-Web-Dev for ERC Club BITS GOA
- Built using Jekyll Framework
+# ERC Website
 
- To local host:-
+Web-Dev for Electronics and Robotics Club, BITS Goa.
 
- bundle exec jekyll serve in the folder directory 
+Built using Jekyll Framework
 
- note:- Ruby and gemfile is required 
+## To local host
+
+In repository root directory, run the following command:
+
+```shell
+bundle exec jekyll serve
+```
+
+Note:- Ruby and gemfile are required to run the server
