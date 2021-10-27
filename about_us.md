@@ -293,7 +293,7 @@ weight: 2
 			<img src="img/people/advait_kulkarni.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/" target="blank">Advait Kulkarni</a></u></h3>
-			Media Head 2019-2020
+			Research Intern Bm Birla Science Center<br>Media Head 2019-2020
 		</center>
 		</p>
 	</div>
@@ -304,7 +304,7 @@ weight: 2
 			<img src="img/people/eash_vrudhula.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170" target="blank">Eash Vrudhula</a></u></h3>
-			Media Head 2019-2020
+			Software Engineering Intern, Draup<br>Media Head 2019-2020
 		</center>
 		</p>
 	</div>
@@ -315,7 +315,7 @@ weight: 2
 			<img src="img/people/mohit_chaudhari.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/" target="blank">Mohit Chaudhari</a></u></h3>
-			Inventory Head 2019-2020
+			Inventory Head<br>2019-2020
 		</center>
 		</p>
 	</div>
@@ -348,7 +348,7 @@ weight: 2
 			<img src="img/people/shivangi_gupta.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b" target="blank">Shivangi Gupta</a></u></h3>
-			Software Engineering Intern, Walmart
+			Software Development Intern, Walmart
 		</center>
 		</p>
 	</div>
@@ -392,7 +392,7 @@ weight: 2
 			<img src="img/people/shambhavi_singh.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shambhavi-singh-14a5b11b0/" target="blank">Shambhavi Singh</a></u></h3>
-			Core Member
+			Core Member<br>Embedded System Developer, RMJ Automation
 		</center>
 		</p>
 	</div>
@@ -403,7 +403,7 @@ weight: 2
 			<img src="img/people/rohan_kunjir.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/" target="blank">Rohan Kunjir</a></u></h3>
-			Core Member
+			Summer Intern, Nihon Communication Solutions<br>Core Member
 		</center>
 		</p>
 	</div>
@@ -445,7 +445,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/" target="blank">Rishikesh Vanarse</a></u></h3>
 			Sub Coordinator 2019-2020<br>
-			Research Intern at ARL, UNR
+			Research Associate, Carnegie Mellon University
 		</center>
 		</p>
 	</div>
@@ -457,7 +457,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://hardesh.github.io/" target="blank">Harshal Deshpande</a></u></h3>
 			Teaching Head 2019-2020<br>
-			Research Intern at ARL, UNR
+			Senior Robotics Engineer, Peppermint Robots
 		</center>
 		</p>
 	</div>
@@ -469,7 +469,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/prathmesh-thorwe-b76469153/" target="blank">Prathmesh Thorwe</a></u></h3>
 			Technical Head 2019-2020<br>
-			Research Intern at EmbedOS
+			Associate Engineer Qualcomm
 		</center>
 		</p>
 	</div>
@@ -493,7 +493,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mohit-sushil-gupta-7a3821184/" target="blank">Mohit Gupta</a></u></h3>
 			Research Head 2019-2020<br>
-			Thesis at CSIR-NIO
+			Research Assitant, IISc Bangalore
 		</center>
 		</p>
 	</div>
@@ -504,7 +504,8 @@ weight: 2
 			<img src="img/people/ojit_mehta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/" target="blank">Ojit Mehta</a></u></h3>
-			Thesis at Air Lab,CMU
+			Thesis at Air Lab,CMU<br>
+			Software Designer, Hyperloop India
 		</center>
 		</p>
 	</div>
@@ -515,7 +516,8 @@ weight: 2
 			<img src="img/people/sanket_yannuwar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.researchgate.net/profile/Sanket_Yannuwar" target="blank">Sanket Yannuwar</a></u></h3>
-			Intern at Divgi TorqTransfer Systems
+			Intern at Divgi TorqTransfer Systems<br>
+			Engineer, Sarvaay Solutions LLP
 		</center>
 		</p>
 	</div>
@@ -533,7 +535,7 @@ weight: 2
 			<br>
 			<h3><u><a href="http://amoghdabholkar.github.io/" target="blank">Amogh Dabholkar</a></u></h3>
 			Chief Coordinator 2018-2019<br>
-			Computer Vision Research Fellow at DreamVu
+			Machine Learning Engineer, DeepEdge 
 		</center>
 		</p>
 	</div>
@@ -569,7 +571,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kapi-ketan-m-a71b3692/" target="blank">Kapi Ketan Mehta</a></u></h3>
 			Mechanical Head 2018-2019<br>
-			MS Student at Johns Hopkins.
+			MS Student at Johns Hopkins<br>
 		</center>
 		</p>
 	</div>
@@ -592,6 +594,7 @@ weight: 2
 			<img src="img/people/yash_pandit.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-pandit-2929b7144/" target="blank">Yash Pandit</a></u></h3>
+			Software Engineer,Samsung India<br>
 			Digital Verification Engineer , Analog Devices Bangalore
 			
 		</center>
@@ -611,7 +614,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhimanyu-singh-21b017105" target="blank">Abhimanyu</a></u></h3>
 			Chief Coordinator 2017-2018<br>
-			Researcher at Biorobotics Lab, CMU
+			Research Assistant, Carnegie Mellon University
 		</center>
 		</p>
 	</div>
@@ -623,7 +626,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/svc97/" target="blank">Shubham Chavan</a></u></h3>
 			Sub Coordinator 2017-2018<br>
-			Masters in Robotics & Control, Columbia
+			System Engineer,Neocis<br>
 		</center>
 		</p>
 	</div>
@@ -635,7 +638,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/abhishek-moitra-52696798/" target="blank">Abhishek Moitra</a></u></h3>
 			Teaching Head 2017-2018<br>
-			Doctoral student, Yale University
+			Research Scholar, SRC
 		</center>
 		</p>
 	</div>
@@ -647,7 +650,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://rohangodiyal.wixsite.com/rohan-godiyal" target="blank">Rohan Godiyal</a></u></h3>
 			Research Head 2017-2018<br>
-			Mechanical Design Engineer, WCB Robotics
+			Undergraduate Research Intern, IST Lisbon
 		</center>
 		</p>
 	</div>
@@ -671,7 +674,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nkhedekar/" target="blank">Nikhil Khedekar</a></u></h3>
 			PhD Student in Autonomous Robots Lab<br>
-			University of Nevada, Reno
+			University of Nevada, Reno<br>
 		</center>
 		</p>
 	</div>
@@ -682,7 +685,8 @@ weight: 2
 			<img src="img/people/utkarsh_sarawgi.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/utkarshsarawgi" target="blank">Utkarsh Sarawgi</a></u></h3>
-			MS Student and Researcher at MIT
+			MS Student and Researcher at MIT<br>
+			AI/ML Rotational Engineer, Apple
 		</center>
 		</p>
 	</div>
@@ -693,7 +697,8 @@ weight: 2
 			<img src="img/people/shubham_kumar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shubham-kumar-1410" target="blank">Shubham Kumar</a></u></h3>
-			Software Developer at Publicis Sapient
+			Software Developer at Publicis Sapient<br>
+			Grad Student at UC San Diego
 		</center>
 		</p>
 	</div>
@@ -779,7 +784,7 @@ weight: 2
 			<img src="img/people/akshay_sancheti.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/akshaysancheti007" target="blank">Akshay Sancheti</a></u></h3>
-			ZS Associates, Pune
+			Co-Founder, Manastik
 		</center>
 		</p>
 	</div>
@@ -790,7 +795,7 @@ weight: 2
 			<img src="img/people/ananyo_rao.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ananyo-rao" target="blank">Ananyo Rao</a></u></h3>
-			Cloud Computing Engineer, Qubole
+			Senior Computer Vision Engineer, BurnCal
 		</center>
 		</p>
 	</div>
@@ -832,7 +837,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shubham-sarwate/" target="blank">Shubham Sarwate</a></u></h3>
 			Teaching Head 2015-2016<br>
-			Software Engineer, Cisco
+			Software Engineer, Appleo
 		</center>
 		</p>
 	</div>
@@ -867,8 +872,8 @@ weight: 2
 			<img src="img/people/shubham_maheshwari.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="http://www.instagram.com/shubham7maheshwari" target="blank">Shubham Maheshwari</a></u></h3>
-			Co-founder of Dessert brand,<br>
-			Winterbite
+			Co-founder, PingoLearn<br>
+			Co-founder, Winterbite
 		</center>
 		</p>
 	</div>
@@ -890,7 +895,7 @@ weight: 2
 			<img src="img/people/mandar_pradhan.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mpradhan20" target="blank">Mandar Pradhan</a></u></h3>
-			Data scientist, Ellie Mae
+			ML Engineer, Atlassian
 		</center>
 		</p>
 	</div>
@@ -901,7 +906,7 @@ weight: 2
 			<img src="img/people/edwin_mascarenhas.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/edwin-mascarenhas" target="blank">Edwin Mascarenhas</a></u></h3>
-			Architect at Nvidia
+			Graduate student at UCSD
 		</center>
 		</p>
 	</div>
@@ -942,7 +947,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/maitreyanaik/" target="blank">Maitreya Naik</a></u></h3>
 			Chief Coordinator 2014-2015<br>
-			Autonomy Engineer, Uber ATG
+			Software Engineer, Aurora
 		</center>
 		</p>
 	</div>
@@ -990,7 +995,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aum-jadhav/" target="blank">Aum Jadhav</a></u></h3>
 			Robocon Coordinator 2014-2015<br>
-			Autonomy Engineer, Uber ATG
+			Senior Software Engineer, Aurora
 		</center>
 		</p>
 	</div>
@@ -1077,7 +1082,7 @@ weight: 2
 			<img src="img/people/niharika_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/niharika-gupta-2a312676/" target="blank">Niharika Gupta</a></u></h3>
-			Systems Engineer, Intel Corporation
+			Systems Engineer, AMD
 		</center>
 		</p>
 	</div>
@@ -1154,8 +1159,8 @@ weight: 2
 			<img src="img/people/arihant_lunawat.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arihantlunawat/" target="blank">Arihant Lunawat</a></u></h3>
-			Perception & Localization Engineer<br>
-			Outrider, Denver, CO, USA
+			Robotics Software Engineer<br>
+			Energy Robotics
 		</center>
 		</p>
 	</div>
@@ -1333,8 +1338,8 @@ weight: 2
 			<img src="img/people/ajusal_sugathan.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
-			Chief Coordinator 2009-2010<br>
-			CEO & Portfolio Manager, StatAlpha Advisors
+			Head, Quantitative Research and Trading<br>
+			Altitude Trading
 		</center>
 		</p>
 	</div>
@@ -1387,7 +1392,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arjun-bidesi/" target="blank">Arjun Bidesi</a></u></h3>
 			Co-Founder, ERC<br>
-			Senior Consultant, IQVIA
+			Growth and Marketing Analytics, Thumbtack
 		</center>
 		</p>
 	</div>
@@ -1399,7 +1404,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/jayanthvaranasi/" target="blank">Jayanth Varanasi</a></u></h3>
 			Co-Founder, ERC<br>
-			Senior Product Manager, Unacademy
+			Director of Product, Sugarbox
 		</center>
 		</p>
 	</div>
