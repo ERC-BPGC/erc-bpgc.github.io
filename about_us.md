@@ -293,6 +293,7 @@ weight: 2
 			<img src="img/people/advait_kulkarni.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/" target="blank">Advait Kulkarni</a></u></h3>
+			Media Head 2019-2020<br>
 			Research Intern Bm Birla Science Center<br>Media Head 2019-2020
 		</center>
 		</p>
@@ -304,7 +305,8 @@ weight: 2
 			<img src="img/people/eash_vrudhula.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170" target="blank">Eash Vrudhula</a></u></h3>
-			Software Engineering Intern, Draup<br>Media Head 2019-2020
+			Media Head 2019-2020<br>
+			Software Engineering Intern, Draup
 		</center>
 		</p>
 	</div>
@@ -392,7 +394,7 @@ weight: 2
 			<img src="img/people/shambhavi_singh.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shambhavi-singh-14a5b11b0/" target="blank">Shambhavi Singh</a></u></h3>
-			Core Member<br>Embedded System Developer, RMJ Automation
+			Embedded System Developer, RMJ Automation
 		</center>
 		</p>
 	</div>
@@ -403,7 +405,7 @@ weight: 2
 			<img src="img/people/rohan_kunjir.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/" target="blank">Rohan Kunjir</a></u></h3>
-			Summer Intern, Nihon Communication Solutions<br>Core Member
+			Summer Intern, Nihon Communication Solutions	
 		</center>
 		</p>
 	</div>
@@ -433,7 +435,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/tejas-rane-359590149/" target="blank">Tejas Rane</a></u></h3>
 			Chief Coordinator 2019-2020<br>
-			Intern at RBCCPS, IISc Bangalore
+			Research Scholar at Biorobotics Lab
 		</center>
 		</p>
 	</div>
@@ -469,7 +471,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/prathmesh-thorwe-b76469153/" target="blank">Prathmesh Thorwe</a></u></h3>
 			Technical Head 2019-2020<br>
-			Associate Engineer Qualcomm
+			Graduate Researcher at Silence Laboratories
 		</center>
 		</p>
 	</div>
@@ -481,7 +483,8 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-phopale-666a7515b/" target="blank">Aditya Phopale</a></u></h3>
 			Mechanical Head 2019-2020<br>
-			Research Thesis at IIT Madras
+			Masters student in Computational Science and Engineering<br>
+			Technical University of Munich
 		</center>
 		</p>
 	</div>
@@ -504,7 +507,6 @@ weight: 2
 			<img src="img/people/ojit_mehta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://ojitmehta123.github.io/" target="blank">Ojit Mehta</a></u></h3>
-			Thesis at Air Lab,CMU<br>
 			Software Designer, Hyperloop India
 		</center>
 		</p>
@@ -515,9 +517,8 @@ weight: 2
 		<center>
 			<img src="img/people/sanket_yannuwar.jpeg" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.researchgate.net/profile/Sanket_Yannuwar" target="blank">Sanket Yannuwar</a></u></h3>
-			Intern at Divgi TorqTransfer Systems<br>
-			Engineer, Sarvaay Solutions LLP
+			<h3><u><a href="https://www.linkedin.com/in/sanket-yannuwar-671619200/" target="blank">Sanket Yannuwar</a></u></h3>
+			Graduate student at North Carolina state university
 		</center>
 		</p>
 	</div>
@@ -571,7 +572,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/kapi-ketan-m-a71b3692/" target="blank">Kapi Ketan Mehta</a></u></h3>
 			Mechanical Head 2018-2019<br>
-			MS Student at Johns Hopkins<br>
+			MS Student at Johns Hopkins
 		</center>
 		</p>
 	</div>
@@ -595,8 +596,6 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-pandit-2929b7144/" target="blank">Yash Pandit</a></u></h3>
 			Software Engineer,Samsung India<br>
-			Digital Verification Engineer , Analog Devices Bangalore
-			
 		</center>
 		</p>
 	</div>
@@ -674,7 +673,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/nkhedekar/" target="blank">Nikhil Khedekar</a></u></h3>
 			PhD Student in Autonomous Robots Lab<br>
-			University of Nevada, Reno<br>
+			University of Nevada, Reno
 		</center>
 		</p>
 	</div>
@@ -1338,6 +1337,7 @@ weight: 2
 			<img src="img/people/ajusal_sugathan.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
+			Chief Coordinator<br>
 			Head, Quantitative Research and Trading<br>
 			Altitude Trading
 		</center>
