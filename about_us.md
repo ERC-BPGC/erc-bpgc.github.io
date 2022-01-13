@@ -294,7 +294,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa/" target="blank">Advait Kulkarni</a></u></h3>
 			Media Head 2019-2020<br>
-			Research Intern Bm Birla Science Center<br>Media Head 2019-2020
+			Research Intern Bm Birla Science Center
 		</center>
 		</p>
 	</div>
@@ -483,8 +483,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-phopale-666a7515b/" target="blank">Aditya Phopale</a></u></h3>
 			Mechanical Head 2019-2020<br>
-			Masters student in Computational Science and Engineering<br>
-			Technical University of Munich
+			MS Computational Science, TUM
 		</center>
 		</p>
 	</div>
@@ -595,7 +594,7 @@ weight: 2
 			<img src="img/people/yash_pandit.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-pandit-2929b7144/" target="blank">Yash Pandit</a></u></h3>
-			Software Engineer,Samsung India<br>
+			Software Engineer,Samsung India
 		</center>
 		</p>
 	</div>
@@ -1337,9 +1336,8 @@ weight: 2
 			<img src="img/people/ajusal_sugathan.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ajusal/" target="blank">Ajusal Sugathan</a></u></h3>
-			Chief Coordinator<br>
-			Head, Quantitative Research and Trading<br>
-			Altitude Trading
+			Chief Coordinator 2009-2010<br>
+			Head of Quant Research, Altitude Trading
 		</center>
 		</p>
 	</div>
