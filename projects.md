@@ -48,7 +48,7 @@ weight: 1
 				<header class="major">
 					<h3>Trotbot</h3>
 				</header>
-				<p>Founder: Harshal Deshpande <br>Current Project Lead: Suhrudh S. <br>
+				<p>Team Lead: Harshal Deshpande <!--<br>Current Team Lead: Suhrudh S.--><br>
 				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
 				To deliver packages from one location to another in offices, construction sites etc.
 				It can also be teleoperated to nearby locations using the camera feed.
@@ -71,7 +71,7 @@ weight: 1
 				<header class="major">
 					<h3>EchoSLAM</h3>
 				</header>
-				<p>Team Lead: Tanmay Bhonsale and Aadhar Sharma <br>
+				<p>Team Lead: Tanmay Bhonsale<br>
 				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
