@@ -83,7 +83,7 @@ weight: 1
 	
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" data-position="center center" />
+			<img src="img/projects/acoustic_camera.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
