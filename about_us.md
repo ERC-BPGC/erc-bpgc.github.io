@@ -91,17 +91,6 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/ansh_srivastava.jpeg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/anshsrivastava18/" target="blank">Ansh Srivastava</a></u></h3>
-			Management Committee 2021-2022
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
 			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
