@@ -48,7 +48,7 @@ weight: 1
 				<header class="major">
 					<h3>Trotbot</h3>
 				</header>
-				<p>Team Lead: Harshal Deshpande <br>
+				<p>Team Lead: Harshal Deshpande <!--<br>Current Team Lead: Suhrudh S.--><br>
 				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
 				To deliver packages from one location to another in offices, construction sites etc.
 				It can also be teleoperated to nearby locations using the camera feed.
@@ -57,25 +57,6 @@ weight: 1
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	
-	<section>
-		<a class="image">
-			<img src="img/projects/gennav.png" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>GenNav</h3>
-				</header>
-				<p>Team Lead: Atharv Sonwane <br>
-				Gennav aims to create a general purpose python library that can be used for path planning in various robotics settings. It will have a collection of path planning algorithms, motion controllers along with various utilities to handle different methods of path optimisation, environment representation and eventually a geometry module to handle the underlying computations. Currently focused on the 2D path planning aspect of navigation.Rather than writing a big new python file for each new path planning algorithm, we could build on already defined utilities and primitives. This would be a big help to anyone working on any robot with autonomous navigation capabilities in the future. All they would need to do is implement the robot specific code and use gennav for the planning, control and optimization heavy lifting.
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/gennav" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -90,7 +71,7 @@ weight: 1
 				<header class="major">
 					<h3>EchoSLAM</h3>
 				</header>
-				<p>Team Lead: Tanmay Bhonsale and Aadhar Sharma <br>
+				<p>Team Lead: Tanmay Bhonsale<br>
 				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
@@ -99,8 +80,27 @@ weight: 1
 			</div>
 		</div>
 	</section>
-
+	
 	<section>
+		<a class="image">
+			<img src="img/projects/acoustic_camera.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Acoustic Camera</h3>
+				</header>
+				<p>Team Leads: Tanay Patni and Sahil Shingote <br>
+				An acoustic camera is an imaging device used to locate sound sources. It uses multiple microphones and advanced acoustic signal processing algorithms to accomplish this task. Our goal is to create a low-cost acoustic camera that could be used in applications such as noise reduction in machinery and aerodynamic surfaces
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<!--<section>
 		<a class="image">
 			<img src="img/projects/romanov.jpeg" data-position="center center" />
 		</a>
@@ -118,7 +118,7 @@ weight: 1
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>-->
 
 	<section>
 		<a class="image">
@@ -141,7 +141,7 @@ weight: 1
 		</div>
 	</section>
 
-	<section>
+	<!--<section>
 		<a class="image">
 			<img src="img/projects/carborone.jpeg" data-position="center center" />
 		</a>
@@ -158,9 +158,9 @@ weight: 1
 				</ul>
 			</div>
 		</div>
-	</section>
-
-	<section>
+	</section>-->
+	
+	<!--<section>
 		<a class="image">
 			<img src="img/projects/ball-drone.png" data-position="center center" />
 		</a>
@@ -174,7 +174,7 @@ weight: 1
 				</p>
 			</div>
 		</div>
-	</section>
+	</section>-->
 
 <div class="inner">
 <header class="major">
@@ -182,6 +182,25 @@ weight: 1
 </header>
 </div>
 
+	<section>
+		<a class="image">
+			<img src="img/projects/gennav.png" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GenNav</h3>
+				</header>
+				<p>Team Lead: Atharv Sonwane <br>
+				Gennav aims to create a general purpose python library that can be used for path planning in various robotics settings. It will have a collection of path planning algorithms, motion controllers along with various utilities to handle different methods of path optimisation, environment representation and eventually a geometry module to handle the underlying computations. Currently focused on the 2D path planning aspect of navigation.Rather than writing a big new python file for each new path planning algorithm, we could build on already defined utilities and primitives. This would be a big help to anyone working on any robot with autonomous navigation capabilities in the future. All they would need to do is implement the robot specific code and use gennav for the planning, control and optimization heavy lifting.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/gennav" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
 	<section>
 		<a class="image">
 			<img src="img/projects/quadruped.png" data-position="top center" />

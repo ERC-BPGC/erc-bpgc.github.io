@@ -119,13 +119,14 @@ show_tile: false
 		<p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.</p>
 	    <p>The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
         <p>This will be a great opportunity not only to develop new skills but also to get to know ERC members. We will be looking out for those of you who show enthusiasm throughout the projects to be inducted into the club. And while we’ll do our best to provide guidance, ultimately it will be up to you to learn and put in the effort to complete the project.</p>
-        <p><b>Note:</b> To apply for more than one project, you may submit this form multiple times (though you can only take a maximum of two projects).</p>
-		<h4>Deadline for registeration is 25th Jan EOD</h4>
+		<h4>Mini Projects will be announced soon. Stay tuned!</h4>
+        <!--<p><b>Note:</b> To apply for more than one project, you may submit this form multiple times (though you can only take a maximum of two projects).</p>
+		<h4>Deadline for registeration is 25th Jan EOD</h4>-->
 	</div>
 </div>
 </div>
 
-<div id="main">
+<!--<div id="main">
 
 <section id="two" class="spotlights">
 
@@ -267,7 +268,7 @@ show_tile: false
 		</div>
 	</section>
 </section>
-</div>
+</div>-->
 <script>
 function brakechain() {
   var a;
