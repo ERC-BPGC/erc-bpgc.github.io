@@ -119,21 +119,21 @@ show_tile: false
 		<p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.</p>
 	    <p>The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
         <p>This will be a great opportunity not only to develop new skills but also to get to know ERC members. We will be looking out for those of you who show enthusiasm throughout the projects to be inducted into the club. And while we’ll do our best to provide guidance, ultimately it will be up to you to learn and put in the effort to complete the project.</p>
-		<h4>Mini Projects will be announced soon. Stay tuned!</h4>
-        <!--<p><b>Note:</b> To apply for more than one project, you may submit this form multiple times (though you can only take a maximum of two projects).</p>
-		<h4>Deadline for registeration is 25th Jan EOD</h4>-->
+		<!-- <h4>Mini Projects will be announced soon. Stay tuned!</h4> -->
+        <p><b>Note:</b> You can apply for a maximum of two projects</p>
+		<h4>Deadline for registration is 6th Feb EOD</h4>
 	</div>
 </div>
 </div>
 
-<!--<div id="main">
+<div id="main">
 
 <section id="two" class="spotlights">
 
 <div class='inner' style="padding:0px !important; padding-top:2em !important;">
 <center>
 <ul class="actions">
-<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfxGp9lZC7TelZEwytV6WU0c7O_Y86gZ79Sx3pPB35nfqRg7g/viewform?usp=sf_link" target="blank" class="button sign">Sign Up Here</a></li>
+<li><a href="https://forms.gle/wDtSEFP1NX7MLDww8" target="blank" class="button sign">Sign Up Here</a></li>
 </ul>
 </center>
 </div>
@@ -150,7 +150,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1SyvJi2ebhtIxws-zDsgQIpjIAVBZHq9-m-yNXoJQCZM/edit?usp=sharing" target="blank"> Arduino Clock <div id="div1" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/10LeVVtVNWnBgMhgU84Z2oGA4M6-1BIDu/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank"> Arduino Clock <div id="div1" class="fa"></div></a></h3>
 				</header>
 				<p>Arduino is an open-source prototyping platform in electronics based on easy-to-use hardware and software. It is a microcontroller-based prototyping board capable of developing digital devices that can read inputs like a finger on a button, touch on a screen, light on a sensor etc. This project aims to create a clock using an Arduino in TinkerCAD, including timer and stopwatch features. During its course, you will learn how to use Arduino’s hardware timers and interrupts, and peripherals like LCDs, buttons, and LEDs.
 				</p>
@@ -164,7 +164,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/12QYzrYppNINaOPEKVCVEJiHTvlqlHUtvJKc4AUpfJY4/edit?usp=sharing" target="blank">Arduino Obstacle Avoiding Car Controller <div id="div2" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1vUBBhniTciG8jZuReF4dQ_6z7lt2MmFr/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Arduino Obstacle Avoiding Car Controller <div id="div2" class="fa"></div></a></h3>
 				</header>
 				<p>Thanks to its versatility and simplicity, the Arduino is extensively used to control robots. One of the necessary skills of any robot is to move without bumping into objects. This project aims to create a fundamental obstacle avoiding car circuit, which is one of the simplest beginner’s robotics projects. Although you will not construct the entire bot, you will design and simulate the controller circuit based on an Arduino UNO. Learning objectives include differential drives, ultrasonic distance sensors and motor control.
                 </p>
@@ -177,7 +177,7 @@ show_tile: false
 <h1>Mechanical</h1>
 </header>
 </div>
-	<section>
+	<!-- <section>
 		<a class="image">
 			<img src="img/mini_project/chebyshev_lambda.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
@@ -190,7 +190,7 @@ show_tile: false
 				</p>
 			</div>
 		</div>
-	</section>
+	</section> -->
     <section>
 		<a class="image">
 			<img src="img/mini_project/robot_gripper.jpeg" alt="Project in progress XD" data-position="center center" />
@@ -198,7 +198,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1CTbPiiDTvGyH7ph43QfNXturaXg3IwnXfeLiGglcLFg/edit?usp=sharing" target="blank">Robot Gripper and Arm <div id="div4" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/13n0jSDO6e6RT3AiiZa6HJn5OyKKXxXtP/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Robotic Arm Manipulator <div id="div4" class="fa"></div></a></h3>
 				</header>
 				<p>If you think of a simple industrial robot as consisting of an arm, with an 'elbow' and a 'wrist' for motion and a 'hand' for picking things up, you're not being childish –in fact, you're thinking like a roboticist. Industrial robot 'arms', as they are called, do have elbows and wrists. At the end of the arm, robots are often fitted with what are called grippers – special devices designed to help robots handle objects in the real world. This project aims to design and create a conceptual Robot arm along with its gripper. Also, learn how to use most of the tools and features of Solidworks or Fusion360 since we will do the robot's mechanical design and assembly on Solidworks or Fusion360.
                 </p>
@@ -218,23 +218,23 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1QwIIwDc4N1uj8cpsDlXGhx9-6336v1r2SXOnRFeSPQY/edit?usp=sharing" target="blank">Control of an Inverted Pendulum on a Cart <div id="div5" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1N2oO3CjYPJTGYgPVC-Z7QHU6UHD5RuveiNPC4s5tdmo/edit?usp=sharing" target="blank">Control of an Inverted Pendulum<div id="div5" class="fa"></div></a></h3>
 				</header>
-				<p>Humans can balance on two legs, walk and handle objects effortlessly, for robots, this challenge has sprouted a whole field called Control Theory. It aims to develop methods to provide just the right amount of control signals based on feedback the robot gets from its environment. In this project you will learn about basic control theory and apply it to solve the classic cartpole problem. Then you will learn how to make models in Simulink using Simscape Multibody and use it to test various controller algorithms implemented in MATLAB.
+				<p>Humans can balance on two legs, walk and handle objects effortlessly, for robots, this is a challenge and has sprouted a whole field called Control Theory. It aims to develop methods to provide just the right amount of control signals based on feedback the robot gets from its environment. A robust control system is at the heart of any functional robot's execution of tasks. In this project you will learn about basic control theory and apply it to solve the classic cartpole problem. The controller you develop will be extended to different OpenAI Gym environments.<br>To explore further, you can learn how to make models in Simulink using Simscape Multibody and use it to test various controller algorithms implemented in MATLAB.
                 </p>
 			</div>
 		</div>
 	</section>
     <section>
 		<a class="image">
-			<img src="img/mini_project/nn_rl.png" alt="Project in progress XD" data-position="center center" />
+			<img src="img/mini_project/neural_net.jpg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/11TGGZWwxyyulVB-nom0M1SRQ-eiR_sVVVyfmWgM_yMA/edit?usp=sharing" target="blank">Neural Networks and Reinforcement Learning <div id="div6" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/120EX91xE7WVyu_SH0MqE7NbywrvYHnTC/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Neural Networks<div id="div6" class="fa"></div></a></h3>
 				</header>
-				<p>Neural networks have revolutionized what we can do with Machine Learning. When combined with Reinforcement Learning, we get a powerful method which allows robots to learn a complex range of behaviors. In this project you’ll learn the maths behind Neural Networks and build one yourself from scratch. You’ll also learn the basics of Reinforcement Learning and build a program that can learn to solve a simple task purely from experience. In the end, we’ll combine the two to train an agent to play video games.
+				<p>Neural networks have revolutionized what we can do with Machine Learning. When combined with Reinforcement Learning, we get a powerful method which allows robots to learn a complex range of behaviors. In this project you’ll learn the maths behind Neural Networks and build one yourself from scratch. The end goal of the project for now would be to build a classifier model and train it using data from MNIST.<br> If time permits, you can explore further and learn the basics of Reinforcement Learning and build a program that can learn to solve a simple task purely from experience. In the end, these two can be combined to train an agent to play video games.
                 </p>
 			</div>
 		</div>
@@ -246,7 +246,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1pb-Ae4ceqHWieKRDp98uPoif1GNRWpI5U31pZO0ghLg/edit?usp=sharing" target="blank">Path Planning with Python <div id="div7" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1aEIovQJbHvAXuEw0_xKBt5utni-JQ9tz/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Path Planning with Python <div id="div7" class="fa"></div></a></h3>
 				</header>
 				<p>Path planning is something humans do effortlessly, but takes a little more effort for robots. It involves planning a path from a start to a goal in a given environment while avoiding obstacles. It is a fundamental aspect of navigation in any form, and is used extensively throughout robotics. In this project, you will learn about the maths behind different classes of algorithms used for path planning and implement them from scratch in python.
                 </p>
@@ -255,20 +255,20 @@ show_tile: false
 	</section>
     <section>
 		<a class="image">
-			<img src="img/mini_project/line_cv.jpeg" alt="Project in progress XD" data-position="center center" />
+			<img src="img/mini_project/object_detection.jpeg" alt="Project in progress XD" data-position="center center" />
 		</a>
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Computer Vision based Line Follower <div id="div8" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Gesture Detection using OpenCV<div id="div8" class="fa"></div></a></h3>
 				</header>
-				<p>Line followers are one of the most widely used robots. They are used to navigate all sorts of places and work by following a line made on the ground. With the advent of Deep Learning, Computer Vision is gaining popularity in robotics for perception. In this project, you will be making a line following-robot which uses computer vision to detect the line and follow it using a feedback based mechanism. You will learn to use OpenCV for perception and also about simple control algorithms.
+				<p>Detection of gestures is fundamental to robot-human interaction. With the advent of Deep Learning, Computer Vision is gaining popularity in robotics for perception. This project aims to create a robust gesture detection stack to detect, recognize and if possible track the hand gesture in real time video. Gesture detection can be used to control robotic arms or cars and even for giving gesture based input to other devices like your phone or laptops.ou will learn to use OpenCV for perception and also about simple control algorithms.
                 </p>
 			</div>
 		</div>
 	</section>
 </section>
-</div>-->
+</div>
 <script>
 function brakechain() {
   var a;
