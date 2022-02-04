@@ -198,7 +198,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/13n0jSDO6e6RT3AiiZa6HJn5OyKKXxXtP/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Robotic Arm Manipulator <div id="div4" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/13n0jSDO6e6RT3AiiZa6HJn5OyKKXxXtP/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Robotic Arm Manipulator <div id="div3" class="fa"></div></a></h3>
 				</header>
 				<p>If you think of a simple industrial robot as consisting of an arm, with an 'elbow' and a 'wrist' for motion and a 'hand' for picking things up, you're not being childish –in fact, you're thinking like a roboticist. Industrial robot 'arms', as they are called, do have elbows and wrists. At the end of the arm, robots are often fitted with what are called grippers – special devices designed to help robots handle objects in the real world. This project aims to design and create a conceptual Robot arm along with its gripper. Also, learn how to use most of the tools and features of Solidworks or Fusion360 since we will do the robot's mechanical design and assembly on Solidworks or Fusion360.
                 </p>
@@ -218,7 +218,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1N2oO3CjYPJTGYgPVC-Z7QHU6UHD5RuveiNPC4s5tdmo/edit?usp=sharing" target="blank">Control of an Inverted Pendulum<div id="div5" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1N2oO3CjYPJTGYgPVC-Z7QHU6UHD5RuveiNPC4s5tdmo/edit?usp=sharing" target="blank">Control of an Inverted Pendulum<div id="div4" class="fa"></div></a></h3>
 				</header>
 				<p>Humans can balance on two legs, walk and handle objects effortlessly, for robots, this is a challenge and has sprouted a whole field called Control Theory. It aims to develop methods to provide just the right amount of control signals based on feedback the robot gets from its environment. A robust control system is at the heart of any functional robot's execution of tasks. In this project you will learn about basic control theory and apply it to solve the classic cartpole problem. The controller you develop will be extended to different OpenAI Gym environments.<br>To explore further, you can learn how to make models in Simulink using Simscape Multibody and use it to test various controller algorithms implemented in MATLAB.
                 </p>
@@ -232,7 +232,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/120EX91xE7WVyu_SH0MqE7NbywrvYHnTC/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Neural Networks<div id="div6" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/120EX91xE7WVyu_SH0MqE7NbywrvYHnTC/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Neural Networks<div id="div5" class="fa"></div></a></h3>
 				</header>
 				<p>Neural networks have revolutionized what we can do with Machine Learning. When combined with Reinforcement Learning, we get a powerful method which allows robots to learn a complex range of behaviors. In this project you’ll learn the maths behind Neural Networks and build one yourself from scratch. The end goal of the project for now would be to build a classifier model and train it using data from MNIST.<br> If time permits, you can explore further and learn the basics of Reinforcement Learning and build a program that can learn to solve a simple task purely from experience. In the end, these two can be combined to train an agent to play video games.
                 </p>
@@ -246,7 +246,7 @@ show_tile: false
 		<div class="content odd">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1aEIovQJbHvAXuEw0_xKBt5utni-JQ9tz/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Path Planning with Python <div id="div7" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1aEIovQJbHvAXuEw0_xKBt5utni-JQ9tz/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank">Path Planning with Python <div id="div6" class="fa"></div></a></h3>
 				</header>
 				<p>Path planning is something humans do effortlessly, but takes a little more effort for robots. It involves planning a path from a start to a goal in a given environment while avoiding obstacles. It is a fundamental aspect of navigation in any form, and is used extensively throughout robotics. In this project, you will learn about the maths behind different classes of algorithms used for path planning and implement them from scratch in python.
                 </p>
@@ -260,7 +260,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Gesture Detection using OpenCV<div id="div8" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Gesture Detection using OpenCV<div id="div7" class="fa"></div></a></h3>
 				</header>
 				<p>Detection of gestures is fundamental to robot-human interaction. With the advent of Deep Learning, Computer Vision is gaining popularity in robotics for perception. This project aims to create a robust gesture detection stack to detect, recognize and if possible track the hand gesture in real time video. Gesture detection can be used to control robotic arms or cars and even for giving gesture based input to other devices like your phone or laptops.ou will learn to use OpenCV for perception and also about simple control algorithms.
                 </p>
