@@ -260,7 +260,7 @@ show_tile: false
 		<div class="content even">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://docs.google.com/document/d/1Qu_r6dNSYyElHaHv1HFzqbcwRCEXIRj92t5haiKI96c/edit?usp=sharing" target="blank">Gesture Detection using OpenCV<div id="div7" class="fa"></div></a></h3>
+					<h3><a href="https://docs.google.com/document/d/18tLlNbXraV3ngXvOxCK11MvWRfBo2ACQt-UgswWxE48/edit#heading=h.gjdgxs" target="blank">Gesture Detection using OpenCV<div id="div7" class="fa"></div></a></h3>
 				</header>
 				<p>Detection of gestures is fundamental to robot-human interaction. With the advent of Deep Learning, Computer Vision is gaining popularity in robotics for perception. This project aims to create a robust gesture detection stack to detect, recognize and if possible track the hand gesture in real time video. Gesture detection can be used to control robotic arms or cars and even for giving gesture based input to other devices like your phone or laptops.ou will learn to use OpenCV for perception and also about simple control algorithms.
                 </p>
