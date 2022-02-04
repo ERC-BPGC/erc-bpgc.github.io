@@ -111,7 +111,7 @@ weight: 3
           <h4>How to Sign Up</h4>
           <ol>
           <li>Read about the available projects <b><a href='mini_projects.html'>here.</a></b></li>
-          <li>Fill up this <b><a href='https://forms.gle/bPfpXmnLWmfYkins7' target='blank'>form.</a></b></li>
+          <li>Fill up this <b><a href='https://forms.gle/wDtSEFP1NX7MLDww8' target='blank'>form.</a></b></li>
           <li>Deadline to register <b>Sunday 6th Feb EOD</b></li></ol>
           </div>
 <script>
