@@ -48,7 +48,7 @@ weight: 1
 				<header class="major">
 					<h3>Trotbot</h3>
 				</header>
-				<p>Team Lead: Harshal Deshpande <!--<br>Current Team Lead: Suhrudh S.--><br>
+				<p>Team Lead: Suhrudh S. <!--<br>Team Lead: Harshal Deshpande--><br>
 				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
 				To deliver packages from one location to another in offices, construction sites etc.
 				It can also be teleoperated to nearby locations using the camera feed.
@@ -71,7 +71,7 @@ weight: 1
 				<header class="major">
 					<h3>EchoSLAM</h3>
 				</header>
-				<p>Team Lead: Tanmay Bhonsale<br>
+				<p>Team Lead: Tanmay Bhonsale <br>
 				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
@@ -130,12 +130,12 @@ weight: 1
 					<h3>SpiderBot</h3>
 				</header>
 				<p>Team Lead: Ashutosh Gupta <br>
-				Project SpiderBot started in Feb 2020, is a hexapod with six independent legs, each with three degrees of freedom. One advantage of legged robots is that it can climb over obstacles larger than itself. Hexapod walking robots also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
-				The purpose of this robot is to make a multi terrain robot that can traverse through the most difficult terrains and study various walking gaits and controllers to find the optimum one for this kind of system.<br>
-				Currently we are working on a quadruped model and testing various controllers and walking gaits on it, before we move on to the hexapod to get a more thorough understanding of the proces.
+				Project SpiderBot started in Feb 2020, aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
+				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.<br>
+				Currently we are studying on a quadruped model and testing various controllers and walking gaits on it, and simultaneously developing concepts for a hexapod.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Ashutosh781/quadruped-simulink" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/SpiderBot" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
