@@ -152,7 +152,7 @@ show_tile: false
 				<header class="major">
 					<h3><a href="https://docs.google.com/document/d/10LeVVtVNWnBgMhgU84Z2oGA4M6-1BIDu/edit?usp=sharing&ouid=117135132165375439936&rtpof=true&sd=true" target="blank"> Arduino Clock <div id="div1" class="fa"></div></a></h3>
 				</header>
-				<p>Arduino is an open-source prototyping platform in electronics based on easy-to-use hardware and software. It is a microcontroller-based prototyping board capable of developing digital devices that can read inputs like a finger on a button, touch on a screen, light on a sensor etc. This project aims to create a clock using an Arduino in TinkerCAD, including timer and stopwatch features. During its course, you will learn how to use Arduino’s hardware timers and interrupts, and peripherals like LCDs, buttons, and LEDs.
+				<p>Arduino is an open-source prototyping platform in electronics based on easy-to-use hardware and software. It is a microcontroller-based prototyping board capable of developing digital devices that can read inputs like a finger on a button, touch on a screen, light on a sensor etc. This project aims to create a clock using an Arduino in TinkerCAD, including timer and stopwatch features. During its course, you will learn how to use Arduino’s hardware timers, and peripherals like LCDs, buttons, and LEDs.
 				</p>
 			</div>
 		</div>
