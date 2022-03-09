@@ -247,7 +247,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://threewisemonkeys-as.github.io" target="blank">Atharv Sonwane</a></u></h3>
 			Chief Coordinator 2020-2021<br>
-			Summer Research Intern, TCS Research
+			Summer Research Intern, University of Toronto
 		</center>
 		</p>
 	</div>
@@ -271,7 +271,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://veds12.github.io/" target="blank">Vedant Shah</a></u></h3>
 			Teaching Head 2020-2021<br>
-			Summer Research Intern, TCS Research
+			Summer Research Intern, Mila - Quebec AI Institute
 		</center>
 		</p>
 	</div>
