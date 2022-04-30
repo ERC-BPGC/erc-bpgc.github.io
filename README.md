@@ -34,7 +34,7 @@ In root directory of the repository, run the following command:
 bundle exec jekyll serve
 ```
 
-Output: 
+Output:   
 
 ```shell
 Configuration file: C:/Users/<path to repository>/erc-bpgc.github.io/_config.yml  
