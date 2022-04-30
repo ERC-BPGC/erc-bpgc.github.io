@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 description: Get to know us
-image: "img/people/2019-2020.jpeg"
+image: "img/people/2021-2022.jpeg"
 nav-menu: true
 weight: 2
 ---
@@ -37,7 +37,7 @@ weight: 2
 		</header>
 
 <center>
-	<img src="img/people/2019-2020.jpeg" height="75%" width="75%">
+	<img src="img/people/2021-2022.jpeg" height="75%" width="75%">
 	<br>
 	<h3>2019-2020</h3>
 	<hr>
