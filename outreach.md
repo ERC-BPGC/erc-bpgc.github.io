@@ -59,8 +59,8 @@ weight: 3
        <button class="accordion" >CTE Courses<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px;"></i></button>
              <div class="panel">
          <p><ul>
-         <li><h3>Introduction to Robotics<a href="https://bpgc-cte.org/course/5ffc778800062370245ad277" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
-         <h5>Jan 2021 - May 2021</h5>
+         <li><h3>Introduction to Robotics<a href="https://bpgc-cte.org/course/6234cc6f6dd20f53f635ff20" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+         <h5>Jan 2022 - May 2022</h5>
          The course is aimed at giving a kickstart to everyone who are interested in the field Robotics. The course will help you to get an idea about different aspects of robotics and also the new advancements in it.
          Topics covered include Arduino , PCB and ICs, Kinematics, Control Theory, Matlab & Simulink, Introduction to ROS amongst other things.<hr>
          <li><h3>Robotics: Control and Automation <a href="https://github.com/ERC-BPGC/cte-archive/tree/master/Sem2_19-20" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
@@ -69,7 +69,7 @@ weight: 3
          ROS basics, ROS Simulations, MoveIT, Autonomous navigation and OpenCV.<hr>
          <li><h3>Introduction to Robotics <a href="https://github.com/ERC-BPGC/cte-archive/tree/master/Sem1_19-20" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
          <h5>September 2019 - December 2019</h5>
-         This course is to provide a basic idea about the feild of Robotics and different areas involved in it. The content of the course includes Mechanical aspects in Robotics, Arduino programming and sensor, Python, Intro to ROS, etc.
+         This course is to provide a basic idea about the field of Robotics and different areas involved in it. The content of the course includes Mechanical aspects in Robotics, Arduino programming and sensor, Python, Intro to ROS, etc.
          </ul> </p>
         </div>
         <br><br>
@@ -91,8 +91,8 @@ weight: 3
           <button class="accordion" >CTE TechWeekend<i class="accordion-dropdown fa fa-caret-down" style="float:right; line-height:5px"></i></button>
           <div class="panel">
           <p><ul>
-          <li><h3>Arduino Open <a href="https://drive.google.com/file/d/1pvXj9pwgE4cAaGFxUdrcEI7BD0jLCwLa/view?usp=sharing" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
-          <h5>4th October 2020</h5>
+          <li><h3>Arduino Open <a href="https://docs.google.com/document/d/11ibC6AY-H74LxYIZp_dsr382BzlJZOYZn-xT3KxNYtI/edit?usp=sharing" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
+          <h5>30th March 2022</h5>
           ERC in collaboration with CTE, announces Arduino Open. Its amazing that how you can process something as functional as robotic arm and something as trivial as blinking an LED with a single-board. With Arduino the only limit is your imagination. Solve the questions given in the problem statement within the stipualted time to win exciting prizes.<hr>
           <li><h3>Robotics Hackathon <a href="https://github.com/ERC-BPGC/Robotics_Hackathon" target="blank"><i class="fa fa-link" aria-hidden="true" style="font-size:16px; padding-left:6px;" ></i></a></h3></li>
           <h5>3rd October 2020 - 10th October 2020</h5>

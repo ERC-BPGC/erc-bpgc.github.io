@@ -64,6 +64,27 @@ weight: 1
 
 	<section>
 		<a class="image">
+			<img src="img/projects/spiderbot.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>SpiderBot</h3>
+				</header>
+				<p>Team Lead: Ashutosh Gupta <br>
+				Project SpiderBot started in Feb 2020, aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
+				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.<br>
+				Currently we are studying on a quadruped model and testing various controllers and walking gaits on it, and simultaneously developing concepts for a hexapod.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/SpiderBot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
 			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
 		<div class="content">
@@ -120,26 +141,6 @@ weight: 1
 		</div>
 	</section>-->
 
-	<section>
-		<a class="image">
-			<img src="img/projects/spiderbot.jpg" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>SpiderBot</h3>
-				</header>
-				<p>Team Lead: Ashutosh Gupta <br>
-				Project SpiderBot started in Feb 2020, aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
-				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.<br>
-				Currently we are studying on a quadruped model and testing various controllers and walking gaits on it, and simultaneously developing concepts for a hexapod.
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/SpiderBot" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 
 	<!--<section>
 		<a class="image">
@@ -182,6 +183,25 @@ weight: 1
 </header>
 </div>
 
+	<!-- <section>
+		<a class="image">
+			<img src="img/projects/strikebot.png" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>StrikeBot</h3>
+				</header>
+				<p>Team Lead: Atharv Ghotavadekar and Aditya Parandekar <br>
+				Strikebot Description @Atharva-05
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/strikeBot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section> -->
+
 	<section>
 		<a class="image">
 			<img src="img/projects/gennav.png" data-position="center center" />
@@ -206,7 +226,7 @@ weight: 1
 			<img src="img/projects/quadruped.png" data-position="top center" />
 		</a>
 		<div class="content">
-			<div class="inner">
+			<div class="inner">	
 				<header class="major">
 					<h3>Quadruped <i>a.k.a. Bhaagwati</i></h3>
 				</header>
