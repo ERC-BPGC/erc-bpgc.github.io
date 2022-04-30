@@ -23,7 +23,7 @@ weight: 2
 
 		<p>This Club is a great place not only for electronics engineers but also mechanical enthusiasts and dynamic coders. We are organised into multiple teams working on a wide range of projects including hardware design, open source libraries and even full robots from scratch!  Members are also encouraged to exchange experiences and expertise and we hold weekly discussion sessions, demonstrations and presentations for exactly that.</p>
 
-		<p>Over the years, the Club has shifted its focus from competing in robotics competitions to taking on more research oriented projects and problem statements with real world applications. With robotics being a rapidly changing field, we strive to keep up with the latest developments in both research and industry while also learning about various subfields in detail. Apart from this, we frequently work on exhibition projects to display during the annual technical fest on the campus and other events throughout the year.</p>
+		<p>Over the years, the Club has shifted its focus from competing in robotics competitions to taking on more research oriented projects and problem statements with real world applications. With r4obotics being a rapidly changing field, we strive to keep up with the latest developments in both research and industry while also learning about various subfields in detail. Apart from this, we frequently work on exhibition projects to display during the annual technical fest on the campus and other events throughout the year.</p>
 
 		<p>We are open to anyone with a general interest in engineering and who wants to explore robotics, so feel free to get in touch with us.</p>
 	</div>
@@ -39,7 +39,7 @@ weight: 2
 <center>
 	<img src="img/people/2021-2022.jpeg" height="75%" width="75%">
 	<br>
-	<h3>2019-2020</h3>
+	<h3>2021-2022</h3>
 	<hr>
 </center>
 
