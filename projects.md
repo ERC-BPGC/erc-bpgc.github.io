@@ -73,8 +73,7 @@ weight: 1
 				</header>
 				<p>Team Lead: Ashutosh Gupta <br>
 				Project SpiderBot started in Feb 2020, aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
-				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.<br>
-				Currently we are studying on a quadruped model and testing various controllers and walking gaits on it, and simultaneously developing concepts for a hexapod.
+				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/SpiderBot" target="blank" class="button">GitHub Repo</a></li>

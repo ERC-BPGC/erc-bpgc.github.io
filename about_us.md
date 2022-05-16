@@ -51,15 +51,65 @@ weight: 2
 
 
 <div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
+			Chief Coordinator 2022-2023
+		</center>
+		</p>
+	</div>
 
-    <div class="4u 12u$(medium)">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/dhruv-potdar-322173204/" target="blank">Dhruv Potdar</a></u></h3>
+			Sub Coordinator 2022-2023
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/aditya_parandekar.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aditya-parandekar-ab9aa0218/" target="blank">Aditya Parandekar</a></u></h3>
+			Technical Head 2022-2023
+		</center>
+		</p>
+	</div>
+
+	<!-- <div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/bhavya_narayanan.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/bhavya-l-narayanan1908/" target="blank">Bhavya L Narayanan</a></u></h3>
+			Management Committee 2021-2022
+		</center>
+		</p>
+	</div> -->
+
+</div>
+
+<hr class="major">
+
+<h2> Batch of 2019 </h2>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/ashutosh_gupta.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/" target="blank">Ashutosh Gupta</a></u></h3>
 			Chief Coordinator 2021-22<br>
-			Research Collaborator, University of Sheffield
+			Thesis at Biorobotics Lab, CMU
 		</center>
 		</p>
 	</div>
@@ -71,7 +121,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/archit-rungta-883156193/" target="blank">Archit Rungta</a></u></h3>
 			Technical Head 2021-22<br>
-			Summer Intern, Mowito
+			Thesis at Biorobotics Lab, CMU
 		</center>
 		</p>
 	</div>
@@ -83,40 +133,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/pranav-goyal-010b08197/" target="blank">Pranav Goyal</a></u></h3>
 			Teaching Head 2021-22<br>
-			Summer Intern, Mowito
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
-			Management Committee 2021-2022
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/bhavya_narayanan.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/bhavya-l-narayanan1908/" target="blank">Bhavya L Narayanan</a></u></h3>
-			Management Committee 2021-2022
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/dhruv_potdar.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/dhruv-potdar-322173204/" target="blank">Dhruv Potdar</a></u></h3>
-			Management Committee 2021-2022
+			Thesis at Biorobotics Lab, CMU
 		</center>
 		</p>
 	</div>
@@ -234,8 +251,6 @@ weight: 2
 </div>
 
 <hr class="major">
-
-
 
 <h2> Batch of 2018 </h2>
 
@@ -394,7 +409,7 @@ weight: 2
 			<img src="img/people/rohan_kunjir.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/rohan-kunjir-1b3043130/" target="blank">Rohan Kunjir</a></u></h3>
-			Summer Intern, Nihon Communication Solutions	
+			Summer Intern, Nihon Communication Solutions
 		</center>
 		</p>
 	</div>
