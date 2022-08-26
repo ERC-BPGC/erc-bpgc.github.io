@@ -57,7 +57,8 @@ weight: 2
 			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
-			Chief Coordinator 2022-2023
+			Chief Coordinator 2022-2023<br>
+			Intern at Robotics Research Center, IIIT-H
 		</center>
 		</p>
 	</div>
@@ -68,7 +69,8 @@ weight: 2
 			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/dhruv-potdar-322173204/" target="blank">Dhruv Potdar</a></u></h3>
-			Sub Coordinator 2022-2023
+			Sub Coordinator 2022-2023<br>
+			Intern at CSIR-CEERI, Pilani
 		</center>
 		</p>
 	</div>
@@ -79,7 +81,143 @@ weight: 2
 			<img src="img/people/aditya_parandekar.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-parandekar-ab9aa0218/" target="blank">Aditya Parandekar</a></u></h3>
-			Technical Head 2022-2023
+			Technical Head 2022-2023<br>
+			Intern at Black Coffee Robotics
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/siddh_gosar.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/siddh-gosar/" target="blank">Siddh Gosar</a></u></h3>
+			Project Lead: Trotbot
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/laukik_nakhwa.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/laukik-nakhwa-1191bb205/" target="blank">Laukik Nakhwa</a></u></h3>
+			Project Lead: Spiderbot
+			
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/ishan_tandon.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ishan-tandon-3886641a8/" target="blank">Ishan Tandon</a></u></h3>
+			Project Lead: Robotic Arm
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/yash_chavan.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/yash-chavan-199a41211/" target="blank">Yash Chavan</a></u></h3>
+			Project Lead: Robotic Arm
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/k_sai_akshit.JPG" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sai-akshit-948036230/" target="blank">K Sai Akshit</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/manan_arora.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/manan-arora-8910b71bb/" target="blank">Manan Arora</a></u></h3>
+			Project Lead: SwarmBots 2.0
+		</center>
+		</p>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/yash_yelmame.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/yash-yelmame-a68165205/" target="blank">Yash Yelmame</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/divith_mahajan.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/divith-mahajan-9170a2212/" target="blank">Divith Mahajan</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/ajay_krishna_gurubaran.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ajay-krishna-gurubaran-34b109216/" target="blank">Ajay Krishna Gurubaran</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/sahil_shingote.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/sahil-shingote-43a0531bb/" target="blank">Sahil Shingote</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/rohan_divekar.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/rohan-divekar0112/" target="blank">Rohan Divekar</a></u></h3>
+			Core Member
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/tanay_patni.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/tanay-patni-159219205/" target="blank">Tanay Patni</a></u></h3>
+			Core Member
 		</center>
 		</p>
 	</div>
@@ -144,7 +282,8 @@ weight: 2
 			<img src="img/people/yash_jangir.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/yash-jangir-6a71651a1/" target="blank">Yash Jangir</a></u></h3>
-			Inventory Head 2020-2021
+			Inventory Head 2020-2021<br>
+			RISS and Thesis at AirLab, CMU
 		</center>
 		</p>
 	</div>
@@ -221,7 +360,7 @@ weight: 2
 			<img src="img/people/srujan_deolasee.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/srujan-deolasee/" target="blank">Srujan Deolasee</a></u></h3>
-			Research Intern at A.R.M.S. Lab, IIT Bombay
+			RISS and Thesis at Argo AI Centre, CMU
 		</center>
 		</p>
 	</div>
@@ -232,7 +371,7 @@ weight: 2
 			<img src="img/people/suhrudh_s.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://suhrudhsarathy.github.io/" target="blank">Suhrudh S</a></u></h3>
-			Summer Intern, Peppermint Robotics
+			Research Intern at RBCCPS, IISc
 		</center>
 		</p>
 	</div>
@@ -243,7 +382,7 @@ weight: 2
 			<img src="img/people/sushant_sreeram_swamy.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/sushant-s-45b0391b2" target="blank">Sushant S</a></u></h3>
-			Core Member
+			GSoC '22 at RoboComp
 		</center>
 		</p>
 	</div>

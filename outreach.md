@@ -107,13 +107,15 @@ weight: 3
           <div class="panel"><br><br>
           <p>The best way to learn is to get your hands dirty. Keeping this in mind, we have prepared a set of mini-projects for you to dive into the field of robotics. Together, the projects cover a wide variety of fields so that there is something to try, no matter what your area of interest.<br><br>
           The projects are designed to be completed in 5-6 weeks in small teams. Each project has been allotted ERC members as mentors. Every week, you will be given resources to learn about and practice a concept required to complete the project. The mentors will be there to solve your doubts and help you troubleshoot. They will also hold weekly meetings to take project updates and help out with any problems.</p>
-  <h4>Mini Projects have been announced!</h4>
-          <h4>How to Sign Up</h4>
+  <!-- <h4>Mini Projects have been announced!</h4> -->
+          <h4>Mini project registrations are now closed.</h4>
+          <h4>However, you can still attempt any of them to get started with robotics!</h4>
           <ol>
           <li>Read about the available projects <b><a href='mini_projects.html'>here.</a></b></li>
-          <li>Fill up this <b><a href='https://forms.gle/wDtSEFP1NX7MLDww8' target='blank'>form.</a></b></li>
-          <li>Deadline to register <b>Sunday 6th Feb EOD</b></li></ol>
-          </div>
+          <li>Get in touch with any of the ERC Members for more information or guidance</li>
+          <!-- <li>Fill up this <b><a href='https://forms.gle/wDtSEFP1NX7MLDww8' target='blank'>form.</a></b></li> -->
+          <!-- <li>Deadline to register <b>Sunday 6th Feb EOD</b></li></ol> -->
+          <!-- </div> -->
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;

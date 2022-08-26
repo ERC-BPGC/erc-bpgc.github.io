@@ -48,12 +48,11 @@ weight: 1
 				<header class="major">
 					<h3>Trotbot</h3>
 				</header>
-				<p>Team Lead: Suhrudh S. <!--<br>Team Lead: Harshal Deshpande--><br>
-				Trotbot is a multipurpose robot, designed to serve autonomously in indoor environment. It can be used as follows:
-				To deliver packages from one location to another in offices, construction sites etc.
-				It can also be teleoperated to nearby locations using the camera feed.
+				<p><strong>Team Lead: Siddh Gosar</strong><br>
+				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
+				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
 				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
-				Currently, we are looking at visual odometry as an alternative for mouse for localisation of the robot.
+				Currently, we are looking at visual inertial odometry for robust localization in indoor environments.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
@@ -71,8 +70,8 @@ weight: 1
 				<header class="major">
 					<h3>SpiderBot</h3>
 				</header>
-				<p>Team Lead: Ashutosh Gupta <br>
-				Project SpiderBot started in Feb 2020, aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
+				<p><strong>Team Lead: Laukik Nakhwa</strong><br>
+				Project SpiderBot aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
 				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.
 				</p>
 				<ul class="actions">
@@ -82,7 +81,7 @@ weight: 1
 		</div>
 	</section>
 
-	<section>
+	<!-- <section>
 		<a class="image">
 			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
@@ -118,27 +117,47 @@ weight: 1
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
-	<!--<section>
+	<section>
 		<a class="image">
 			<img src="img/projects/romanov.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>RoManOv</h3>
+					<h3>Robotic Arm</h3>
 				</header>
-				<p>Team Lead: Abhishek Dixit <br>
-				We aim to build a robotic manipulator that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Deep Learning and Computer Vision. RoManOV is also expected to analyse the surrounding circumstances and plan the assigned tasks suitably taking into account the various constraints.
-				The arm has been constructed and modelled on Gazebo, a ROS-based simulator. Further, the kinematics and motion planning are currently under-work on MoveIt.
+				<p><strong>Team Leads: Ishan Tandon | Yash Chavan</strong> <br>
+				This project aims to design and manufacture a robust robotic arm integrated with a reliable perception and control system that will enable it to perform simple as well as intelligent tasks with high precision and repeatability.<br>
+				The immediate aim of the project is to design and assemble a five-degree of freedom (DOF) robotic arm with forwarding and inverse kinematic control. Along with the capability of autonomous operation and object detection, which as a whole allows it to perform pick and place operations on objects within the workspace, including playing chess against human players.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/abhidxt299/RoManOV_Automation/" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>-->
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/swarm_bots_2.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>SwarmBots 2.0</h3>
+				</header>
+				<p><strong>Team Leads: Dhruv Potdar | Manan Arora</strong> <br>
+				Swarm robotics is an approach to the coordinated behaviour of multi-robot systems. A swarm robotic system comprises a group of simple robots equipped with basic algorithms, sensors, and actuators. However, these bots are collectively able to carry out complex tasks.<br>
+				The project aims to build a decentralised swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended that upon receiving a set of parameters from a user, the swarm can be modified and deployed to assist in various tasks. The project is a continuation of the work done by our seniors on hardware. 
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/swarm_bots" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 
 	<!--<section>
@@ -191,7 +210,7 @@ weight: 1
 				<header class="major">
 					<h3>StrikeBot</h3>
 				</header>
-				<p>Team Lead: Atharv Ghotavadekar and Aditya Parandekar <br>
+				<p>Team Lead: Atharv Ghotavadekar | Aditya Parandekar <br>
 				Strikebot Description @Atharva-05
 				</p>
 				<ul class="actions">
@@ -210,7 +229,7 @@ weight: 1
 				<header class="major">
 					<h3>GenNav</h3>
 				</header>
-				<p>Team Lead: Atharv Sonwane <br>
+				<p><strong>Team Lead: Atharv Sonwane</strong> <br>
 				Gennav aims to create a general purpose python library that can be used for path planning in various robotics settings. It will have a collection of path planning algorithms, motion controllers along with various utilities to handle different methods of path optimisation, environment representation and eventually a geometry module to handle the underlying computations. Currently focused on the 2D path planning aspect of navigation.Rather than writing a big new python file for each new path planning algorithm, we could build on already defined utilities and primitives. This would be a big help to anyone working on any robot with autonomous navigation capabilities in the future. All they would need to do is implement the robot specific code and use gennav for the planning, control and optimization heavy lifting.
 				</p>
 				<ul class="actions">
@@ -229,7 +248,7 @@ weight: 1
 				<header class="major">
 					<h3>Quadruped <i>a.k.a. Bhaagwati</i></h3>
 				</header>
-				<p>Team Lead: Mohit Gupta<br>
+				<p><strong>Team Lead: Mohit Gupta</strong><br>
 				The main objective is to mimic a four legged animal and get various gaits out of it like trot, bound, canter through open loop and closed loop methods. It will be further used as a platform for attachment of vision based system for mapping different terrains
 				We have successfully deployed trotting walk on the quadruped. A ROS(Robot Operating System) package is also created. A static self-stabilizing PID controller using an IMU has been created and successfully deployed on the quadruped.
 				Different gaits will be tested on the quadruped. A dynamic stabilizing strategy will be developed. Later, environment tracking using realsense depth camera will be developed.
@@ -250,7 +269,7 @@ weight: 1
 				<header class="major">
 					<h3>Modbot</h3>
 				</header>
-				<p>Team Lead: Prathmesh Thorwe <br>
+				<p><strong>Team Lead: Prathmesh Thorwe</strong> <br>
 				Modular Robots are a system of individual modules capable of linking to each other to form reconfigurable structures suited for different purposes. Using this method, a single system can be used for a wide range of applications. This is useful when the task/environment of a bot is not known beforehand.
 				The project aimed to design, simulate and manufacture such modules with maximum DOFs possible for a highly flexible and robust system. A single module was manufactured capable of teleoperation. An Arduino Nano and an ESP32 were used to control the input to the respective motors.
 				</p>
@@ -270,7 +289,7 @@ weight: 1
 				<header class="major">
 					<h3>Swarmbots</h3>
 				</header>
-				<p>Team Lead: Rishikesh Vanarse <br>
+				<p><strong>Team Lead: Rishikesh Vanarse</strong><br>
 				Swarm robotics is an approach to coordinate multiple robots as a system, which consists of large numbers of mostly simple physical robots.The project aimed at the task to automate a decentralized swarm of autonomous mobile robots to carry out different tasks. The bots do not communicate with each other, and perform tasks through 'collective decision making' algorithms.
 				Multiple simulations have been created to perform tasks such as line formation, circle formation, etc. Along with this evaluation metrics were attached to each task to monitor the quality.
 				</p>
