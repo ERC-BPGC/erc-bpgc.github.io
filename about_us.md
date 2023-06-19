@@ -54,7 +54,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/arjun_puthli.jpeg" height="75%" width="75%">
+			<img src="img/people/arjun_puthli.png" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/arjun-puthli-810938189/" target="blank">Arjun Puthli</a></u></h3>
 			Chief Coordinator 2023-2024<br>
@@ -107,6 +107,28 @@ weight: 2
 			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
 			Electronics Head 2023-2024<br>
 			Intern at 
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/akshat-tubki-6b9b28244/" target="blank">Akshat Tubki</a></u></h3>
+			Project Lead: Spiderbot<br>
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/adarsh-gopalakrishnan-748599229/" target="blank">Adarsh Gopalakrishnan</a></u></h3>
+			Project Lead: Spiderbot<br>
 		</center>
 		</p>
 	</div>
