@@ -66,7 +66,7 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/shantanu_deshmukh.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/shantanu-deshmukh-819b5924a/" target="blank">Shantanu Deshmukh</a></u></h3>
 			Sub Coordinator 2023-2024<br>
