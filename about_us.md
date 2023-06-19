@@ -124,11 +124,12 @@ weight: 2
 	
 
 
-<center>
-<header class="major">
-<h1 id="content">Batch of 2020</h1>
-</header>
-</center>
+
+</div>
+
+<hr class="major">
+
+<h2> Batch of 2020 </h2>
 
 
 <div class="row">
