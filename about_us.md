@@ -37,9 +37,9 @@ weight: 2
 		</header>
 
 <center>
-	<img src="img/people/2021-2022.jpeg" height="75%" width="75%">
+	<img src="img/people/2022-2023.jpeg" height="75%" width="75%">
 	<br>
-	<h3>2021-2022</h3>
+	<h3>2022-2023</h3>
 	<hr>
 </center>
 
