@@ -87,7 +87,7 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u 12u$(medium)">
+	<!-- <div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
@@ -138,14 +138,23 @@ weight: 2
 		<center>
 			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
 			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ninaad-kotasthane-120669272/" target="blank">Ninaad Kotasthane</a></u></h3>
+			Project Lead: Robotic Arm<br>
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
 			<h3><u><a href="https://www.linkedin.com/in/priyanshu-kumar-2b7948222/" target="blank">Priyanshu Kumar</a></u></h3>
 			Project Lead: Gennav ROS2<br>
 		</center>
 		</p>
-	</div>
+	</div> -->
 	
-
-
 
 </div>
 
