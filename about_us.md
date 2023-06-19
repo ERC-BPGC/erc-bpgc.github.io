@@ -87,10 +87,10 @@ weight: 2
 		</p>
 	</div>
 
-	<!-- <div class="4u 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/aasim_sayyed.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aasim-sayyed-a966b423a/" target="blank">Aasim Sayyed</a></u></h3>
 			Mechanical Head 2023-2024<br>
@@ -99,7 +99,7 @@ weight: 2
 		</p>
 	</div>
 
-	<div class="4u 12u$(medium)">
+	<!-- <div class="4u 12u$(medium)">
 		<p>
 		<center>
 			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
