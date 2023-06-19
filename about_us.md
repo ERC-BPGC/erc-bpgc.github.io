@@ -56,6 +56,87 @@ weight: 2
 		<center>
 			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
 			<br>
+			<h3><u><a href="https://www.linkedin.com/in/arjun-puthli-810938189/" target="blank">Arjun Puthli</a></u></h3>
+			Chief Coordinator 2023-2024<br>
+			Intern at Robotics Research Center, IIIT-H
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/shantanu-deshmukh-819b5924a/" target="blank">Shantanu Deshmukh</a></u></h3>
+			Sub Coordinator 2023-2024<br>
+			Intern at CSIR-CEERI, Pilani
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aditya-kurande-15a644254/" target="blank">Aditya Kurande</a></u></h3>
+			Research Head 2023-2024<br>
+			Intern at Robotics Research Center, IIIT-H
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/aasim-sayyed-a966b423a/" target="blank">Aasim Sayyed</a></u></h3>
+			Mechanical Head 2023-2024<br>
+			Intern at IGCAR
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
+			Electronics Head 2023-2024<br>
+			Intern at 
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/priyanshu-kumar-2b7948222/" target="blank">Priyanshu Kumar</a></u></h3>
+			Project Lead: Gennav ROS2<br>
+		</center>
+		</p>
+	</div>
+	
+
+
+<center>
+<header class="major">
+<h1 id="content">Batch of 2020</h1>
+</header>
+</center>
+
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/atharva_ghotavadekar.jpg" height="75%" width="75%">
+			<br>
 			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
 			Chief Coordinator 2022-2023<br>
 			Intern at Robotics Research Center, IIIT-H
