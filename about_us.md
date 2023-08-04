@@ -195,7 +195,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/aditya-parandekar-ab9aa0218/" target="blank">Aditya Parandekar</a></u></h3>
 			Technical Head 2022-2023<br>
-			Intern at Black Coffee Robotics
+			Thesis at AirLab, CMU
 		</center>
 		</p>
 	</div>

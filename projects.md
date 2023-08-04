@@ -39,27 +39,6 @@ weight: 1
 
 <section id="two" class="spotlights">
 
-	<section>
-		<a class="image">
-			<img src="img/projects/trotbot.jpeg" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Trotbot</h3>
-				</header>
-				<p><strong>Team Lead: Siddh Gosar</strong><br>
-				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
-				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
-				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
-				Currently, we are looking at visual inertial odometry for robust localization in indoor environments.
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 
 	<section>
 		<a class="image">
@@ -70,7 +49,7 @@ weight: 1
 				<header class="major">
 					<h3>SpiderBot</h3>
 				</header>
-				<p><strong>Team Lead: Laukik Nakhwa</strong><br>
+				<p><strong>Team Lead: Adarsh Gopalakrishnan | Akshat Tubki</strong><br>
 				Project SpiderBot aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
 				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.
 				</p>
@@ -128,7 +107,7 @@ weight: 1
 				<header class="major">
 					<h3>Robotic Arm</h3>
 				</header>
-				<p><strong>Team Leads: Ishan Tandon | Yash Chavan</strong> <br>
+				<p><strong>Team Leads: Ninaad Kotasthane</strong> <br>
 				This project aims to design and manufacture a robust robotic arm integrated with a reliable perception and control system that will enable it to perform simple as well as intelligent tasks with high precision and repeatability.<br>
 				The immediate aim of the project is to design and assemble a five-degree of freedom (DOF) robotic arm with forwarding and inverse kinematic control. Along with the capability of autonomous operation and object detection, which as a whole allows it to perform pick and place operations on objects within the workspace, including playing chess against human players.
 				</p>
@@ -148,9 +127,9 @@ weight: 1
 				<header class="major">
 					<h3>SwarmBots 2.0</h3>
 				</header>
-				<p><strong>Team Leads: Dhruv Potdar | Manan Arora</strong> <br>
+				<p><strong>Team Leads: Arjun Puthli</strong> <br>
 				Swarm robotics is an approach to the coordinated behaviour of multi-robot systems. A swarm robotic system comprises a group of simple robots equipped with basic algorithms, sensors, and actuators. However, these bots are collectively able to carry out complex tasks.<br>
-				The project aims to build a decentralised swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended that upon receiving a set of parameters from a user, the swarm can be modified and deployed to assist in various tasks. The project is a continuation of the work done by our seniors on hardware. 
+				The project aims to build a  swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended to also explore and eventually implement multi-agent learning based methods, inspired by classical swarm algorithms. 
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/swarm_bots" target="blank" class="button">GitHub Repo</a></li>
@@ -159,6 +138,65 @@ weight: 1
 		</div>
 	</section>
 
+	<section>
+		<a class="image">
+			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GenNav ROS 2</h3>
+				</header>
+				<p><strong>Team Lead: Priyanshu Kumar</strong><br>
+				GenNav ROS 2 is intended to be an open source, general purpose python library with implementations of various path planning and control algorithms. This is a continuation of the GenNav project started by our seniors, but as a ROS 2 package. The original project was started with the intent to serve as a way to simplfy the way we deploy autonomous solutions on robots. This project has the same vision, in fact taking it a step further, by integrating it with ROS making deployment on a variety of robots more feasible.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Vulcan</h3>
+				</header>
+				<p><strong>Team Lead: Parth Shah | Ritwik Sharma</strong><br>
+				Fully humanoid robots that can replicate humans is quite an advanced research topic in the field of robotics. Vulcan is a humanoid head, being built with the aim of replicating human-like features such as blinking, making eye contact with the person speaking and mouth movement while "speaking". The project covers multiple technologies ranging from openCV to natural language processing methods to achieve this. Since buidling a full humanoid is quite complex and expensive, this will serve as a great launchpad for those that want to work with humanoid robots in the future.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Trotbot</h3>
+				</header>
+				<p><strong>Team Lead: Siddh Gosar</strong><br>
+				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
+				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
+				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
+				Currently, we are looking at visual inertial odometry for robust localization in indoor environments.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 	<!--<section>
 		<a class="image">
