@@ -151,7 +151,7 @@ weight: 1
 				GenNav ROS 2 is intended to be an open source, general purpose python library with implementations of various path planning and control algorithms. This is a continuation of the GenNav project started by our seniors, but as a ROS 2 package. The original project was started with the intent to serve as a way to simplfy the way we deploy autonomous solutions on robots. This project has the same vision, in fact taking it a step further, by integrating it with ROS making deployment on a variety of robots more feasible.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -170,7 +170,7 @@ weight: 1
 				Fully humanoid robots that can replicate humans is quite an advanced research topic in the field of robotics. Vulcan is a humanoid head, being built with the aim of replicating human-like features such as blinking, making eye contact with the person speaking and mouth movement while "speaking". The project covers multiple technologies ranging from openCV to natural language processing methods to achieve this. Since buidling a full humanoid is quite complex and expensive, this will serve as a great launchpad for those that want to work with humanoid robots in the future.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/project-vulcan" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
