@@ -99,6 +99,17 @@ weight: 2
 		</p>
 	</div>
 
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/ishan_gokhale.jpg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
+			Electronics Head 2023-2024<br>
+		</center>
+		</p>
+	</div>
+
 	<!-- <div class="4u 12u$(medium)">
 		<p>
 		<center>

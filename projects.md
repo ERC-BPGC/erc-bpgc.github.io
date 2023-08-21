@@ -127,7 +127,7 @@ weight: 1
 				<header class="major">
 					<h3>SwarmBots 2.0</h3>
 				</header>
-				<p><strong>Team Leads: Arjun Puthli</strong> <br>
+				<p><strong>Team Lead: Arjun Puthli</strong> <br>
 				Swarm robotics is an approach to the coordinated behaviour of multi-robot systems. A swarm robotic system comprises a group of simple robots equipped with basic algorithms, sensors, and actuators. However, these bots are collectively able to carry out complex tasks.<br>
 				The project aims to build a  swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended to also explore and eventually implement multi-agent learning based methods, inspired by classical swarm algorithms. 
 				</p>
@@ -140,7 +140,7 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+			<img src="img/projects/gennav.png" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -159,14 +159,14 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+			<img src="img/projects/vulcan.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Vulcan</h3>
 				</header>
-				<p><strong>Team Lead: Parth Shah | Ritwik Sharma</strong><br>
+				<p><strong>Team Leads: Parth Shah | Ritwik Sharma</strong><br>
 				Fully humanoid robots that can replicate humans is quite an advanced research topic in the field of robotics. Vulcan is a humanoid head, being built with the aim of replicating human-like features such as blinking, making eye contact with the person speaking and mouth movement while "speaking". The project covers multiple technologies ranging from openCV to natural language processing methods to achieve this. Since buidling a full humanoid is quite complex and expensive, this will serve as a great launchpad for those that want to work with humanoid robots in the future.
 				</p>
 				<ul class="actions">
@@ -185,7 +185,7 @@ weight: 1
 				<header class="major">
 					<h3>Trotbot</h3>
 				</header>
-				<p><strong>Team Lead: Siddh Gosar</strong><br>
+				<p><strong>Team Lead: Vishnu Rajgopal | Shantanu Deshmukh</strong><br>
 				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
 				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
 				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
