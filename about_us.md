@@ -369,9 +369,9 @@ weight: 2
 		<center>
 			<img src="img/people/ashutosh_gupta.jpeg" height="75%" width="75%">
 			<br>
-			<h3><u><a href="https://www.linkedin.com/in/ashutosh-gupta781/" target="blank">Ashutosh Gupta</a></u></h3>
+			<h3><u><a href="https://ashutosh781.github.io/" target="blank">Ashutosh Gupta</a></u></h3>
 			Chief Coordinator 2021-22<br>
-			Thesis at Biorobotics Lab, CMU
+			MS Robotics, Oregon State University
 		</center>
 		</p>
 	</div>
@@ -422,7 +422,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
