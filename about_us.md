@@ -106,7 +106,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
 			Electronics Head 2023-2024<br>
-   			Internship at 
+   			Intern at Texas Instruments
 		</center>
 		</p>
 	</div>
