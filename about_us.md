@@ -106,6 +106,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
 			Electronics Head 2023-2024<br>
+   			Internship at 
 		</center>
 		</p>
 	</div>
@@ -117,7 +118,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
 			Electronics Head 2023-2024<br>
-			Intern at 
+			Intern at Texas Instruments
 		</center>
 		</p>
 	</div>
@@ -182,7 +183,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/atharva-g" target="blank">Atharva Ghotavadekar</a></u></h3>
 			Chief Coordinator 2022-2023<br>
-			Intern at Robotics Research Center, IIIT-H
+			Thesis at CTU, Prague
 		</center>
 		</p>
 	</div>
