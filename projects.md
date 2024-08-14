@@ -10,6 +10,21 @@ weight: 1
 <!-- Main -->
 <div id="main">
 
+<style>
+        .year-dropdown {
+            margin-bottom: 20px;
+        }
+        .year-dropdown summary {
+            cursor: pointer;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        .project {
+            margin-bottom: 30px;
+        }
+</style>
+
+
 <!-- One -->
 <!--<section id="one">
 	<div class="inner">
@@ -49,7 +64,7 @@ weight: 1
 				<header class="major">
 					<h3>SpiderBot</h3>
 				</header>
-				<p><strong>Team Lead: Adarsh Gopalakrishnan | Akshat Tubki</strong><br>
+				<p><strong>Team Lead: Garv Gupta | Adarsh Gopalakrishnan | Akshat Tubki</strong><br>
 				Project SpiderBot aims to develop a six-legged round body Hexapod. Hexapods are a very versatile legged option since they provide more passive stability during locomotion as compared to a quadruped. They also benefit from a lower impact on the terrain and have greater mobility in surroundings.<br>
 				The major goal of this project is to study and develop walking gaits, trajectories and controllers for the robot to traverse any kind of terrain in an optimum manner. This will also include creating a more robust and reliable design for a hexapod.
 				</p>
@@ -78,84 +93,8 @@ weight: 1
 			</div>
 		</div>
 	</section>
-	
-	<section>
-		<a class="image">
-			<img src="img/projects/acoustic_camera.jpg" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Acoustic Camera</h3>
-				</header>
-				<p>Team Leads: Tanay Patni and Sahil Shingote <br>
-				An acoustic camera is an imaging device used to locate sound sources. It uses multiple microphones and advanced acoustic signal processing algorithms to accomplish this task. Our goal is to create a low-cost acoustic camera that could be used in applications such as noise reduction in machinery and aerodynamic surfaces
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section> -->
+	--->
 
-	<section>
-		<a class="image">
-			<img src="img/projects/romanov.jpeg" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Robotic Arm</h3>
-				</header>
-				<p><strong>Team Leads: Ninaad Kotasthane</strong> <br>
-				This project aims to design and manufacture a robust robotic arm integrated with a reliable perception and control system that will enable it to perform simple as well as intelligent tasks with high precision and repeatability.<br>
-				The immediate aim of the project is to design and assemble a five-degree of freedom (DOF) robotic arm with forwarding and inverse kinematic control. Along with the capability of autonomous operation and object detection, which as a whole allows it to perform pick and place operations on objects within the workspace, including playing chess against human players.
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/abhidxt299/RoManOV_Automation/" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<a class="image">
-			<img src="img/projects/swarm_bots_2.jpg" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>SwarmBots 2.0</h3>
-				</header>
-				<p><strong>Team Lead: Arjun Puthli</strong> <br>
-				Swarm robotics is an approach to the coordinated behaviour of multi-robot systems. A swarm robotic system comprises a group of simple robots equipped with basic algorithms, sensors, and actuators. However, these bots are collectively able to carry out complex tasks.<br>
-				The project aims to build a  swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended to also explore and eventually implement multi-agent learning based methods, inspired by classical swarm algorithms. 
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/swarm_bots" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<a class="image">
-			<img src="img/projects/gennav.png" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>GenNav ROS 2</h3>
-				</header>
-				<p><strong>Team Lead: Priyanshu Kumar</strong><br>
-				GenNav ROS 2 is intended to be an open source, general purpose python library with implementations of various path planning and control algorithms. This is a continuation of the GenNav project started by our seniors, but as a ROS 2 package. The original project was started with the intent to serve as a way to simplfy the way we deploy autonomous solutions on robots. This project has the same vision, in fact taking it a step further, by integrating it with ROS making deployment on a variety of robots more feasible.
-				</p>
-				<ul class="actions">
-					<li><a href="" target="blank" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 
 	<section>
 		<a class="image">
@@ -166,7 +105,7 @@ weight: 1
 				<header class="major">
 					<h3>Vulcan</h3>
 				</header>
-				<p><strong>Team Leads: Parth Shah | Ritwik Sharma</strong><br>
+				<p><strong>Team Leads: Parth Shah | Ritwik Sharma | Sharvil Potdar</strong><br>
 				Fully humanoid robots that can replicate humans is quite an advanced research topic in the field of robotics. Vulcan is a humanoid head, being built with the aim of replicating human-like features such as blinking, making eye contact with the person speaking and mouth movement while "speaking". The project covers multiple technologies ranging from openCV to natural language processing methods to achieve this. Since buidling a full humanoid is quite complex and expensive, this will serve as a great launchpad for those that want to work with humanoid robots in the future.
 				</p>
 				<ul class="actions">
@@ -178,60 +117,79 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Trotbot</h3>
+					<h3>SnakeBot</h3>
 				</header>
-				<p><strong>Team Lead: Vishnu Rajgopal | Shantanu Deshmukh</strong><br>
-				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
-				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
-				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
-				Currently, we are looking at visual inertial odometry for robust localization in indoor environments.
+				<p>Team Lead: Harsh Jain | Hritik Joglekar <br>
+				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/SnakeBot" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 
-	<!--<section>
+	<section>
 		<a class="image">
-			<img src="img/projects/carborone.jpeg" data-position="center center" />
+			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Carborone</h3>
+					<h3>Quadruped</h3>
 				</header>
-				<p>Team Lead: Vinay Sabarad <br>
-				This project aims to Create a model of Autonomous drone car. Which can analyse the environment and take decisions using OpenCV and decide whether to move on the ground or fly to avoid an obstacle and decide its own trajectory . It’s main aim is to improve the applications of a car on the ground so that it could  travel to even the most difficult places than it would be possible for a normal car. We also aim to have a power efficient version of drone car that can fly for longer durations and make it more accessible by safely going to different locations.
+				<p>Team Lead: Ritwik Sharma | Snigdha <br>
+				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/4825vinay/Project-Carborone" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/quadruped" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>-->
-	
-	<!--<section>
+	</section>
+
+	<section>
 		<a class="image">
-			<img src="img/projects/ball-drone.png" data-position="center center" />
+			<img src="img/projects/echoslam.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ball-Drone</h3>
+					<h3>Drone Automation</h3>
 				</header>
-				<p>Team Lead: Cheriyan Homey <br>
-				Ball drone is a ‘uni-rotor’ VTOL drone that is maneuvered using four control surfaces. The drone is capable of performing all the tasks done by a conventional quadcopter using less power. The spherical shell also helps in protecting the inner hardware and rotating propeller from any immediate threat. . The spherical shell will be 3D printed and the flight controller will be made with an ESP32 microcontroller and a MPU 9250. A CAD model and a simulator of the drone on Simscape multibody is made.
+				<p>Team Lead: Nayan <br>
+				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
 				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
 			</div>
 		</div>
-	</section>-->
+	</section>
+	
+	<section>
+		<a class="image">
+			<img src="img/projects/echoslam.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Robotic Arm v2</h3>
+				</header>
+				<p>Team Lead: Ayush Tiwari | Ansh Parmeshwar <br>
+				Robotic Arm v2. 
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 <div class="inner">
 <header class="major">
@@ -257,6 +215,150 @@ weight: 1
 			</div>
 		</div>
 	</section> -->
+
+	<section>
+		<a class="image">
+			<img src="img/projects/romanov.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Robotic Arm (3 DoF)</h3>
+				</header>
+				<p><strong>Team Leads: Ninaad Kotasthane</strong> <br>
+				This project aims to design and manufacture a robust robotic arm integrated with a reliable perception and control system that will enable it to perform simple as well as intelligent tasks with high precision and repeatability.<br>
+				The immediate aim of the project is to design and assemble a five-degree of freedom (DOF) robotic arm with forwarding and inverse kinematic control. Along with the capability of autonomous operation and object detection, which as a whole allows it to perform pick and place operations on objects within the workspace, including playing chess against human players.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/RoboticArm" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<!-- <img src="img/projects/swarm_bots_2.jpg" data-position="center center" /> -->
+			<video controls data-position="center center">
+			<source src="img/projects/AirHockeyDemoQuark.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+			</video>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Air Hockey</h3>
+				</header>
+				<p><strong>Team Lead: Ritwik Sharma</strong> <br>
+				The idea for this project came up as a fun interactive demonstration for Quark '24. We were able to somewhat implement a Neural Network agent trained using imitation learning techniques. The expert for this approach was the computer of a mobile based air hockey game. Data was extracted from a half-hour long video playthrough of the game through computer vision techniques. The agent was trained using a DNN in keras. This was then deployed on hardware built completely in-house which used a stepper motor actuated gantry to actuate the paddle and a single camera to gather relevant information.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Maker-Rat/Air_Hockey_RL" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/carborone.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Carborone</h3>
+				</header>
+				<p>Team Lead: Vinay Sabarad <br>
+				This project aims to Create a model of Autonomous drone car. Which can analyse the environment and take decisions using OpenCV and decide whether to move on the ground or fly to avoid an obstacle and decide its own trajectory . It’s main aim is to improve the applications of a car on the ground so that it could  travel to even the most difficult places than it would be possible for a normal car. We also aim to have a power efficient version of drone car that can fly for longer durations and make it more accessible by safely going to different locations.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/4825vinay/Project-Carborone" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
+	<section>
+		<a class="image">
+			<img src="img/projects/swarm_bots_2.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>SwarmBots 2.0</h3>
+				</header>
+				<p><strong>Team Lead: Arjun Puthli</strong> <br>
+				Swarm robotics is an approach to the coordinated behaviour of multi-robot systems. A swarm robotic system comprises a group of simple robots equipped with basic algorithms, sensors, and actuators. However, these bots are collectively able to carry out complex tasks.<br>
+				The project aims to build a  swarm of autonomous mobile robots and implement various ‘collective decision-making’ algorithms on this swarm. The project will serve as a platform for various swarm-robotics-related applications in the future. It is intended to also explore and eventually implement multi-agent learning based methods, inspired by classical swarm algorithms. 
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/swarm_bots" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- 
+	<section>
+		<a class="image">
+			<img src="img/projects/gennav.png" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GenNav ROS 2</h3>
+				</header>
+				<p><strong>Team Lead: Priyanshu Kumar</strong><br>
+				GenNav ROS 2 is intended to be an open source, general purpose python library with implementations of various path planning and control algorithms. This is a continuation of the GenNav project started by our seniors, but as a ROS 2 package. The original project was started with the intent to serve as a way to simplfy the way we deploy autonomous solutions on robots. This project has the same vision, in fact taking it a step further, by integrating it with ROS making deployment on a variety of robots more feasible.
+				</p>
+				<ul class="actions">
+					<li><a href="" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section> -->
+
+	<section>
+		<a class="image">
+			<img src="img/projects/trotbot.jpeg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Trotbot</h3>
+				</header>
+				<p><strong>Team Lead: Vishnu Rajgopal | Shantanu Deshmukh</strong><br>
+				Trotbot is a multipurpose omni-directional robot, designed to serve autonomously in indoor/semi-indoor environments. It can be used to deliver packages from one location to another in offices, construction sites, buildings etc.
+				It can also be teleoperated to nearby locations using the camera feed for surveillance and mapping.
+				The robot will be able to autonomously navigate around obstacles and reach waypoints set in and around the environment with the use of onboard sensors and be able to detect it's location.
+				Currently, we are looking at visual inertial odometry for robust localization in indoor environments.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Trotbot" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/acoustic_camera.jpg" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Acoustic Camera</h3>
+				</header>
+				<p>Team Leads: Tanay Patni and Sahil Shingote <br>
+				An acoustic camera is an imaging device used to locate sound sources. It uses multiple microphones and advanced acoustic signal processing algorithms to accomplish this task. Our goal is to create a low-cost acoustic camera that could be used in applications such as noise reduction in machinery and aerodynamic surfaces
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 	<section>
 		<a class="image">
@@ -393,6 +495,23 @@ weight: 1
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a class="image">
+			<img src="img/projects/ball-drone.png" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ball-Drone</h3>
+				</header>
+				<p>Team Lead: Cheriyan Homey <br>
+				Ball drone is a ‘uni-rotor’ VTOL drone that is maneuvered using four control surfaces. The drone is capable of performing all the tasks done by a conventional quadcopter using less power. The spherical shell also helps in protecting the inner hardware and rotating propeller from any immediate threat. . The spherical shell will be 3D printed and the flight controller will be made with an ESP32 microcontroller and a MPU 9250. A CAD model and a simulator of the drone on Simscape multibody is made.
+				</p>
+			</div>
+		</div>
+	</section>
+
 
 	<section>
 		<a class="image">
