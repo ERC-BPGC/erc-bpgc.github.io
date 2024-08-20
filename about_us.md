@@ -166,7 +166,7 @@ weight: 2
 		</center>
 		</p>
 	</div> -->
-	
+
 
 </div>
 
@@ -219,7 +219,6 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/siddh-gosar/" target="blank">Siddh Gosar</a></u></h3>
 			Project Lead: Trotbot
-			
 		</center>
 		</p>
 	</div>
@@ -231,7 +230,6 @@ weight: 2
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/laukik-nakhwa-1191bb205/" target="blank">Laukik Nakhwa</a></u></h3>
 			Project Lead: Spiderbot
-			
 		</center>
 		</p>
 	</div>
@@ -372,7 +370,7 @@ weight: 2
 			<br>
 			<h3><u><a href="https://ashutosh781.github.io/" target="blank">Ashutosh Gupta</a></u></h3>
 			Chief Coordinator 2021-22<br>
-			MS Robotics, Oregon State University
+			PhD Robotics and AI, Oregon State University
 		</center>
 		</p>
 	</div>
@@ -419,7 +417,20 @@ weight: 2
 			<img src="img/people/cheriyan_homey.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/cheriyan-homey-b4a7a9188/" target="blank">Cheriyan Homey</a></u></h3>
-			Inventory Head 2020-2021
+			Inventory Head<br>
+			2020-2021
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/srujan_deolasee.jpeg" height="75%" width="75%">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/srujan-deolasee/" target="blank">Srujan Deolasee</a></u></h3>
+			MS Robotics, CMU<br>
+			RISS and Thesis Argo AI Centre, CMU
 		</center>
 		</p>
 	</div>
@@ -441,17 +452,6 @@ weight: 2
 			<img src="img/people/avinandan_nag.jpg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/avinandan-nag-607691193" target="blank">Avinandan Nag</a></u></h3>
-			Core Member
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/mansi_bhosale.jpg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/mansi-bhosale-a4600a194" target="blank">Mansi Bhosale</a></u></h3>
 			Core Member
 		</center>
 		</p>
@@ -482,17 +482,6 @@ weight: 2
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/srujan_deolasee.jpeg" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/srujan-deolasee/" target="blank">Srujan Deolasee</a></u></h3>
-			RISS and Thesis at Argo AI Centre, CMU
-		</center>
-		</p>
-	</div>
-
-	<div class="4u 12u$(medium)">
-		<p>
-		<center>
 			<img src="img/people/suhrudh_s.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://suhrudhsarathy.github.io/" target="blank">Suhrudh S</a></u></h3>
@@ -511,7 +500,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
+
 </div>
 
 <hr class="major">
@@ -666,7 +655,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -803,7 +792,7 @@ weight: 2
 			<br>
 			<h3><u><a href="http://amoghdabholkar.github.io/" target="blank">Amogh Dabholkar</a></u></h3>
 			Chief Coordinator 2018-2019<br>
-			Machine Learning Engineer, DeepEdge 
+			Machine Learning Engineer, DeepEdge
 		</center>
 		</p>
 	</div>
@@ -884,7 +873,7 @@ weight: 2
 		</center>
 		</p>
 	</div>
-	
+
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -1534,7 +1523,7 @@ weight: 2
 			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/mihir-karkhane-3a15a730/" target="blank">Mihir Karkhane</a></u></h3>
-			
+
 		</center>
 		</p>
 	</div>
