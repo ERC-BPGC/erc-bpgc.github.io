@@ -37,9 +37,9 @@ weight: 2
 		</header>
 
 <center>
-	<img src="img/people/2022-2023.jpeg" height="75%" width="75%">
+	<img src="img/people/2022_batch/TeamERC_2024.jpeg" height="75%" width="75%">
 	<br>
-	<h3>2022-2023</h3>
+	<h3>2023-2024</h3>
 	<hr>
 </center>
 
@@ -48,6 +48,73 @@ weight: 2
 <h1 id="content">Current Team</h1>
 </header>
 </center>
+</div>
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/2022_batch/Parth_Shah.jpeg" width="350px">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/parth-shah-b014771b0/" target="blank">Parth Shah</a></u></h3>
+			Chief Coordinator 2024-2025<br>
+			Intern at PNT Robotics
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/2022_batch/Ritwik_Shwarma.jpeg" width="350px">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ritwik-sharma-609a38268/" target="blank">Ritwik Sharma</a></u></h3>
+			Sub Coordinator 2024-2025<br>
+			Intern at CSIR-CEERI, Pilani
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/2022_batch/Ajinkya_Deshpande.png" width="350px">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/ajinkya-deshpande-6ab13b265/" target="blank">Ajinkya Deshpande</a></u></h3>
+			PR & Projects Coordinator 2024-2025<br>
+			Intern at CSIR-CEERI, Pilani
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/2022_batch/Vimarsh_Shah.jpg" width="350px">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/vimarshshah/" target="blank">Vimarsh Shah</a></u></h3>
+			Research Head 2024-2025<br>
+			Intern at CSIR-CEERI, Pilani
+		</center>
+		</p>
+	</div>
+
+	<div class="4u 12u$(medium)">
+		<p>
+		<center>
+			<img src="img/people/2022_batch/Ansh_Parmeshwar.jpeg" width="350px">
+			<br>
+			<h3><u><a href="https://www.linkedin.com/in/anshparmeshwar/" target="blank">Ansh Parmeshwar</a></u></h3>
+			Mechanical Head 2024-2025<br>
+   			Intern at Aditya Birla Group
+		</center>
+		</p>
+	</div>
+</div>
+
+<hr class="major">
+
+<h2> Batch of 2021 </h2>
 
 
 <div class="row">
@@ -62,7 +129,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -74,7 +140,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -86,7 +151,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -98,7 +162,6 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
@@ -110,64 +173,47 @@ weight: 2
 		</center>
 		</p>
 	</div>
-
-	<!-- <div class="4u 12u$(medium)">
-		<p>
-		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
-			<br>
-			<h3><u><a href="https://www.linkedin.com/in/ishan-gokhale-70bb92231/" target="blank">Ishan Gokhale</a></u></h3>
-			Electronics Head 2023-2024<br>
-			Intern at Texas Instruments
-		</center>
-		</p>
-	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/akshat-tubki-6b9b28244/" target="blank">Akshat Tubki</a></u></h3>
 			Project Lead: Spiderbot<br>
+			Intern at AMD Technologies
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/adarsh-gopalakrishnan-748599229/" target="blank">Adarsh Gopalakrishnan</a></u></h3>
 			Project Lead: Spiderbot<br>
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/ninaad-kotasthane-120669272/" target="blank">Ninaad Kotasthane</a></u></h3>
 			Project Lead: Robotic Arm<br>
 		</center>
 		</p>
 	</div>
-
 	<div class="4u 12u$(medium)">
 		<p>
 		<center>
-			<img src="img/people/dhruv_potdar.png" height="75%" width="75%">
+			<img src="img/people/placeholder.jpeg" height="75%" width="75%">
 			<br>
 			<h3><u><a href="https://www.linkedin.com/in/priyanshu-kumar-2b7948222/" target="blank">Priyanshu Kumar</a></u></h3>
 			Project Lead: Gennav ROS2<br>
 		</center>
 		</p>
-	</div> -->
-	
-
+	</div>
 </div>
 
 <hr class="major">
@@ -1674,5 +1720,4 @@ weight: 2
 		</center>
 		</p>
 	</div>
-</div>
 </div>

@@ -117,15 +117,15 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" data-position="center center" />
+			<img src="img/projects/SnakeBot_v1.jpeg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>SnakeBot</h3>
 				</header>
-				<p>Team Lead: Harsh Jain | Hritik Joglekar <br>
-				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
+				<p><strong>Team Lead: Harsh Jain | Hritik Joglekar</strong> <br>
+				Snakebot is a modular, wheel-less robot having universal joints giving a 2 DOF at each joint. The motion is carried out with the help of servos using metallic strings. As of now, we have designed a CAD model. Initially, we will be focusing on straight motion and moving it in the 2D plane. This robot represents a new advancement in the field of robotics. The long-term goal of our project is to implement various snake-like motions such as serpentine, sidewinding, etc., and to enhance friction control of the robot across various terrains.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/SnakeBot" target="blank" class="button">GitHub Repo</a></li>
@@ -136,15 +136,15 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" data-position="center center" />
+			<img src="img/projects/Quadruped_placeholder.png" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Quadruped</h3>
 				</header>
-				<p>Team Lead: Ritwik Sharma | Snigdha <br>
-				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
+				<p><strong>Team Lead: Ritwik Sharma | Snigdha Semwal</strong> <br>
+				Designing and Building a 12 DoF Quadruped from scratch.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ERC-BPGC/quadruped" target="blank" class="button">GitHub Repo</a></li>
@@ -155,18 +155,18 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" data-position="center center" />
+			<img src="img/projects/DroneAuto_Placeholder.png" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Drone Automation</h3>
 				</header>
-				<p>Team Lead: Nayan <br>
-				EchoSLAM is based on the idea of using sound waves to localise a team of robots and help them navigate their environment. It is inspired by previous work like Millibots and MaxelBot, but seeks to extend their functionality by implementing Simultaneous Localization and Mapping (SLAM). The system proposed is potentially cheaper, more compact, and less computationally intensive than alternatives like RADAR, LiDAR etc, thus enabling the creation of large, coordinating, decentralised robots in an economical manner.
+				<p><strong>Team Lead: Nayan Gogari</strong><br>
+				Making an Autonomous Drone with a goal to catch a moving obstacle like a tennis ball.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -174,18 +174,18 @@ weight: 1
 	
 	<section>
 		<a class="image">
-			<img src="img/projects/echoslam.jpg" data-position="center center" />
+			<img src="img/projects/RoboticArm_v2_placeholder_moveo.jpg" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Robotic Arm v2</h3>
 				</header>
-				<p>Team Lead: Ayush Tiwari | Ansh Parmeshwar <br>
-				Robotic Arm v2. 
+				<p><strong>Team Lead: Ayush Tiwari | Ansh Parmeshwar</strong> <br>
+				Building v2 for Robotic Arm Project with 6 degrees of freedom.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/echoslam_ROS" target="blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://github.com/ERC-BPGC/RoboticArm" target="blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -238,11 +238,11 @@ weight: 1
 
 	<section>
 		<a class="image">
-			<!-- <img src="img/projects/swarm_bots_2.jpg" data-position="center center" /> -->
-			<video controls data-position="center center">
+			<img src="img/projects/AirHockey.png" data-position="center center" />
+			<!-- <video controls data-position="center center">
 			<source src="img/projects/AirHockeyDemoQuark.mp4" type="video/mp4">
-			Your browser does not support the video tag.
-			</video>
+			Your browser does not support the video tag. -->
+			<!-- </video> -->
 		</a>
 		<div class="content">
 			<div class="inner">
